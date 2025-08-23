@@ -3,4 +3,5 @@ publish: true
 homepage: true
 ---
 
-![[Lore.base]]
+# Campagne
+[[Cronache di Aelan]]
