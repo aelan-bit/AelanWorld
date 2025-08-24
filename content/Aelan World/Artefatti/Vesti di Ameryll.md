@@ -6,13 +6,12 @@ aliases:
 era: "[[Era dei Draghi]]"
 publish: true
 ---
-
+Indizi dettagliati in [[Oggetti leggendari e creature mitologiche]]
 ## Stivali delle Nuvole
 
 A [[Northbell]] in possesso [[Lord Faust]]
 ## Anello  dell'Indomabile
 ## Guanti  della vittoria
-## Paio stivali  
 ## Collana  della Supremazia
 Nello scontro con [[Bonillikys Notheroris|Bonillikis]] una collana che indossava è scomparsa improvvisamente dopo lo scontro
 ## Bracciale della Fortezza

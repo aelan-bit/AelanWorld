@@ -5,9 +5,21 @@ set -euo pipefail
 PRIVATE_DIR="/mnt/c/Users/dario/Documents/Hobby/DnD/Aelan"
 PUBLIC_CONTENT_DIR="$PWD/content"
 
-# 0) Reset public content (keep the folder itself)
+# 0) Reset public content (keep folder itself), but preserve specific files
 mkdir -p "$PUBLIC_CONTENT_DIR"
-find "$PUBLIC_CONTENT_DIR" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+
+# Files (relative to $PUBLIC_CONTENT_DIR) that must NOT be deleted:
+PRESERVE=( "Change-Log.md" )
+
+if [ ${#PRESERVE[@]} -gt 0 ]; then
+  EXPR=()
+  for n in "${PRESERVE[@]}"; do EXPR+=( -name "$n" -o ); done
+  unset 'EXPR[${#EXPR[@]}-1]' 2>/dev/null || true
+  # Delete everything at top-level except preserved names
+  find "$PUBLIC_CONTENT_DIR" -mindepth 1 -maxdepth 1 ! \( "${EXPR[@]}" \) -exec rm -rf {} +
+else
+  find "$PUBLIC_CONTENT_DIR" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+fi
 
 echo "[1/4] Selecting markdown with publish: true…"
 # Accept true or "true" and list *filenames only*
