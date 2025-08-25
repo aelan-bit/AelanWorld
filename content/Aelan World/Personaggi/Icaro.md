@@ -11,5 +11,4 @@ schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Changeling
-publish: true
 ---

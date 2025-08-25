@@ -6,7 +6,6 @@ schieramento: alleati
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 location: "[[Aithorn]]"
-publish: true
 ---
 L'Enclave di [[Aithorn]], anticamente noto come [[Aithorn|Eldrionna]], è una città situata nel cuore del [[Bosco di Liut]], un luogo carico di storia e misteri. Sotto le sue strade si nascondono le rovine di un'antica civiltà elfica, distrutta millenni fa dall'arcano potere del [[Ruggito di Pietra]] un artefatto magico creato dagli antichi Nani dell'[[Adoratori della Pietra|Ordine della Pietra]]. Questo evento catastrofico portò alla sprofondamento delle città elfiche, con la sola eccezione di [[Waterheaven|Halanìn]], l'odierna [[Waterheaven]].
 

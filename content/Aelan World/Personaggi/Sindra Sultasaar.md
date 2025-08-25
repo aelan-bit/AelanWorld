@@ -7,7 +7,6 @@ schieramento: nemici
 fazioni:
   - "[[Ordine della Dama d'Argento]]"
 location:
-publish: true
 ---
 
 Ha ingannato [[Callen|Callen]] perchè recuperasse un ramo dell'[[Yggdrasil]] per darlo 

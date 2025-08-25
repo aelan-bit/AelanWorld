@@ -1,5 +1,4 @@
 ---
 tags:
   - luoghi
-publish: true
 ---

@@ -1,7 +1,6 @@
 ---
 tags:
   - lore
-publish: true
 ---
 La Grande Guerra è stata un conflitto epico e sanguinoso durato cinquant'anni, che ha insanguinato il continente con il fragore delle armi, scatenato dalla ribellione degli elfi contro la schiavitù imposta dai nani. Questo scontro monumentale è stato innescato dalla profonda disuguaglianza e oppressione che gli elfi hanno subito per secoli, costretti a vivere nelle ombre della [[Dominazione Nanica]].
 

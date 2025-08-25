@@ -5,7 +5,6 @@ aliases:
   - Antico Albero
   - Radici di Yggdrasil
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 Manifestazioni terrene di [[Yggdrasil]]. Mantengono la stabilità del [[Velo]]
 

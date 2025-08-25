@@ -2,7 +2,6 @@
 tags:
   - libri
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Destinatario: Alto Inquisitore [[Thornil Shadowblade]]
 

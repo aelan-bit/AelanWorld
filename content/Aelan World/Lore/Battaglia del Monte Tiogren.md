@@ -2,7 +2,6 @@
 tags:
   - lore
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 [[Ameryll il Grande]] fratello di [[Toryal il Caduto]] era uno degli antichi che insieme a 6 eroi sconfissero il drago [[Toryal il Caduto|Tiamat]] le versioni differiscono sulla fine di del drago
 1- distrutto

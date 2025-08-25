@@ -2,7 +2,6 @@
 tags:
   - artefatti
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Cubi arcani creati da [[Soltras Noctur|Soltras]] per abbattere le barriere magiche a difesa di [[Foltard]]
 

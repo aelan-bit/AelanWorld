@@ -2,7 +2,6 @@
 tags:
   - libri
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Dalla sacra mano di Sua Maestà, Sua Radiosità, [[Imperatrice Shi'larra Alàntar|Imperatrice]] Divina [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]], Prima del Suo Nome, Sovrana degli Elfi, Luminarchessa Celeste, Custode della Luce Immortale, Scudo delle Terre Centrali, Signora delle Foreste Antiche, Fiamma Inestinguibile, Mano della Giustizia Celeste, Condottiera della Luce e l'Architetto dei Lumenquenya questo è il comando che discende.
 

@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Arion Elenion]]"
 era: "[[Era del Risorgimento]]"
-publish: true
 ---
 # La battaglia del lago coronato
 ## Introduzione

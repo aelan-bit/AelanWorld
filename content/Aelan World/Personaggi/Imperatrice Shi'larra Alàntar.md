@@ -15,6 +15,5 @@ specie: Elfo
 location: "[[Waterheaven|Halanìn]]"
 fazioni:
   - "[[Impero Elfico]]"
-publish: true
 ---
 Imperatrice dell'[[Impero Elfico]] e capo della [[Chiesa del Creatore]]. È considerata una semidivinità che ha liberato gli elfi dall'epoca buia di schiavitù sotto la [[Dominazione Nanica]].

@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Alindor Tindril]]"
 era: "[[Era della Dominazione]]"
-publish: true
 ---
 Libro dello storico [[Alindor Tindril]] che suggerisce che la magia del [[Ruggito di Pietra]] sia custodita nelle profondità di [[Aithorn|Eldrionna]]
 

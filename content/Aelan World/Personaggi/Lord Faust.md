@@ -6,5 +6,4 @@ campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 fazioni:
 location: "[[Northbell]]"
-publish: true
 ---

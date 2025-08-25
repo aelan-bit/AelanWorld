@@ -4,7 +4,6 @@ tags:
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: alleati
-publish: true
 ---
 Pirati a bordo della [[Linnaeus]]
 

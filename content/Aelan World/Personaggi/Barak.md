@@ -10,5 +10,4 @@ specie: Nano
 fazioni:
   - "[[Dominazione Nanica|Dwarvendom]]"
   - "[[Impero del Metallo]]"
-publish: true
 ---

@@ -8,5 +8,4 @@ fazioni:
   - "[[Culto del'Antico]]"
   - "[[Tirannia di Foltard]]"
 location:
-publish: true
 ---

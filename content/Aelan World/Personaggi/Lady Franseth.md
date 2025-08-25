@@ -5,7 +5,6 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 specie: Umano
-publish: true
 ---
 # Eventi
 ## Prima Stagione

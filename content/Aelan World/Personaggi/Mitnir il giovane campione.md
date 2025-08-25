@@ -9,5 +9,4 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 specie: Gigante
-publish: true
 ---

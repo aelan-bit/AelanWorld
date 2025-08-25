@@ -6,7 +6,6 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 fazioni:
   - "[[Le Ombre]]"
-publish: true
 ---
 ## Membri
 [[Icaro]]

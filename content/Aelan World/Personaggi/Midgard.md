@@ -9,5 +9,4 @@ schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Umano
-publish: true
 ---

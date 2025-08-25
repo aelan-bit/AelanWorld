@@ -7,6 +7,5 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 specie: Nano
-publish: true
 ---
 Figlio di [[Foran Forgiacalda]] lo abbiamo salvato dal rapimento ben due volte

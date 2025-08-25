@@ -8,7 +8,6 @@ location: "[[Impero Elfico|Elvendom]]"
 schieramento: alleati
 era: "[[Era del Risorgimento]]"
 campagna: "[[Cronache di Aelan]]"
-publish: true
 ---
 Il Culto del [[Creatore]], noto anche come la Chiesa del [[Creatore]], è un'antica istituzione religiosa che venera i nove aspetti divini del [[Creatore]]. Fondata da [[Ameryll il Grande]] il Grande, questa Chiesa ha radici profonde nella società e nella cultura del tuo mondo. 
 

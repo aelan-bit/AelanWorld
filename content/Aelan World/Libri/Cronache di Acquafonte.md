@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Eldran lo storiagrafo]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Annali di [[Acquafonte]] scritti da [[Eldran lo storiagrafo]]
 

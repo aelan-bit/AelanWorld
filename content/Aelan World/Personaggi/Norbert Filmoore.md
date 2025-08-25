@@ -4,7 +4,6 @@ tags:
 aliases:
 schieramento: indefiniti
 specie: Elfo
-publish: true
 ---
 autore di 
 [[Oggetti leggendari e creature mitologiche]]

@@ -6,7 +6,6 @@ aliases:
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
-publish: true
 ---
 Organizzazione Drow che promette di liberare i Drow dal "[[Fato Oscuro]]"
 

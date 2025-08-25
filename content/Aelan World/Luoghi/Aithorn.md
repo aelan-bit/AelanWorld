@@ -4,6 +4,5 @@ tags:
 aliases:
   - Eldrionna
 location: "[[Bosco di Liut]]"
-publish: true
 ---
 Città nanica

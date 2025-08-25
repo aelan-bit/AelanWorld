@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Jahr|Jaar]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 
 ## Bran

@@ -1,7 +1,6 @@
 ---
 tags:
   - campagne
-publish: true
 ---
 # Fazioni
 

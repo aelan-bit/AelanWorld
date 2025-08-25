@@ -7,7 +7,6 @@ aliases:
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
-publish: true
 ---
 La Congrega delle Stelle è un'oscura e misteriosa organizzazione, le cui intenzioni sono avvolte nell'ombra e i cui metodi si rivelano sinistramente tortuosi. Il loro _**simbolo è una Stella a Otto punte**_. Le loro azioni coinvolgono esperimenti magici nefasti e rituali oscuri. Ecco alcune delle attività note della Congrega delle Stelle:
 

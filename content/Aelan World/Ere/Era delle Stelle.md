@@ -3,7 +3,6 @@ tags:
   - era
 aliases:
   - Prima Era
-publish: true
 ---
 Dagli albori della creazione fino al primo regno elfico
 

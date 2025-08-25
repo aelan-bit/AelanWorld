@@ -7,6 +7,5 @@ fazioni:
   - "[[Dominazione Nanica|Dwarvendom]]"
   - "[[Impero del Metallo]]"
 location: "[[Dominazione Nanica|Dwarvendom]]"
-publish: true
 ---
 Antenato della [[Dominazione Nanica]] fondato da [[Barak|Barak Duhurir]] dopo il [[Ruggito di Pietra]]

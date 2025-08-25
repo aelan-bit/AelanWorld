@@ -6,5 +6,4 @@ campagna: "[[Cronache di Aelan]]"
 schieramento: indefiniti
 fazioni:
 location:
-publish: true
 ---

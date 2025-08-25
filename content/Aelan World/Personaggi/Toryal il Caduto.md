@@ -6,7 +6,6 @@ aliases:
   - Tiamat
   - Toryal Mitrasdir
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 Fratello di [[Ameryll il Grande]], provocò la scissione e la guerra civile tra gli elfi
 Nella [[Biblioteca delle Congiunzioni Astrali]] sono raccolte diverse versioni sugli eventi dell'epoca

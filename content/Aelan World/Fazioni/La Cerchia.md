@@ -5,7 +5,6 @@ location: "[[Dominazione Nanica|Dwarvendom]]"
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
-publish: true
 ---
 Organizzazione di Spionaggio della [[Dominazione Nanica]] molto abile nel produrre costrutti. In preparazione dell'assedio di [[Foltard]] hanno ucciso [[Foran Forgiacalda]] e usato costrutti con l'aspetto di [[Fiona]] 
 

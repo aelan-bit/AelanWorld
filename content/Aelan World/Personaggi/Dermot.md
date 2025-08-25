@@ -7,6 +7,5 @@ fazioni:
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 membro della [[Squadra 3]] de [[Le Ombre]]

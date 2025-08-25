@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Gideon Astorius]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 **Eroi o Codardi? La Verità Svelata**
 

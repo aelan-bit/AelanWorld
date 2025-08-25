@@ -4,7 +4,6 @@ tags:
 aliases:
   - Terza Era
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 Dalla fondazione della [[Chiesa del Creatore]] fino alla [[Battaglia del Monte Tiogren]]
 

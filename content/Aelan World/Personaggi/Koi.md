@@ -12,7 +12,6 @@ schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Elfo
-publish: true
 ---
 ## backstory
 

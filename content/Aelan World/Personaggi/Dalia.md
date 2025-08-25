@@ -6,7 +6,6 @@ campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 fazioni:
   - "[[Congrega delle Stelle]]"
-publish: true
 ---
 
 Membro della [[Congrega delle Stelle]]. Era una dei carcerieri di [[Icaro|Icaro]]

@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Alindor Tindril]]"
 era: "[[Era della Dominazione]]"
-publish: true
 ---
 Libro che racconta del crollo dell'[[Impero Elfico]] elfico
 Una leggendaria magia della pietra prodotta da una cerchia di nani, ha fatto sprofondare le città elfiche. Questa leggendaria magia è  nota come il [[Ruggito di Pietra]]. L'unica a sopravvivere è stata l'antica [[Waterheaven|Halanìn]]. Il [[Ruggito di Pietra]] portò la fine degli elfi antichi.

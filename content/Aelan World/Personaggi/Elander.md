@@ -9,6 +9,5 @@ aliases:
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Arcimago del [[Linceo degli Arcani]] di [[Northbell]]. Ci ha assistito nel recuperare gli [[Vesti di Ameryll#Stivali delle Nuvole|Stivali delle nuvole]] e donato un artefatto che ci permette di teleportarci nel suo studio

@@ -6,7 +6,6 @@ tags:
 schieramento: alleati
 era: "[[Era del Risorgimento]]"
 campagna: "[[Cronache di Aelan]]"
-publish: true
 ---
 
 # Personaggi

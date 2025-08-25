@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Lucas Eisborn]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 
 Caro [[Bran]],

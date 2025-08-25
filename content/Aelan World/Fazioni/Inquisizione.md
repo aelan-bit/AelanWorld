@@ -7,7 +7,6 @@ aliases:
 schieramento: alleati
 era: "[[Era del Risorgimento]]"
 campagna: "[[Cronache di Aelan]]"
-publish: true
 ---
 Braccio armato dell'[[Impero Elfico|Impero]]
 

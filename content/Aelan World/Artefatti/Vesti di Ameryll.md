@@ -4,7 +4,6 @@ tags:
 aliases:
   - vesti della divergenza
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 Indizi dettagliati in [[Oggetti leggendari e creature mitologiche]]
 ## Stivali delle Nuvole

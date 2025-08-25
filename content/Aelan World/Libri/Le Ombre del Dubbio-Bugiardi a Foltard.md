@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Gideon Astorius]]"
 era: "[[Era dei Tumulti]]"
-publish: true
 ---
 Mentre il mio inchiostro scorreva sulla pagina, [[Le Ombre]] del Dubbio danzavano sempre più vivide nella mia mente. Incapaci di resistere alla tentazione di scavare nelle gesta dei presunti eroi, iniziai a dettagliare fatti che sembravano sospetti, incongruenti, e che mi facevano dubitare della veridicità delle loro imprese.
 

@@ -3,7 +3,6 @@ tags:
   - libri
 autore: "[[Norbert Filmoore]]"
 era: "[[Era dei Draghi]]"
-publish: true
 ---
 ## Estratto
 "Nel cuore di Aelan, tra le maestose vette delle montagne e sotto il cielo stellato, si nasconde un segreto custodito gelosamente dagli Elfi, un processo di creazione magico e straordinario che ha dato vita ai [[Gioielli di Aelan]]. Questi oggetti unici e irripetibili, forgiati con il potere delle stelle, del sole e della luna, rappresentano il massimo simbolo dell'arte elfica e della connessione tra il mondo terreno e l'astrale.

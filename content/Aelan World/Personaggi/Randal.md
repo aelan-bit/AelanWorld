@@ -10,5 +10,4 @@ schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Mezzelfo
-publish: true
 ---

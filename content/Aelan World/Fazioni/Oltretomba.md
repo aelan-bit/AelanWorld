@@ -4,7 +4,6 @@ tags:
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 schieramento: nemici
-publish: true
 ---
 
 [[Guardiano dell'Abisso]]

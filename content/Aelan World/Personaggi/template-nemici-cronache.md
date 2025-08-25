@@ -7,5 +7,4 @@ schieramento: nemici
 fazioni:
   - "[[Tirannia di Foltard]]"
 location:
-publish: true
 ---

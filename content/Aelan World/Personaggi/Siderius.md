@@ -8,6 +8,5 @@ era: "[[Era delle Stelle]]"
 specie: Dio
 fazioni:
   - "[[Chiesa del Creatore]]"
-publish: true
 ---
 Divinità minore dell'Anima e Desiderio, del Cambiamento della [[Chiesa del Creatore]]

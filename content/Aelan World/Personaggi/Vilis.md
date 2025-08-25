@@ -8,6 +8,5 @@ fazioni:
 specie: Dio
 aliases:
   - Handë
-publish: true
 ---
 Divinità minore del Sapere e della Conoscenza della [[Chiesa del Creatore]]

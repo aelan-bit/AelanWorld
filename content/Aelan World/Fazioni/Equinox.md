@@ -5,6 +5,5 @@ schieramento: alleati
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 location: "[[Foltard]]"
-publish: true
 ---
 Rete di noleggio di calesse ad alta rapidità di [[Foltard]] gestita dal nano [[Uber]] 

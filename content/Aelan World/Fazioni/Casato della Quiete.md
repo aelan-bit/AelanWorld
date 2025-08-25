@@ -9,7 +9,6 @@ era: "[[Era del Risorgimento]]"
 fazioni:
   - "[[Impero Elfico]]"
 campagna: "[[Cronache di Aelan]]"
-publish: true
 ---
 Chiamato la mano sinistra dell'[[Impero Elfico|Impero]] sono degi assassini prezzolati
 

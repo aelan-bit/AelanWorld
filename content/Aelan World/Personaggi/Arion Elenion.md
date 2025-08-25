@@ -5,7 +5,6 @@ fazioni:
   - "[[Impero Elfico]]"
 schieramento: indefiniti
 specie: Elfo
-publish: true
 ---
 Uno degli storici più rinomati del continente. Nato e cresciuto nel cuore dell'[[Impero Elfico]], Elenion ha dedicato la sua vita a raccogliere e documentare gli eventi che hanno segnato la storia del suo popolo.
 

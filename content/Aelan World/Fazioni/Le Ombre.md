@@ -5,7 +5,6 @@ location: "[[Foltard]]"
 schieramento: alleati
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
-publish: true
 ---
 Organizzazione clandestina di [[Foltard]] che ha liberato la città da [[Bonillikys Notheroris]]
 _Simbolo:_ Un rombo contenente un teschio, con sotto di esso un coltello incrociato con una chiave.

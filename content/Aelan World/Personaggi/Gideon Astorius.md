@@ -7,7 +7,6 @@ schieramento: nemici
 fazioni:
   - "[[Dominazione Nanica|Dwarvendom]]"
 location: "[[Foltard]]"
-publish: true
 ---
 Nano autore di libri diffamatori contro la [[squadra 4]]
 

@@ -8,7 +8,6 @@ fazioni:
   - "[[La Cerchia]]"
   - "[[Dominazione Nanica|Dwarvendom]]"
 location:
-publish: true
 ---
 
 Nano che ha comprato un terreno vicino al [[Bosco di Liut]] vicino ad [[Enclave di Aithorn]], ma dove non ha costruito nulla
