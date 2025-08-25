@@ -1,15 +1,34 @@
+# Obsidian runtime state (each collaborator keeps their own)
+content/.obsidian/
+content/.trash/
+.obsidian
+# OS cruft
+content/.DS_Store
+content/Thumbs.db
 .DS_Store
+.vscode
+
+
+# Per-user private areas: ANY folder starting with @ (at any depth) is ignored
+# e.g. content/@dario/private/  or content/fazioni/@alice/draft.md
+content/**/@*/**
+content/@*
+content/**/@*
+
+# Per-note private: suffix-based opt-out
+content/**/*-private.md
+content/**/*.private.md
+
+# Misc noisy dirs that sometimes appear inside notes folders
+content/**/.smart-env/**
+content/**/node_modules/**
+
+
 node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
-.vscode
-content/.obsidian/
-content/@*
-content/**/@*
-content/**/*-private.md
