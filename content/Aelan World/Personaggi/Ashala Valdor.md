@@ -15,13 +15,6 @@ specie: "[[Elfi Puri|Primordiali]]"
 **Razza:** Elfa (250 anni)  
 **Classe:** Barbaro del Path World's Tree  
 **Allineamento:** Caotico Buono  
-**BG:** [[Ashala Valdor background|BG Ashala]]
-
-#personaggi
-#famiglia
-#eventi
-#situazione
-
 ## Origini Familiari e Legame con [[Yggdrassil]]
 
 Ashala Valdor discende dalla [[Casata Valdor]], stirpe di barbari-elfi il cui sangue è intriso dell'energia primordiale di [[Yggdrassil]], l'Albero del Mondo che separa e mantiene in equilibrio i piani dell'esistenza.  
