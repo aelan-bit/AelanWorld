@@ -2,6 +2,7 @@
 aliases:
   - Mastino Rosso
   - Ashala
+  - mastino rosso
 tags:
   - personaggi
 schieramento: eroi
@@ -21,15 +22,11 @@ specie: "[[Elfi Puri|Primordiali]]"
 #eventi
 #situazione
 
----
-
 ## Origini Familiari e Legame con [[Yggdrassil]]
 
 Ashala Valdor discende dalla [[Casata Valdor]], stirpe di barbari-elfi il cui sangue è intriso dell'energia primordiale di [[Yggdrassil]], l'Albero del Mondo che separa e mantiene in equilibrio i piani dell'esistenza.  
 
 Secoli or sono, il patriarca della casata, **Alarion Valdor**, strinse un patto spirituale con l'Albero, garantendo alla sua discendenza poteri straordinari ma anche un pesante fardello: l'energia di Yggdrassil richiede corpi temprati e vigorosi per essere contenuta. Chi non riesce a sostenerla rischia di essere consumato dall'interno.  
-
----
 
 ## Famiglia
 
@@ -37,7 +34,6 @@ Secoli or sono, il patriarca della casata, **Alarion Valdor**, strinse un patto 
 - [[Bryna Valdor|Bryna]], madre, Barbaro del Path of the Totem Warrior *(defunta)*  
 - [[Arielle Valdor|Arielle]], sorella maggiore, Barbaro del Path World's Tree *(defunta)*  
 
----
 
 ## Ruolo e Legami
 
@@ -50,8 +46,6 @@ Dopo la tragedia familiare, il suo mentore e padre sostitutivo è [[Lazzarus Nat
 
 Un patto reciproco di fedeltà e protezione tiene unito il branco.  
 
----
-
 ## Eventi Chiave – La Tragedia Familiare
 
 - **Ferita di [[Arielle Valdor|Arielle]]**: 70 anni fa, durante una spedizione nei Piani Desolati, Arielle viene gravemente ferita e avvelenata da una creatura abissale (braccio destro strappato + veleno).  
@@ -61,8 +55,6 @@ Un patto reciproco di fedeltà e protezione tiene unito il branco.
 - **Autocombustione di [[Arielle Valdor|Arielle]]**: la pozione reagisce al veleno → muore davanti ad Ashala e Bryna.  
 - **Suicidio della madre [[Bryna Valdor|Bryna]]**: sopraffatta dalla colpa, si toglie la vita davanti alla figlia.  
 - **Ascesa forzata**: orfana e unica sopravvissuta, Ashala diventa comandante dei Segugi Selvaggi con Lazzarus al suo fianco come guida.  
-
----
 
 ## Situazione Attuale – Guerra e Vendetta
 
@@ -74,8 +66,6 @@ In tempo di guerra, Ashala guida i Segugi Selvaggi con obiettivi chiari e infles
 - **Recupero della [[Resina di Yggdrassil]]**  
 - **Redenzione dell'onore** della Casata Valdor  
 
----
-
 ## Tratti distintivi
 
 - Capelli rossi attraversati da fili d'argento (segno dello sforzo di contenere Yggdrassil)  
@@ -85,8 +75,6 @@ In tempo di guerra, Ashala guida i Segugi Selvaggi con obiettivi chiari e infles
 - Combattente feroce, istintiva e travolgente  
 - Leadership nata dalla necessità, non dall’ambizione  
 
----
-
 ## Vulnerabilità e Meccanismi di Coping
 
 - **Workaholic compulsiva**: accetta sempre nuove missioni per non affrontare i ricordi  
@@ -94,8 +82,6 @@ In tempo di guerra, Ashala guida i Segugi Selvaggi con obiettivi chiari e infles
 - **Mentalità da “Mastino Rosso”**: affronta il pericolo senza esitazione; i [[Segugi Selvaggi]] sentono il dovere di proteggerla  
 - **Difficoltà a elaborare il dolore**: il senso del dovere le impedisce di mostrare fragilità  
 - **Dipendenza dall’azione**: usa il combattimento e il dovere militare come ancora di salvezza psicologica  
-
----
 
 ## Collegamenti
 
