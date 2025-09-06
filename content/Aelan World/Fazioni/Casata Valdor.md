@@ -1,7 +1,9 @@
 ---
 tags:
-  - organizzazione/alba
-schieramento: Ameryl
+  - fazioni
+schieramento: alleati
+era: "[[Era dei Draghi]]"
+campagna: "[[Alba di Guerra]]"
 ---
 
 
@@ -9,12 +11,8 @@ schieramento: Ameryl
 **Classe tradizionale dei membri:** Barbaro del Path World’s Tree  
 **Regione:** Confini nord-orientali dell’[[Impero Elfico]]  
 
----
-
 ## Origini
 La [[Casata Valdor]] discende da [[Alarion Valdor]], patriarca che secoli fa strinse un patto spirituale con [[Yggdrassil]], l’Albero del Mondo. Questo accordo conferì alla famiglia poteri straordinari, ma anche un pesante fardello: l’energia primordiale di Yggdrassil necessita di corpi forti e spiriti temprati per essere contenuta.  
-
----
 
 ## Membri Principali
 - [[Arden Valdor |Arden]], padre, Barbaro del Path World’s Tree  
@@ -22,19 +20,13 @@ La [[Casata Valdor]] discende da [[Alarion Valdor]], patriarca che secoli fa str
 - [[Arielle Valdor |Arielle]], sorella maggiore, Barbaro del Path World’s Tree  
 - [[Ashala Valdor |Ashala]], figlia minore, Barbaro del Path World’s Tree  
 
----
-
 ## Unità d’élite
 - [[Segugi Selvaggi]], incaricati di proteggere i confini nord-orientali dell’impero e di cacciare le creature dei [[Piani Desolati]]  
 - Lazzarus Nathir, veterano e mentore dei Segugi, sotto il comando di [[Arden Valdor]] e poi di [[Ashala Valdor]]  
 
----
-
 ## Artefatti e Poteri
 - [[Yggdrassil]], fonte di energia primordiale  
 - [[Resina di Yggdrassil]], artefatto sacro custodito dalla casata  
-
----
 
 ## Eventi Chiave
 - Patto di Alarion Valdor con [[Yggdrassil]]  
