@@ -12,7 +12,7 @@ campagna: "[[Alba di Guerra]]"
 **Regione:** Confini nord-orientali dell’[[Impero Elfico]]  
 
 ## Origini
-La [[Casata Valdor]] discende da [[Alarion Valdor]], patriarca che secoli fa strinse un patto spirituale con [[Yggdrassil]], l’Albero del Mondo. Questo accordo conferì alla famiglia poteri straordinari, ma anche un pesante fardello: l’energia primordiale di Yggdrassil necessita di corpi forti e spiriti temprati per essere contenuta.  
+La [[Casata Valdor]] discende da [[Alarion Valdor]], patriarca che secoli fa strinse un patto spirituale con [[Yggdrassil]], l’[[Yggdrasil|Albero del Mondo]]. Questo accordo conferì alla famiglia poteri straordinari, ma anche un pesante fardello: l’energia primordiale di Yggdrassil necessita di corpi forti e spiriti temprati per essere contenuta.  
 
 ## Membri Principali
 - [[Arden Valdor |Arden]], padre, Barbaro del Path World’s Tree  
