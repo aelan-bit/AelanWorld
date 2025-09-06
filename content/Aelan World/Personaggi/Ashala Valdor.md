@@ -32,7 +32,7 @@ Le sorelle Valdor divennero presto le punte di diamante dei [[Segugi Selvaggi]],
 
 ## Le Crepe nella Perfezione
 
-Arielle incarnava tutto ciò che una Valdor doveva essere: potente, luminosa, padrona assoluta della fiamma di Yggdrassil. Ashala, pur sempre competente, viveva costantemente nella sua ombra, accettando il ruolo di sorella minore e protettrice silenziosa.
+Arielle incarnava tutto ciò che una Valdor doveva essere: potente, luminosa, padrona assoluta della fiamma di Yggdrasil. Ashala, pur sempre competente, viveva costantemente nella sua ombra, accettando il ruolo di sorella minore e protettrice silenziosa.
 
 Bryna, unica in famiglia a non condividere il vincolo con l'Albero del Mondo, osservava con crescente inquietudine il dono che tutti veneravano. Le sue preoccupazioni, liquidate come apprensioni eccessive, nascondevano in realtà una lucidità profetica che solo la tragedia avrebbe rivelato.
 
@@ -40,7 +40,7 @@ Bryna, unica in famiglia a non condividere il vincolo con l'Albero del Mondo, os
 
 Settant'anni fa, durante una missione di routine nei Piani Desolati, Arielle fu ferita da una creatura il cui veleno aveva proprietà uniche: corrodeva lentamente il legame con Yggdrassil, innescando un processo inarrestabile verso l'autocombustione.
 
-Per un anno intero, Bryna tentò ogni cura conosciuta. Quando ogni speranza sembrò perduta, i Cultisti della Nuova Via si presentarono con un'offerta: una pozione miracolosa in cambio della sacra **Resina di Yggdrassil**, una delle reliquie più preziose della Casata.
+Per un anno intero, Bryna tentò ogni cura conosciuta. Quando ogni speranza sembrò perduta, i Cultisti della Nuova Via si presentarono con un'offerta: una pozione miracolosa in cambio della sacra [[Resina di Yggdrasil]], una delle reliquie più preziose della Casata.
 
 Accecata dall'amore materno e dalla disperazione, Bryna accettò.
 
@@ -58,9 +58,9 @@ In una sola notte, Ashala perse tutto.
 
 ## L'Angelo Custode Silenzioso
 
-Fu **Lazzarus Nathir**, veterano dei Segugi e secondo in comando dell'unità, a raccogliere i pezzi. Aveva visto crescere le sorelle Valdor e comprendeva meglio di chiunque altro i legami che univano la famiglia. Senza proclami o imposizioni, si fece carico del ruolo di mentore e figura paterna per Ashala.
+Fu [[Lazarus Nathir]], veterano dei Segugi e secondo in comando dell'unità, a raccogliere i pezzi. Aveva visto crescere le sorelle Valdor e comprendeva meglio di chiunque altro i legami che univano la famiglia. Senza proclami o imposizioni, si fece carico del ruolo di mentore e figura paterna per Ashala.
 
-Sotto la sua guida paziente, la giovane sopravvissuta trovò la forza di rialzarsi e assumere il comando dei Segugi Selvaggi. Lazzarus e gli altri cacciatori, compresi il dolore della loro nuova comandante, formarono attorno a lei un muro protettivo. Ma Ashala non si concesse mai il lusso di crollare: antepose sempre il dovere alle ferite del cuore.
+Sotto la sua guida paziente, la giovane sopravvissuta trovò la forza di rialzarsi e assumere il comando dei[[ Segugi Selvaggi]]. Lazzarus e gli altri cacciatori, compresi il dolore della loro nuova comandante, formarono attorno a lei un muro protettivo. Ma Ashala non si concesse mai il lusso di crollare: antepose sempre il dovere alle ferite del cuore.
 
 Nacque così un patto silenzioso di reciproca fedeltà: i Segugi proteggono l'ultima Valdor, mentre lei vive per salvaguardare ogni membro del suo branco, pronta a sacrificarsi pur di non perdere mai più nessuno.
 
