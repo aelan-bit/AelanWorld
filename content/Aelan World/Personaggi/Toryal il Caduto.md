@@ -12,9 +12,9 @@ Nella [[Biblioteca delle Congiunzioni Astrali]] sono raccolte diverse versioni s
 
   
 Nascita di Tiamat 
-1. Diversi millenni fa un demone proveniente da un altro piano dell'esistenza si impadroní di un certo Toryal Mitrasdir, fratello di Ameryll il Grande. Il demone tentò di entrare nel mondo di Aelan per diventare il drago a 5 teste. In seguito creò eserciti di draghi e draconiani. 
+1. Diversi millenni fa un demone proveniente da un altro piano dell'esistenza si impadroní di un certo Toryal Mitrasdir, fratello di [[Ameryll il Grande|Ameryll]] il Grande. Il demone tentò di entrare nel mondo di Aelan per diventare il drago a 5 teste. In seguito creò eserciti di draghi e draconiani. 
 2. Toryal non fu posseduto, ma invocò un'entità da un altro piano che divenne il drago a 5 test etc etc 
-3. Toryal era uno studioso che formulò una maniera per trasformarsi lui stesso nel drago a 5 teste facendosi chiamare Tiamat. Ha anche fatto un viaggio in un piano chiamato Feywild. Questo rituale è stato creato tramite la stele degli antichi, un artefatto perduto scritto in Shìoten la lingua parlata dai precursori. Tramite questo rituale Toryeal avrebbe sbloccato il modo di divenire un essere divino. 
+3. Toryal era uno studioso che formulò una maniera per trasformarsi lui stesso nel drago a 5 teste facendosi chiamare Tiamat. Ha anche fatto un viaggio in un piano chiamato [[Feywild]]. Questo rituale è stato creato tramite la [[Stele degli antichi]], un artefatto perduto scritto in [[Shìoten]] la lingua parlata dai [[Elfi Puri|Precursori]]. Tramite questo rituale Toryeal avrebbe sbloccato il modo di divenire un essere divino. 
 4. Il simbolo di Toryal è un cilindro con un drago dorato avvolto intorno a un cilindro verde
 
 Dalle nostre scoperte di direbbe che Toryal abbia effettivamente usato la [[Stele degli antichi]]

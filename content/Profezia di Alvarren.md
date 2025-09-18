@@ -1,0 +1,1 @@
+Quando il dodicesimo germoglio nascerà dal ventre dorato, verrà iltempo della rinascita e della purezza e il suo destino sarà quello diascendere e portare la pace.
