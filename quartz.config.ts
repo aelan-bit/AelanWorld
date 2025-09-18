@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+// Import della nostra trasformazione custom
+import HelloFence from "./quartz/plugins/custom/HelloFence"
 
 /**
  * Quartz 4 Configuration
@@ -55,7 +57,12 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      // 1) Legge il frontmatter e lo mette in fileData.frontmatter
       Plugin.FrontMatter(),
+      /* 2) QUI il nostro transformer: manipola l'AST markdown *dopo* il frontmatter,
+         ma *prima* che Obsidian/GitHub-Flavored Markdown facciano il loro lavoro.
+      */
+      HelloFence(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
