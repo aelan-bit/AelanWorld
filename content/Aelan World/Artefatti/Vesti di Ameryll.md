@@ -16,9 +16,6 @@ Nello scontro con [[Bonillikys Notheroris|Bonillikis]] una collana che indossava
 ## Bracciale della Fortezza
 ## Tiara del Re  
 
-^59cebc
-
-^771c98
 ### Descrizione e Aspetto
 
 Una sottile corona in argento lunare, impreziosita da un’unica ametista dal taglio ovale. L’ornamento emette un delicato bagliore color lavanda, che aumenta in intensità sotto la luce della luna. L’oggetto riconosce solo il lignaggio elfico (Elfo o Mezzelfo), rimanendo totalmente inerte se tentato di usare da altre razze.

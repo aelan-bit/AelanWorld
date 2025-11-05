@@ -1,1 +1,0 @@
-Un uomo che cammina nel ghiaccio, marchiato da una ferita da cui sgorga la linfa dell'albero

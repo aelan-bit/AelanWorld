@@ -1,6 +1,7 @@
 ---
 aliases:
   - Taulë
+  - Freja
 tags:
   - "#personaggi"
 schieramento: alleati

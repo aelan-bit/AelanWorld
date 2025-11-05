@@ -9,4 +9,4 @@ era: "[[Era delle Stelle]]"
 fazioni:
   - "[[Chiesa del Creatore]]"
 ---
-Divinità della Luce e dell'amore
+Divinità della Luce e dell'amore. Fu la Fiamma dell'Amore e del Perdono, colei che riscalda anche nel dolore.

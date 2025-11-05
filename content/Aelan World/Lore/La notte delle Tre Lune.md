@@ -1,1 +1,1 @@
-Una volta ogni 300 anni circa, si dice che le 3 lune di Aelan si allineino perfettamente, aorendo brevemente il velo trai mondi. L'ultima volta che accadde, nacque un bambino con gli occhi dorati, considerato l'araldo di un'era di cambiamenti.
+Una volta ogni 300 anni circa, si dice che le 3 lune di Aelan si allineino perfettamente, aorendo brevemente il [[Velo]] trai mondi. L'ultima volta che accadde, nacque un bambino con gli occhi dorati, considerato l'araldo di un'era di cambiamenti.

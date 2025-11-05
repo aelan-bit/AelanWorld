@@ -20,7 +20,7 @@ specie: "[[Elfi Puri|Primordiali]]"
 
 ## Il Patto Ancestrale
 
-Nel cuore dell'[[Impero Elfico]], la [[Casata Valdor]] custodisce da secoli un legame di sangue con [[Yggdrasil]], l'Albero del Mondo. Questo patto, forgiato dal patriarca Alarion Valdor in un'epoca ormai leggendaria, conferisce ai suoi discendenti l'accesso a un potere primordiale che è benedizione e maledizione insieme.
+Nel cuore dell'[[Impero Elfico]], la [[Casata Valdor]] custodisce da secoli un legame di sangue con [[Yggdrassil]], l'Albero del Mondo. Questo patto, forgiato dal patriarca Alarion Valdor in un'epoca ormai leggendaria, conferisce ai suoi discendenti l'accesso a un potere primordiale che è benedizione e maledizione insieme.
 
 Il dono brucia nel sangue come fuoco argentato, ma chi non riesce a dominarlo rischia l'autocombustione spontanea. Per generazioni, i Valdor hanno abbracciato questo fardello con orgoglio e disciplina ferrea, trasformando una potenziale condanna in fonte di gloria.
 
