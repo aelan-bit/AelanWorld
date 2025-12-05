@@ -8,6 +8,7 @@ era: "[[Era dei Draghi]]"
 campagna: "[[Alba di Guerra]]"
 fazioni:
   - "[[Impero Elfico]]"
+  - "[[Assaltatori Arcani]]"
 specie: "[[Elfi Puri|Primordiali]]"
 ---
 Blade Singer Wizard

@@ -2,4 +2,4 @@
 tags:
   - artefatti
 ---
-Misteriosa reliquia dell'[[Yggdrassil]] lasciata alla [[Casata Valdor]]
+Misteriosa reliquia dell'[[Yggdrasil]] lasciata alla [[Casata Valdor]]

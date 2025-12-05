@@ -6,7 +6,8 @@ aliases:
 era: "[[Era dei Draghi]]"
 ---
 Dalla fondazione della [[Chiesa del Creatore]] fino alla [[Battaglia del Monte Tiogren]]
-
+Era dei Draghi: La Terza Era. La fondazione della Chiesa dell'Occhio Celeste e la Guerra dei Celestiali. Draghi ancestrali scendono dal cielo o emergono dal profondo. La Chiesa nasce come reazione alla corruzione magica. Si combatte la grande battaglia del Monte
+Tiogren.
 ## Eventi
 Nascita di [[Toryal il Caduto|Tiamat]]
 1-Diversi millenni fa un demone proveniente da un altro piano dell'esistenza si impadroní di un certo [[Toryal il Caduto|Toryal Mitrasdir]], fratello di [[Ameryll il Grande]] il Grande. Il demone tentò di entrare nel mondo di Aelan per diventare il drago a 5 teste. In seguito creò eserciti di draghi e draconiani.

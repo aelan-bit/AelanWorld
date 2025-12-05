@@ -16,5 +16,8 @@ campagna: "[[Cronache di Aelan]]"
 # Organizzazioni
 [[Segugi Selvaggi]]
 [[Assaltatori Arcani]]
+[[Illuminatori Sacri]]
 [[Consiglio di Guerra]]
-[[Nome Compagnia]]
+
+Un elfo che tradisce la Comunione con un inganno o una riserva mentale non viene punito dalla legge, ma dalla comunità stessa: per almeno un anno, nessun altro elfo può
+accettare una sua stretta di mano.

@@ -32,3 +32,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Claude helpers
+content/CLAUDE.md
+
+
+content/Alba di Guerra/Immagini

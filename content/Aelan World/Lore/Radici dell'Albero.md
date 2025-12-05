@@ -6,7 +6,7 @@ aliases:
   - Radici di Yggdrasil
 era: "[[Era dei Draghi]]"
 ---
-Manifestazioni terrene di [[Yggdrassil]]. Mantengono la stabilità del [[Velo]]
+Manifestazioni terrene di [[Yggdrasil]]. Mantengono la stabilità del [[Velo]]
 
 # Radici
 Sotterranei della Chiesa di [[Sheelam]] a [[Foltard]]
