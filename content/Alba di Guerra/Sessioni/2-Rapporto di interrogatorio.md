@@ -4,8 +4,7 @@ tags:
 campagna: "[[Alba di Guerra]]"
 era: "[[Era dei Draghi]]"
 ---
-
-##  – [[Illuminatori Sacri]]
+## – [[Illuminatori Sacri]]
 
 Le celle della guarnigione erano immerse in penombra quando il prigioniero fu condotto davanti al comandante [[Aevalion Pendragon]]. L'aria era carica dell'odore acre delle torce e del silenzio teso di chi attende una confessione. Gli [[Illuminatori Sacri]], celebri per l'arte di piegare la volontà senza bisogno di lame, iniziarono il loro lavoro.
 
