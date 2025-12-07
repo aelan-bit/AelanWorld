@@ -36,7 +36,7 @@ replit.nix
 # Claude helpers
 content/CLAUDE.md
 CLAUDE.md
+.claude/
 
 
 content/Alba di Guerra/Immagini
-.claude/settings.local.json

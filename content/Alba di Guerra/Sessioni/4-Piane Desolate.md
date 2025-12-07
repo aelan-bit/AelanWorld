@@ -1,3 +1,9 @@
+---
+tags:
+  - sessioni/alba
+era: "[[Era dei Draghi]]"
+campagna: "[[Alba di Guerra]]"
+---
 ## La Notte Precedente
 
 Nei preparativi c'era una meccanicità familiare: controllare equipaggiamento, studiare mappe, calcolare razioni. Le stesse cose che avevano fatto mille volte. Ma quella volta non c'era l'eco delle voci dei loro uomini che preparavano lo zaino, non c'era il rumore di armature che si aggiustavano, non ci furono battute nervose prima della partenza.

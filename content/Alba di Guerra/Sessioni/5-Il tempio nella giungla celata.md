@@ -1,3 +1,9 @@
+---
+tags:
+  - sessioni/alba
+era: "[[Era dei Draghi]]"
+campagna: "[[Alba di Guerra]]"
+---
 # L'Ingresso alla Giungla Celata
 
 Dopo la scoperta dell'Alabarda del Crocevia e del monolite nelle [[Piane Desolate]], i tre comandanti ripresero il cammino seguendo le tracce iridescenti del [[Demiurgo-private|Demiurgo]]. L'aura li guidò verso una formazione rocciosa torreggiante, dove una spaccatura nella pietra rivelò un passaggio nascosto che si inoltrava nel cuore dell'altopiano.
