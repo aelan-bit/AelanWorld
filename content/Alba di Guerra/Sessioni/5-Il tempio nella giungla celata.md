@@ -6,7 +6,7 @@ campagna: "[[Alba di Guerra]]"
 ---
 # L'Ingresso alla Giungla Celata
 
-Dopo la scoperta dell'Alabarda del Crocevia e del monolite nelle [[Piane Desolate]], i tre comandanti ripresero il cammino seguendo le tracce iridescenti del [[Demiurgo-private|Demiurgo]]. L'aura li guidò verso una formazione rocciosa torreggiante, dove una spaccatura nella pietra rivelò un passaggio nascosto che si inoltrava nel cuore dell'altopiano.
+Dopo la scoperta dell'Alabarda del Crocevia e del monolite nelle [[Piane Desolate]], i tre comandanti ripresero il cammino seguendo le tracce iridescenti del [[Demiurgo|Demiurgo]]. L'aura li guidò verso una formazione rocciosa torreggiante, dove una spaccatura nella pietra rivelò un passaggio nascosto che si inoltrava nel cuore dell'altopiano.
 
 Attraversando la galleria di roccia, [[Vaerion Ilineth|Vaerion]] notò qualcosa di straordinario: venature di [[Animite]] pura scorrevano direttamente nella roccia stessa, pulsando con una luce soffusa e cristallina. Non era la sostanza corrotta che avevano incontrato altrove - questa emanava una luce celeste, un calore gentile e una sensazione di pace.
 
@@ -92,7 +92,7 @@ Dopo che Vaerion ebbe riferito quanto visto, i comandanti decisero di entrare di
 
 ## Il Grand Murale
 
-Procedendo oltre l'atrio, i comandanti si trovarono di fronte a un secondo murale di proporzioni ancora maggiori: il **Grand Murale del [[Demiurgo-private|Demiurgo]]**. Quest'opera colossale ritraeva una figura radiosa circondata da simboli di varia natura difficili da decifrare.
+Procedendo oltre l'atrio, i comandanti si trovarono di fronte a un secondo murale di proporzioni ancora maggiori: il **Grand Murale del [[Demiurgo|Demiurgo]]**. Quest'opera colossale ritraeva una figura radiosa circondata da simboli di varia natura difficili da decifrare.
 
 # Lo Scontro Interrotto
 
@@ -112,7 +112,7 @@ Questa scoperta scosse profondamente il gruppo, acuendo la sensazione che stesse
 
 ## Tentativi di Comunicazione
 
-Disperatamente motivato comprendere la situazione, [[Vaerion Ilineth|Vaerion]] continuò a gridare appelli che facevano riferimento a [[Gadreel-private|Gadreel]] e alla loro missione. [[Ashala Valdor|Ashala]] menzionò il [[Demiurgo-private|Demiurgo]], sperando di ottenere chiarimenti.
+Disperatamente motivato comprendere la situazione, [[Vaerion Ilineth|Vaerion]] continuò a gridare appelli che facevano riferimento a [[Gadreel|Gadreel]] e alla loro missione. [[Ashala Valdor|Ashala]] menzionò il [[Demiurgo|Demiurgo]], sperando di ottenere chiarimenti.
 
 Ma [[Hecate]] continuò a reagire a questi nomi come ulteriori minacce.
 

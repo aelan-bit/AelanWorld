@@ -7,4 +7,4 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 ---
-Alleata di [[Midgard]] e dei suoi [[Cacciatori di Streghe]] 
+Alleata di [[Midgar]] e dei suoi [[Cacciatori di Streghe]] 

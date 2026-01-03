@@ -6,4 +6,4 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 location: "[[Foltard]]"
 ---
-Traditore dei [[Falchi]] un gruppo di mercenari di cui [[Midgard]] era parte
+Traditore dei [[Falchi]] un gruppo di mercenari di cui [[Midgar]] era parte

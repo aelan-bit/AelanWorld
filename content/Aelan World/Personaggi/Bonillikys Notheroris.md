@@ -7,4 +7,6 @@ schieramento: nemici
 fazioni:
   - "[[Tirannia di Foltard]]"
   - "[[Ordine della Dama d'Argento]]"
+aliases:
+  - Bonillikys
 ---

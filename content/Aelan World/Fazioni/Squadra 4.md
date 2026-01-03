@@ -10,7 +10,7 @@ fazioni:
 ## Membri
 [[Icaro]]
 [[Bran]]
-[[Midgard]]
+[[Midgar]]
 [[Randal]]
 [[Callen]]
 [[Dusk]]

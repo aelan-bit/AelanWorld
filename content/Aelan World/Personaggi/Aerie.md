@@ -5,4 +5,4 @@ schieramento: indefiniti
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 ---
-Donna dei sogni di [[Midgard]]. Sembra sia succube del controllo di [[Liliana]] della [[Congrega delle Stelle]] tramite l'uso di un [[Dala'Har]] a forma di diadema
+Donna dei sogni di [[Midgar]]. Sembra sia succube del controllo di [[Liliana]] della [[Congrega delle Stelle]] tramite l'uso di un [[Dala'Har]] a forma di diadema

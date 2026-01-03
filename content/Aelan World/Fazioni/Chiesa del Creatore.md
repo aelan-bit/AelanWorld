@@ -11,11 +11,11 @@ campagna: "[[Cronache di Aelan]]"
 ---
 Il Culto del [[[[Creatore]]]], noto anche come la Chiesa del [[[[Creatore]]]], è un'antica istituzione religiosa che venera i nove aspetti divini del [[[[Creatore]]]]. Fondata da [[[[Ameryll il Grande]] il Grande]] il Grande, questa Chiesa ha radici profonde nella società e nella cultura del tuo mondo. 
 
-La Chiesa del Creatore, dedicata ad [[Creatore|Ardanithor]], nacque come tentativo di formalizzare il sacro, di ricostruire tramite liturgia, simbolo e gerarchia ciò che era andato perduto nel cuore degli elfi. Ameryll stesso ne fu il primo Sommo, guida spirituale e ultimo Re.
+La Chiesa del Creatore, dedicata ad [[Creatore|Ardanithor]], nacque come tentativo di formalizzare il sacro, di ricostruire tramite liturgia, simbolo e gerarchia ciò che era andato perduto nel cuore degli elfi. [[Ameryll il Grande|Ameryll]] stesso ne fu il primo Sommo, guida spirituale e ultimo Re.
 
-La Chiesa del [[[[Creatore]]]], guidata dall'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] Shi'larra Alàntar|Imperatrice]] degli Elfi, [[[[Imperatrice Shi'larra Alàntar|Imperatrice]] Shi'larra Alàntar|Shi'larra Alàntar]], è un'antica istituzione religiosa che si estende attraverso le terre elfiche e oltre, unificando le comunità di ogni razza in un legame spirituale basato sulla venerazione dei nove aspetti divini del [[[[Creatore]]]]. Fondata da [[[[Ameryll il Grande]] il Grande]] il Grande, l'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] Shi'larra Alàntar|Imperatrice]] è considerata la diretta discendente del fondatore, portatrice della sua eredità spirituale.
+La Chiesa del [[[[Creatore]]]], guidata dall'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]|[[Imperatrice Shi'larra Alàntar|Imperatrice]]]] degli Elfi, [[[[Imperatrice Shi'larra Alàntar|Imperatrice]] [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]|[[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]]], è un'antica istituzione religiosa che si estende attraverso le terre elfiche e oltre, unificando le comunità di ogni razza in un legame spirituale basato sulla venerazione dei nove aspetti divini del [[[[Creatore]]]]. Fondata da [[[[Ameryll il Grande]] il Grande]] il Grande, l'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]|[[Imperatrice Shi'larra Alàntar|Imperatrice]]]] è considerata la diretta discendente del fondatore, portatrice della sua eredità spirituale.
 
-**[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] Shi'larra Alàntar|Imperatrice]] degli Elfi come Capo Spirituale:** L'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] Shi'larra Alàntar|Imperatrice]] degli Elfi, oltre a governare sugli affari temporali dell'Impero Elfo, è riconosciuta come la massima autorità spirituale della Chiesa del [[[[Creatore]]]]. La sua guida ispirata è vista come un segno dell'approvazione divina e dell'unità tra il potere politico e spirituale.
+**[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]|[[Imperatrice Shi'larra Alàntar|Imperatrice]]]] degli Elfi come Capo Spirituale:** L'[[[[Imperatrice Shi'larra Alàntar|Imperatrice]] [[Imperatrice Shi'larra Alàntar|Shi'larra Alàntar]]|[[Imperatrice Shi'larra Alàntar|Imperatrice]]]] degli Elfi, oltre a governare sugli affari temporali dell'Impero Elfo, è riconosciuta come la massima autorità spirituale della Chiesa del [[[[Creatore]]]]. La sua guida ispirata è vista come un segno dell'approvazione divina e dell'unità tra il potere politico e spirituale.
 
 **Gerarchia e Struttura:** La chiesa è gerarchicamente organizzata con chierici e sacerdoti che guidano le comunità locali nelle cerimonie e nelle pratiche spirituali. Alcuni chierici possono essere specificamente dedicati a uno degli aspetti del [[[[Creatore]]]], fungendo da intermediari tra gli dei e i fedeli. 
 
@@ -37,14 +37,14 @@ La Chiesa del [[[[Creatore]]]], guidata dall'[[[[Imperatrice Shi'larra Alàntar|
 - Il [[Creatore]]
     
 - [[Sheelam|Sheelam- Laurë]]. Divinità minore dell'Amore e del Perdono.
-- [[[[Fila]]|[[Fila]] - Taulë]]. Divinità minore della Natura e delle Creazioni
-- [[[[Tallamir]]|Tallamir - Tanalos]]. Divinità minore della Giustizia
-- [[[[Fanuviel]]|Fanuviel - Sairin]]. Divinità minore dell'Arcano e della Magia
-- [[[[Maleesh]]|Maleesh - Tulca]]. Divinità minore del Coraggio e della Forza
-- [[[[Sirexos]]|Sirexos - Sercë]]. Divinità minore del Sangue e della carne
-- [[[[Vilis]]|[[Vilis]] - Handë]]. Divinità minore del Sapere e della Conoscenza
-- [[[[Aspera]]|Aspera - Vehtë]]. Divinità minore della Vita e della Morte
-- [[[[Siderius]]|Siderius - Merë]]. Divinità minore dell'Anima e Desiderio, del Cambiamento
+- [[Fila|Fila - Taulë]]. Divinità minore della Natura e delle Creazioni
+- [[Tallamir|Tallamir - Tanalos]]. Divinità minore della Giustizia
+- [[Fanuviel|Fanuviel - Sairin]]. Divinità minore dell'Arcano e della Magia
+- [[Maleesh|Maleesh - Tulca]]. Divinità minore del Coraggio e della Forza
+- [[Sirexos|Sirexos - Sercë]]. Divinità minore del Sangue e della carne
+- [[Vilis|Vilis - Handë]]. Divinità minore del Sapere e della Conoscenza
+- [[Aspera|Aspera - Vehtë]]. Divinità minore della Vita e della Morte
+- [[Siderius|Siderius - Merë]]. Divinità minore dell'Anima e Desiderio, del Cambiamento
 
 ## Semidei
 - [[Imperatrice Shi'larra Alàntar|Shi'lara]]

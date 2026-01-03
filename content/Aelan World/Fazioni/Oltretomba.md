@@ -9,4 +9,4 @@ schieramento: nemici
 [[Guardiano dell'Abisso]]
 [[Snarla]]
 [[Yaara Noctur]]
-[[Arcimago Corvin]]
+[[@claude/Arcimago Corvin]]

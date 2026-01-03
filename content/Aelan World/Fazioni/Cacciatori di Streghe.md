@@ -8,6 +8,6 @@ campagna: "[[Cronache di Aelan]]"
 Organizzazione creata da [[[[Midgard]]]] per dare la caccia alle [[Congrega delle Stelle|streghe]] della [[Congrega delle Stelle]]
 
 ## Membri
-[[Midgard]]
+[[Midgar]]
 [[Dusk]]
 [[Queen]]

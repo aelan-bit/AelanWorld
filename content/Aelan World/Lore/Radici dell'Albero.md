@@ -10,11 +10,8 @@ Manifestazioni terrene di [[Yggdrasil]]. Mantengono la stabilità del [[Velo]]
 
 # Radici
 Sotterranei della Chiesa di [[Sheelam]] a [[Foltard]]
-### Aerun albero del vento
-Continente del Nord
+### Aerun 
+Noto anche come albero del vento, localizzato nel continente del nord, [[Aesthyr]]
 
 ## Frutto
-
-^6ef99b
-
 Gli alberi possono raramente dare frutti che garantiscono un'abilità equivalente ad un incantesimo di nono livello

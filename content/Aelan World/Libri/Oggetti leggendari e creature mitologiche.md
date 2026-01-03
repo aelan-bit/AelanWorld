@@ -1,4 +1,4 @@
-[[Callen]][[Callen]]---
+[[Callen]][[Callen]][[Callen]]---
 tags:
   - libro
 autore: "[[Norbert Filmoore]]"
@@ -151,7 +151,7 @@ La "Collana della Supremazia" è uno degli artefatti più enigmatici e desiderat
  “Non è stato un caso. Non è stato il caos. La collana è sparita nel momento esatto in cui [[Bonillikys Notheroris]] ha esalato l’ultimo respiro… in mezzo a una nube di fumo nero. Quello non era fumo di battaglia: era una copertura. Io ero con [[Bonillikys Notheroris]] a quel tempo e sono certa che indossasse la collana, ma quando morì e ci avvicinammo al suo corpo non c'era più. Qualcuno è entrato, ha preso ciò che voleva ed è sparito. Io non l’ho visto. Ma c’erano delle persone in quel momento. E qualcuna… sapeva esattamente cosa cercare.”
 ### Possibili responsabili secondo Cassandra
 
-#### [[Callen]], [[Bran]], [[Icaro]], [[Midgard]], [[Randal]]
+#### [[Callen]], [[Bran]], [[Icaro]], [[Midgar]], [[Randal]]
 
 “Erano lì. Erano con me. Erano parte della squadra. Mi fido di loro? Più di chiunque altro. E proprio per questo... non riesco a immaginare uno di loro rubare la collana. O forse non voglio farlo.”
 

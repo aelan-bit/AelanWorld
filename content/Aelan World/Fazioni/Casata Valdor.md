@@ -21,12 +21,12 @@ La [[Casata Valdor]] discende da [[Alarion Valdor]], patriarca che secoli fa str
 - [[Ashala Valdor |Ashala]], figlia minore, Barbaro del Path World’s Tree  
 
 ## Unità d’élite
-- [[Segugi Selvaggi]], incaricati di proteggere i confini nord-orientali dell’impero e di cacciare le creature dei [[Piani Desolati]]  
-- Lazzarus Nathir, veterano e mentore dei Segugi, sotto il comando di [[Arden Valdor]] e poi di [[Ashala Valdor]]  
+- [[Segugi Selvaggi]], incaricati di proteggere i confini nord-orientali dell’impero e di cacciare le creature dei [[Piane Desolate]]
+- [[Lazarus Nathir]], veterano e mentore dei Segugi, sotto il comando di [[Arden Valdor]] e poi di [[Ashala Valdor]]  
 
 ## Artefatti e Poteri
 - [[Yggdrasil]], fonte di energia primordiale  
-- [[Resina di Yggdrassil]], artefatto sacro custodito dalla casata  
+- [[Resina di Yggdrasil]], artefatto sacro custodito dalla casata  
 
 ## Eventi Chiave
 - Patto di Alarion Valdor con [[Yggdrasil]]  

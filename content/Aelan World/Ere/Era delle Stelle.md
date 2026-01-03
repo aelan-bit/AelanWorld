@@ -13,4 +13,4 @@ I [[Elfi Puri|Precursori]]
 3-Secondo la chiesa gli [[Elfi Puri]] sono scomparsi dopo aver usato l'[[Animite]], la forma più pura dell'anima cristallizzata quando una persona muore
 4-Parlavano una lingua perduta mai tradotta chiamata [[Shìoten|Shìoten]]
 
-Dal Primo Canto alla Fondazione di Halanin. La creazione, il canto di Ardanithor, la venuta degli dei, la caduta del Guardiano, la Prima Guerra tra Fratelli, la creazione del Velo e la fondazione della città sacra.
+Dal Primo Canto alla Fondazione di Halanin. La creazione, il canto di [[Creatore|Ardanithor]], la venuta degli dei, la caduta del Guardiano, la Prima Guerra tra Fratelli, la creazione del [[Velo]] e la fondazione della città sacra.

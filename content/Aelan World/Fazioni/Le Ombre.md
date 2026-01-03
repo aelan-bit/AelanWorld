@@ -16,7 +16,7 @@ _Leader:_ **[[Black Fox|Black Fox (Lisbeth Ayndrill)]]:** [[Black Fox]] è una
 _Tre Artigli della Volpe:_
 
 - **Il [[Primo Artiglio]]:** L'identità di questo ufficiale rimane avvolta nel mistero, contribuendo a mantenere un'aura di segretezza attorno alla fazione.
-- **Il [[Isabella|Secondo Artiglio (Isabella Iliathor)]]:** Giovane mezzelfa affidabile e capace, [[Isabella]] ha sostenuto [[Midgard]] nella sua vendetta contro [[Bron]], dimostrando fedeltà e destrezza in campo.
+- **Il [[Isabella|Secondo Artiglio (Isabella Iliathor)]]:** Giovane mezzelfa affidabile e capace, [[Isabella]] ha sostenuto [[Midgar]] nella sua vendetta contro [[Bron]], dimostrando fedeltà e destrezza in campo.
 - **Il [[Vex|Terzo Artiglio (Vex)]]:** Giovane donna umana dal carattere focoso e irascibile, [[Vex]] si distingue per le notevoli capacità combattive. La sua determinazione e il suo talento contribuiscono alla forza della fazione.
 
 _Sottoufficiali:_
