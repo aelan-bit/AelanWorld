@@ -1,3 +1,140 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// D&D Campaign Tag Styling
+// Tag-specific visual differentiation based on content type
+
+// Characters (personaggi) - Brown/Bronze theme
+.tag[data-tag="personaggi"] {
+  background: linear-gradient(135deg, #8B4513, #A0522D);
+  color: #fff;
+  border-left: 4px solid #D2691E;
+  font-weight: 600;
+  position: relative;
+}
+
+.tag[data-tag="personaggi"]:before {
+  content: "👤 ";
+  margin-right: 4px;
+}
+
+// Artifacts (artefatti) - Gold/Magical theme
+.tag[data-tag="artefatti"] {
+  background: linear-gradient(135deg, #FFD700, #FFA500);
+  color: #2c1810;
+  border-left: 4px solid #FF8C00;
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(255, 215, 0, 0.3);
+}
+
+.tag[data-tag="artefatti"]:before {
+  content: "⚔️ ";
+  margin-right: 4px;
+}
+
+// Session notes - Blue/Scroll theme
+.tag[data-tag*="sessioni"] {
+  background: linear-gradient(135deg, #4169E1, #1E90FF);
+  color: #fff;
+  border-left: 4px solid #0000CD;
+  font-weight: 600;
+}
+
+.tag[data-tag*="sessioni"]:before {
+  content: "📖 ";
+  margin-right: 4px;
+}
+
+// Factions (fazioni) - Red/Military theme
+.tag[data-tag="fazioni"] {
+  background: linear-gradient(135deg, #DC143C, #B22222);
+  color: #fff;
+  border-left: 4px solid #8B0000;
+  font-weight: 600;
+}
+
+.tag[data-tag="fazioni"]:before {
+  content: "⚡ ";
+  margin-right: 4px;
+}
+
+// Locations (luoghi) - Green/Nature theme
+.tag[data-tag="luoghi"] {
+  background: linear-gradient(135deg, #228B22, #32CD32);
+  color: #fff;
+  border-left: 4px solid #006400;
+  font-weight: 600;
+}
+
+.tag[data-tag="luoghi"]:before {
+  content: "🏰 ";
+  margin-right: 4px;
+}
+
+// Lore - Purple/Mystical theme
+.tag[data-tag="lore"] {
+  background: linear-gradient(135deg, #663399, #8A2BE2);
+  color: #fff;
+  border-left: 4px solid #4B0082;
+  font-weight: 600;
+}
+
+.tag[data-tag="lore"]:before {
+  content: "📜 ";
+  margin-right: 4px;
+}
+
+// Era/Time periods - Orange/Historical theme
+.tag[data-tag="era"] {
+  background: linear-gradient(135deg, #FF6347, #FF4500);
+  color: #fff;
+  border-left: 4px solid #DC143C;
+  font-weight: 600;
+}
+
+.tag[data-tag="era"]:before {
+  content: "⏳ ";
+  margin-right: 4px;
+}
+
+// Books (libri) - Teal/Knowledge theme
+.tag[data-tag="libri"] {
+  background: linear-gradient(135deg, #20B2AA, #48D1CC);
+  color: #fff;
+  border-left: 4px solid #008B8B;
+  font-weight: 600;
+}
+
+.tag[data-tag="libri"]:before {
+  content: "📚 ";
+  margin-right: 4px;
+}
+
+// Enhanced hover effects for all custom tags
+.tag[data-tag*="personaggi"]:hover,
+.tag[data-tag*="artefatti"]:hover,
+.tag[data-tag*="sessioni"]:hover,
+.tag[data-tag*="fazioni"]:hover,
+.tag[data-tag*="luoghi"]:hover,
+.tag[data-tag*="lore"]:hover,
+.tag[data-tag*="era"]:hover,
+.tag[data-tag*="libri"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+// Tag list container improvements
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 1rem 0;
+}
+
+.tag-list .tag {
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
