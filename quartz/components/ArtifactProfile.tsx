@@ -26,25 +26,25 @@ const ArtifactProfile: QuartzComponent = ({ fileData, displayClass }: QuartzComp
       <div class="artifact-details">
         {proprietario && (
           <div class="detail-item">
-            <strong>Proprietario:</strong> <span>{proprietario}</span>
+            <strong>Proprietario:</strong> <span>{String(proprietario)}</span>
           </div>
         )}
         
         {origine && (
           <div class="detail-item">
-            <strong>Origine:</strong> <span>{origine}</span>
+            <strong>Origine:</strong> <span>{String(origine)}</span>
           </div>
         )}
         
         {era && (
           <div class="detail-item">
-            <strong>Era:</strong> <span>{era}</span>
+            <strong>Era:</strong> <span>{String(era)}</span>
           </div>
         )}
         
         {potere && (
           <div class="detail-item">
-            <strong>Potere:</strong> <span>{potere}</span>
+            <strong>Potere:</strong> <span>{String(potere)}</span>
           </div>
         )}
         
@@ -53,7 +53,7 @@ const ArtifactProfile: QuartzComponent = ({ fileData, displayClass }: QuartzComp
             <strong>Fazioni Collegate:</strong>
             <div class="factions-list">
               {fazioni.map((faction: string, index: number) => (
-                <span key={index} class="faction-badge">{faction}</span>
+                <span key={index} class="faction-badge">{String(faction)}</span>
               ))}
             </div>
           </div>

@@ -26,25 +26,25 @@ const CharacterProfile: QuartzComponent = ({ fileData, displayClass }: QuartzCom
       <div class="character-details">
         {schieramento && (
           <div class="detail-item">
-            <strong>Schieramento:</strong> <span class={`alignment-${schieramento}`}>{schieramento}</span>
+            <strong>Schieramento:</strong> <span class={`alignment-${String(schieramento)}`}>{String(schieramento)}</span>
           </div>
         )}
         
         {specie && (
           <div class="detail-item">
-            <strong>Specie:</strong> <span>{specie}</span>
+            <strong>Specie:</strong> <span>{String(specie)}</span>
           </div>
         )}
         
         {era && (
           <div class="detail-item">
-            <strong>Era:</strong> <span>{era}</span>
+            <strong>Era:</strong> <span>{String(era)}</span>
           </div>
         )}
         
         {campagna && (
           <div class="detail-item">
-            <strong>Campagna:</strong> <span>{campagna}</span>
+            <strong>Campagna:</strong> <span>{String(campagna)}</span>
           </div>
         )}
         
@@ -53,7 +53,7 @@ const CharacterProfile: QuartzComponent = ({ fileData, displayClass }: QuartzCom
             <strong>Fazioni:</strong>
             <div class="factions-list">
               {fazioni.map((faction: string, index: number) => (
-                <span key={index} class="faction-badge">{faction}</span>
+                <span key={index} class="faction-badge">{String(faction)}</span>
               ))}
             </div>
           </div>

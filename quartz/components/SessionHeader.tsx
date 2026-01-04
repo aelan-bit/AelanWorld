@@ -23,14 +23,14 @@ const SessionHeader: QuartzComponent = ({ fileData, displayClass }: QuartzCompon
         <span class="session-icon">📖</span>
         <div class="session-info">
           <h2 class="campaign-title">{campaignType}</h2>
-          {era && <p class="session-era">Ambientata nell'{era}</p>}
+          {era && <p class="session-era">Ambientata nell'{String(era)}</p>}
         </div>
       </div>
       
       <div class="session-metadata">
         {campagna && (
           <div class="metadata-item">
-            <strong>Campagna:</strong> <span>{campagna}</span>
+            <strong>Campagna:</strong> <span>{String(campagna)}</span>
           </div>
         )}
       </div>
