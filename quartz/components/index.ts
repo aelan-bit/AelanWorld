@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import CharacterProfile from "./CharacterProfile"
 import SessionHeader from "./SessionHeader"
 import ArtifactProfile from "./ArtifactProfile"
+import FrontmatterDisplay from "./FrontmatterDisplay"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   CharacterProfile,
   SessionHeader,
   ArtifactProfile,
+  FrontmatterDisplay,
 }
