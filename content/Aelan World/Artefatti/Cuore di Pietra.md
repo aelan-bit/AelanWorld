@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 aliases:
   - Cuore della Pietra
 era: "[[Era della Dominazione]]"

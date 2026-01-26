@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Barak Duhurir
 era: "[[Era della Dominazione]]"

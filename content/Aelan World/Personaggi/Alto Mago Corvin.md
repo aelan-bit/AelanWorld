@@ -4,7 +4,7 @@ aliases:
   - Altomago Corvin
   - Drago Corvin
 tags:
-  - personaggi
+  - personaggio
 schieramento: nemici
 era: "[[Era dei Draghi]]"
 campagna: "[[Alba di Guerra]]"

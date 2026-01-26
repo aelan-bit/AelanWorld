@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 campagna: "[[Cronache di Aelan]]"
 location: "[[Aithorn]]"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Naga
 schieramento: alleati

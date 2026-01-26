@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Vehtë
   - Aesa

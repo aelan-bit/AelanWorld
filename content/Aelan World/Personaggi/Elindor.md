@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 location: "[[Northbell]]"
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"

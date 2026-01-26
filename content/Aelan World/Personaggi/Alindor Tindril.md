@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 fazioni:
   - "[[Impero Elfico]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 aliases:
   - vesti della divergenza
 era: "[[Era dei Draghi]]"

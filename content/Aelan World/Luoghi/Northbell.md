@@ -1,6 +1,6 @@
 ---
 tags:
-  - luoghi
+  - luogo
 ---
 
 Anello esterno- cerchio del popolo

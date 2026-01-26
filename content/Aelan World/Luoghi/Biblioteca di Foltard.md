@@ -1,5 +1,5 @@
 ---
 tags:
-  - luoghi
+  - luogo
 location: "[[Foltard]]"
 ---

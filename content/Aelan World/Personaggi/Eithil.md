@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Squadra 4]]"
 schieramento: alleati

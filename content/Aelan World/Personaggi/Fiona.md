@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 location: "[[Feywild]]"
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"

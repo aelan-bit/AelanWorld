@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 location: "[[Impero Elfico|Elvendom]]"
 aliases:
   - Aldorion Elenion

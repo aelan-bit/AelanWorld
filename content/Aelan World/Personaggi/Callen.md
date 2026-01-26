@@ -3,7 +3,7 @@ aliases:
   - Callen Silvertree
   - Callen Theodore Silvertree
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Squadra 4]]"
   - "[[Le Ombre]]"

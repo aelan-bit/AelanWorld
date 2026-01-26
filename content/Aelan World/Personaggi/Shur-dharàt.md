@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: alleati
 aliases:
   - Saldatrice dei sogni

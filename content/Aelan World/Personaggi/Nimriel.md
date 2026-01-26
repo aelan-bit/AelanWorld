@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Enclave Riflesso di Luna]]"
 schieramento: alleati

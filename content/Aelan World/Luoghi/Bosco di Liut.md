@@ -1,5 +1,5 @@
 ---
 tags:
-  - luoghi
+  - luogo
 ---
 Bosco vicino a [[Foltard]] 

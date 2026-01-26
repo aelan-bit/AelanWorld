@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 aliases:
   - culto del profeta
 era: "[[Era dei Tumulti]]"

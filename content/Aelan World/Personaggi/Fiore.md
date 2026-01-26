@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Le Ombre]]"
   - "[[Società dei Naviganti]]"

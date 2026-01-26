@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Squadra 3]]"
   - "[[Le Ombre]]"

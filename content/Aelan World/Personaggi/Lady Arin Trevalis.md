@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: alleati
 era: "[[Era dei Draghi]]"
 campagna: "[[Alba di Guerra]]"

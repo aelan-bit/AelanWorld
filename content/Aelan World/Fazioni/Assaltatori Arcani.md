@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 location: "[[Impero Elfico|Elvendom]]"
 schieramento: alleati
 era: "[[Era dei Draghi]]"

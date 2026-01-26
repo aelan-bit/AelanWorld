@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Norbert Filmoore]]"
 era: "[[Era dei Draghi]]"
 ---

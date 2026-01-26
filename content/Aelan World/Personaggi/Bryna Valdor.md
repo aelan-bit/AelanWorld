@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Bryna
 schieramento: nemici

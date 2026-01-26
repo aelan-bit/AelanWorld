@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Giganti del sangue d'autunno]]"
 schieramento: alleati

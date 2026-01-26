@@ -4,7 +4,7 @@ aliases:
   - Angelo Caduto  
   - L'Emissario Ingannevole
 tags:
-  - personaggi
+  - personaggio
 schieramento: nemici
 era: "[[Era delle Stelle]]"
 campagna: "[[Alba di Guerra]]"

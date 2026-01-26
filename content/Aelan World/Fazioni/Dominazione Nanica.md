@@ -2,7 +2,7 @@
 aliases:
   - Dwarvendom
 tags:
-  - fazioni
+  - fazione
 schieramento: nemici
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
 schieramento: indefiniti
 specie: Elfo

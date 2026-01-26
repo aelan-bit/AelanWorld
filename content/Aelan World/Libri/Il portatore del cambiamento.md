@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 era: "[[Era del Risorgimento]]"
 ---
 Questo è facilmente comprensibile se si considera che è ormai accertato che la gran parte della cultura moderna discende dalla prima cultura continentale, quella elfica.

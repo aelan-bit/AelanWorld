@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Eldran lo storiagrafo]]"
 era: "[[Era dei Tumulti]]"
 ---

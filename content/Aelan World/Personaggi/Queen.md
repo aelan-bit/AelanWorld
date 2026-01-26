@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Cacciatori di Streghe]]"
 schieramento: alleati

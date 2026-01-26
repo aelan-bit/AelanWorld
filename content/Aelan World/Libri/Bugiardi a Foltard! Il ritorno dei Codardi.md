@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Gideon Astorius]]"
 era: "[[Era dei Tumulti]]"
 ---

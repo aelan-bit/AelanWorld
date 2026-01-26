@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Lucas Eisborn]]"
 era: "[[Era dei Tumulti]]"
 ---

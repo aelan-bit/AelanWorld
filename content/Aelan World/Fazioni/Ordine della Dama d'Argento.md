@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 aliases:
   - Luna Crescente
 era: "[[Era dei Tumulti]]"

@@ -7,7 +7,7 @@ aliases:
   - Shi'larra Alàntar
   - Shi'larra
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 era: "[[Era del Risorgimento]]"
 campagna: "[[Cronache di Aelan]]"

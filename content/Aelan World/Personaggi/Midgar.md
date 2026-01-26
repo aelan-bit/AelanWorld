@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases: []
 fazioni:
   - "[[Squadra 4]]"

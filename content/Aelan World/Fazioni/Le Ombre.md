@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 location: "[[Foltard]]"
 schieramento: alleati
 era: "[[Era dei Tumulti]]"

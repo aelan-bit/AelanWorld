@@ -1,6 +1,6 @@
 ---
 tags:
-  - luoghi
+  - luogo
 aliases:
   - Eldrionna
 location: "[[Bosco di Liut]]"

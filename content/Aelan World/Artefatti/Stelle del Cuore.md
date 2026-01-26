@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 era: "[[Era dei Draghi]]"
 ---
 Rari frammenti celestiali ottenuti dal cielo durante eventi astronomici unici.

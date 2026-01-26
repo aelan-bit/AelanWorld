@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 location: "[[Dominazione Nanica|Dwarvendom]]"
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"

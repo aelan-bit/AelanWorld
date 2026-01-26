@@ -2,7 +2,7 @@
 aliases:
   - Sercë
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 era: "[[Era delle Stelle]]"
 fazioni:

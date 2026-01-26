@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 campagna: "[[Cronache di Aelan]]"
 aliases:
   - Ysir-Taran

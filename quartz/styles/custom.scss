@@ -1,5 +1,14 @@
 @use "./base.scss";
 
+// Self-hosted Zallman Caps font for illuminated initials
+@font-face {
+  font-family: "Zallman Caps";
+  src: url("/static/fonts/zallman-caps.regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 // D&D Campaign Tag Styling
 // Tag-specific visual differentiation based on content type
 
@@ -137,4 +146,50 @@
   font-size: 0.85rem;
   text-decoration: none;
   transition: all 0.3s ease;
+}
+
+// Drop Cap - Illuminated manuscript style for titles using Zallman Caps
+.article-title::first-letter {
+  font-size: 2.5em;
+  font-family: "Zallman Caps", "Uncial Antiqua", serif;
+  font-weight: normal;
+  color: #650015;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  // Reset any inherited effects
+  text-shadow: none;
+  background: none;
+  border: none;
+  -webkit-text-stroke: 0;
+}
+
+// Also apply to content headings (h1, h2)
+article h1::first-letter,
+article h2::first-letter {
+  font-size: 2em;
+  font-family: "Zallman Caps", "Uncial Antiqua", serif;
+  font-weight: normal;
+  color: #650015;
+  line-height: 0.8;
+  padding-right: 0.05em;
+  // Reset any inherited effects
+  text-shadow: none;
+  background: none;
+  border: none;
+  -webkit-text-stroke: 0;
+}
+
+// Links - remove highlight background, just use color
+a.internal {
+  background: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  color: var(--secondary);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--tertiary);
+    background: none !important;
+    background-color: transparent !important;
+  }
 }

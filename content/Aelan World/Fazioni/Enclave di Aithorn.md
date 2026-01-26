@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 aliases:
 schieramento: alleati
 era: "[[Era dei Tumulti]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Aquila Bianca
 era: "[[Era dei Tumulti]]"

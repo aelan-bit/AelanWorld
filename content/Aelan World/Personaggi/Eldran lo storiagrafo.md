@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 specie: Umano
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Elander|Elander Gildenguard]]"
 era: "[[Era dei Tumulti]]"
 ---

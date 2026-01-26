@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Sorella Liliana
 era: "[[Era dei Tumulti]]"

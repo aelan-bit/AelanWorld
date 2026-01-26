@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 location: "[[Bosco di Liut]]"
 schieramento: alleati
 era: "[[Era dei Tumulti]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Alindor Tindril]]"
 era: "[[Era della Dominazione]]"
 ---

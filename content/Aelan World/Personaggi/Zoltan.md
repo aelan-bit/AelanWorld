@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Tirannia di Foltard]]"
 era: "[[Era dei Tumulti]]"

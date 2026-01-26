@@ -1,6 +1,6 @@
 ---
 tags:
-  - luoghi
+  - luogo
 era: "[[Era delle Stelle]]"
 campagna: "[[Alba di Guerra]]"
 location: "Piano Astrale"

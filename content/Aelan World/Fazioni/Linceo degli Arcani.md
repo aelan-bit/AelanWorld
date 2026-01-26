@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 aliases:
   - maghi di Northbell
 location: "[[Northbell]]"

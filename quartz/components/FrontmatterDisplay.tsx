@@ -9,8 +9,8 @@ function stripWikilinks(value: unknown): string {
   return str.replace(/\[\[([^\]|]+)(\|[^\]]+)?\]\]/g, "$1")
 }
 
-// Fields to exclude from display (already shown elsewhere or internal)
-const excludedFields = ["tags", "title", "aliases", "cssclasses", "publish", "draft"]
+// Fields to exclude from display (internal/shown elsewhere)
+const excludedFields = ["title", "aliases", "cssclasses", "publish", "draft"]
 
 const FrontmatterDisplay: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const frontmatter = fileData.frontmatter
@@ -19,17 +19,27 @@ const FrontmatterDisplay: QuartzComponent = ({ fileData, displayClass }: QuartzC
     return null
   }
 
-  // Filter out excluded fields and get displayable entries
+  // Get the primary tag (first tag) for the header
+  const tags = frontmatter.tags as string[] | undefined
+  const primaryTag = tags && tags.length > 0 ? tags[0] : null
+
+  // Filter out excluded fields and tags (tags shown separately as header)
   const displayableEntries = Object.entries(frontmatter).filter(
-    ([key]) => !excludedFields.includes(key)
+    ([key]) => !excludedFields.includes(key) && key !== "tags"
   )
 
-  if (displayableEntries.length === 0) {
+  // Don't show the box if there's nothing to display
+  if (!primaryTag && displayableEntries.length === 0) {
     return null
   }
 
   return (
     <div class={classNames(displayClass, "frontmatter-display")}>
+      {primaryTag && (
+        <div class="frontmatter-type-header">
+          {primaryTag.toUpperCase()}
+        </div>
+      )}
       {displayableEntries.map(([key, value]) => {
         // Handle arrays
         if (Array.isArray(value)) {
@@ -64,6 +74,16 @@ FrontmatterDisplay.css = `
   padding: 0.75rem 1rem;
   margin: 0.5rem 0 1rem 0;
   font-size: 0.9rem;
+}
+
+.frontmatter-type-header {
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--gray);
 }
 
 .frontmatter-item {

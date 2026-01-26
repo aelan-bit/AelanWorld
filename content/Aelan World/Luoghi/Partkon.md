@@ -1,5 +1,5 @@
 ---
 tags:
-  - luoghi
+  - luogo
 ---
 Città del [[Dominazione Nanica|Dwarvendom]]

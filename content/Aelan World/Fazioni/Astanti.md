@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 aliases:
   - Watchers
   - Grigori

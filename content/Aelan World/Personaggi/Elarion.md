@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 era: "[[Era dei Draghi]]"
 fazioni:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Jahr|Jaar]]"
 era: "[[Era dei Tumulti]]"
 ---

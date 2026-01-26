@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 schieramento: alleati
 era: "[[Era dei Draghi]]"
 campagna: "[[Alba di Guerra]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: indefiniti
 era: "[[Era delle Stelle]]"
 campagna: "[[Alba di Guerra]]"

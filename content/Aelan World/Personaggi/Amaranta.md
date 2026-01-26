@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Congrega delle Stelle]]"
 era: "[[Era dei Tumulti]]"

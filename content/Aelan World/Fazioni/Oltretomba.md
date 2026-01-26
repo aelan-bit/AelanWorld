@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 schieramento: nemici

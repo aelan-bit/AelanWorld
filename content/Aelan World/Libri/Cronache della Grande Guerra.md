@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Arion Elenion]]"
 era: "[[Era del Risorgimento]]"
 ---

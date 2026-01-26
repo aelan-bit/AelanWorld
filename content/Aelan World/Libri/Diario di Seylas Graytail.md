@@ -1,6 +1,6 @@
 ---
 tags:
-  - libri
+  - libro
 autore: "[[Seilas Graytail]]"
 era: "[[Era dei Tumulti]]"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 schieramento: eroi
 era: "[[Era dei Draghi]]"
 campagna: "[[Alba di Guerra]]"

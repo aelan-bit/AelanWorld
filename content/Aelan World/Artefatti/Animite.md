@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 aliases:
   - animite pura
   - animite corrotta

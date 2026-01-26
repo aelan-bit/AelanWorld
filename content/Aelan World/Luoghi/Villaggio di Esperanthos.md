@@ -2,5 +2,5 @@
 aliases:
   - Esperanthos
 tags:
-  - luoghi
+  - luogo
 ---

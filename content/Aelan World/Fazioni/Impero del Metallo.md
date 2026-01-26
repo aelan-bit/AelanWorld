@@ -1,6 +1,6 @@
 ---
 tags:
-  - fazioni
+  - fazione
 era: "[[Era della Dominazione]]"
 schieramento: indefiniti
 fazioni:

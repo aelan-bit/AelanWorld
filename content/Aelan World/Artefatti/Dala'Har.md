@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefatti
+  - artefatto
 aliases:
   - Dala’Har
 era: "[[Era dei Tumulti]]"

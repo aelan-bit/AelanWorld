@@ -3,7 +3,7 @@ aliases:
   - Icaro Stropes
   - Brambo
 tags:
-  - personaggi
+  - personaggio
 fazioni:
   - "[[Squadra 4]]"
   - "[[Le Ombre]]"

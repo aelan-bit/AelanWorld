@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 campagna: "[[Alba di Guerra]]"
 fazioni:
   - "[[Impero Elfico]]"

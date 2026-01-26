@@ -1,6 +1,6 @@
 ---
 tags:
-  - luoghi
+  - luogo
 aliases:
   - lago ringwe
 ---

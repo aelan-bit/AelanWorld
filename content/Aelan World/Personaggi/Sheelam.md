@@ -2,7 +2,7 @@
 aliases:
   - Laurë
 tags:
-  - personaggi
+  - personaggio
 schieramento: alleati
 specie: Dio
 era: "[[Era delle Stelle]]"

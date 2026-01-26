@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 location: "[[Foltard]]"
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
