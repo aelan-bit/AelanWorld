@@ -21,10 +21,10 @@ La Congrega delle Stelle è un'oscura e misteriosa organizzazione, le cui intenz
 
 La Congrega delle Stelle emerge come un'organizzazione con una conoscenza profonda della magia oscura e dei rituali arcani. Le loro azioni sono intrise di segreti e misteri, gettando un'ombra minacciosa sulla trama di intrighi che stanno tessendo. La vera portata dei loro obiettivi rimane ancora celata, pronta a svelare il proprio scopo finale in modo inquietante.
 # Membri
-[[Liliana]] capo fazione
-[[Amaranta]]
-[[Dalia]]
-[[Fiorella]]
-[[Margherita]]
-[[Narissa]]
-[[Thorgar il Rosso]]
+- [[Liliana]] capo fazione
+- [[Amaranta]]
+- [[Dalia]]
+- [[Fiorella]]
+- [[Margherita]]
+- [[Narissa]]
+- [[Thorgar il Rosso]]
