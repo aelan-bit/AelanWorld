@@ -142,6 +142,40 @@ content/
 - No `publish: true` frontmatter needed
 - Use `.gitignore` patterns for private content
 
+## Troubleshooting Technical Issues
+
+When features don't work (images, builds, plugins), follow this systematic approach:
+
+### 1. Read Configuration First
+- **Always start**: `Read: quartz.config.ts` to understand current setup
+- Check plugin configurations and their parameters
+- Note baseUrl, ignorePatterns, and plugin order
+
+### 2. Check Official Documentation
+- Search Quartz docs: https://quartz.jzhao.xyz/
+- Read plugin-specific pages (e.g., CrawlLinks, Assets)
+- Use WebFetch on official docs before trying solutions
+
+### 3. Inspect Build Output
+- Check `public/` folder structure matches expectations
+- Verify files are in expected locations with correct names
+- Look for path transformations (e.g., spaces → hyphens)
+
+### 4. One Targeted Fix
+- Identify root cause from config/docs/output
+- Make single, specific change based on understanding
+- Avoid multiple trial-and-error attempts without verification
+
+### Example: Image Display Issues
+```bash
+# Wrong: Try multiple markdown syntaxes randomly
+# Right:
+1. Read quartz.config.ts → find CrawlLinks markdownLinkResolution setting
+2. Check CrawlLinks docs → understand "shortest" vs "relative" vs "absolute"
+3. Check public/ → verify image paths match markdown references
+4. Fix config or markdown to match expected resolution mode
+```
+
 ## Error Recovery
 
 ### Frontmatter Errors
