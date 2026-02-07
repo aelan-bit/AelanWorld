@@ -91,4 +91,4 @@ In aggiunta a ciò, [[Koi]] ha sviluppato un'etica fredda e razionale. Per lui, 
 \-Devozione alla memoria del suo mentore: [[Koi]] conserva un profondo rispetto e devozione per la memoria del suo mentore, il vecchio Inquisitore Thalron, che lo ha guidato nei primi anni della sua carriera e gli ha insegnato molte delle sue abilità e valori.
 \-Compagnia della Protezione: [[Koi]] vive per scelta come un recluso dal resto della societá convinto di non meritare legami personali. Al contrario però vive il legame con la compagnia come la relazione più importante della sua vita, pertanto Shadowblade è per lui la massima autorità dopo l'[[Imperatrice Shi'larra Alàntar]]
 
-![](<../../images/Aelan World/Personaggi/Koi_1.webp>)
+![](../../images/Aelan-World/Personaggi/Koi_1.webp)

@@ -146,8 +146,9 @@ print(output_path.name)
    - Entry: `content/Aelan World/Personaggi/Koi.md`
    - Image: `content/images/Aelan World/Personaggi/Koi_1.webp`
    - Directory depth: Count slashes in `Aelan World/Personaggi/` = 2
-   - Relative path: `../../images/Aelan World/Personaggi/Koi_1.webp`
-   - Formula: `('../' × depth) + 'images/' + {directory_structure} + filename`
+   - Slugified path: `../../images/Aelan-World/Personaggi/Koi_1.webp`
+   - Formula: `('../' × depth) + 'images/' + slugify({directory_structure}) + slugify(filename)`
+   - **CRITICAL**: Slugify by replacing spaces with hyphens (`-`) in both directory path and filename to match Quartz's URL transformation
 
 2. **Determine insertion point** based on $3:
    - `top`: After frontmatter (after closing `---`)
@@ -156,9 +157,10 @@ print(output_path.name)
 
 3. **Create image markdown:**
    ```markdown
-   ![](<../../images/{directory_structure}/{basename}_{counter}.webp>)
+   ![](../../images/{slugified_directory_structure}/{slugified_filename})
    ```
-   - Use angle brackets `< >` to properly handle paths with spaces
+   - Replace all spaces with hyphens in the path to match Quartz's slug transformation
+   - Example: `Aelan World` → `Aelan-World`, `3.32 Il covo` → `3.32-Il-covo`
 
 4. **Insert the line:**
    - Use Edit tool to add the image markdown at the determined location
