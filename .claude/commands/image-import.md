@@ -146,8 +146,9 @@ print(output_path.name)
    - Entry: `content/Aelan World/Personaggi/Koi.md`
    - Image: `content/images/Aelan World/Personaggi/Koi_1.webp`
    - Directory depth: Count slashes in `Aelan World/Personaggi/` = 2
-   - Relative path: `../../images/Aelan World/Personaggi/Koi_1.webp`
+   - Relative path: `../../images/Aelan%20World/Personaggi/Koi_1.webp`
    - Formula: `('../' × depth) + 'images/' + {directory_structure} + filename`
+   - **IMPORTANT**: URL-encode spaces as `%20` in the path for web compatibility
 
 2. **Determine insertion point** based on $3:
    - `top`: After frontmatter (after closing `---`)
@@ -156,8 +157,9 @@ print(output_path.name)
 
 3. **Create image markdown:**
    ```markdown
-   ![](../../images/{directory_structure}/{basename}_{counter}.webp)
+   ![](../../images/{directory_structure_url_encoded}/{basename}_{counter}.webp)
    ```
+   - Replace all spaces with `%20` in the final path
 
 4. **Insert the line:**
    - Use Edit tool to add the image markdown at the determined location
