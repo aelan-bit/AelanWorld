@@ -12,6 +12,7 @@ schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Elfo
+sidebar_image: "../../images/Aelan-World/Personaggi/Koi_1.webp"
 ---
 ## backstory
 

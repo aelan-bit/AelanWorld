@@ -9,7 +9,11 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
 
 - **$1** (required): Path to entry markdown file (e.g., `content/Aelan World/Personaggi/Koi.md`)
 - **$2** (required): Path to source image file
-- **$3** (required): Location - either `top`, `bottom`, or a header name (e.g., `"Informazioni Essenziali"`)
+- **$3** (required): Location - one of:
+  - `sidebar` - Add to right sidebar (via frontmatter `sidebar_image` field)
+  - `top` - Insert at top of content (after frontmatter)
+  - `bottom` - Insert at bottom of content
+  - `"Header Name"` - Insert after specific header (e.g., `"Informazioni Essenziali"`)
 
 ## Your Workflow
 
@@ -20,9 +24,14 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
    - Directory path: `Aelan World/Personaggi/` (everything between `content/` and filename)
    - Filename → extract base name (e.g., `Koi.md` → `Koi`)
 
-2. **Validate:**
+2. **Validate entry file:**
    - Entry file exists
    - Path starts with `content/`
+
+3. **Validate source image extension:**
+   - Extract extension from $2 (case-insensitive)
+   - Supported formats: `.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`, `.tiff`, `.tif`, `.svg`, `.heic`, `.avif`, `.bmp`
+   - If unsupported extension, report error and exit (see Error Handling)
 
 ### Step 2: Determine Output Filename
 
@@ -32,8 +41,9 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
    - Image directory: `content/images/Aelan World/Personaggi/`
 
 2. **List existing images** matching pattern `{basename}_*.webp`
-   - Use Bash: `ls "content/images/{directory_structure}/{basename}_"*.webp 2>/dev/null | sort -V | tail -1`
-   - If command fails (exit code != 0), no existing images found
+   - Use Glob: `content/images/{directory_structure}/{basename}_*.webp`
+   - If no results returned, no existing images found
+   - Extract highest number from results to determine next counter
 
 3. **Calculate counter:**
    - If no existing images: use `_1`
@@ -45,7 +55,22 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
 
 ### Step 3: Optimize Image
 
-**Check for available tools and use the first one found:**
+**First, check if source is already in content/images/:**
+- If source path starts with `content/images/`, it's already optimized
+- Skip to Step 4 using the source file directly (no counter increment needed)
+- Use the source filename as-is for insertion
+
+**Second, check if source is WebP and already optimized size:**
+- If source extension is `.webp`:
+  - Check image dimensions using one of these methods:
+    - Node.js: `node -e "const sharp = require('sharp'); sharp('$2').metadata().then(m => console.log(m.width, m.height));"`
+    - Python: `python -c "from PIL import Image; img = Image.open('$2'); print(img.width, img.height)"`
+  - If both width ≤ 1200 AND height ≤ 1200:
+    - Copy file to output path: `cp "$2" "content/images/{directory_structure}/{basename}_{counter}.webp"`
+    - Skip optimization, proceed to Step 4
+  - Otherwise: Proceed with optimization below (resize needed)
+
+**Otherwise, check for available tools and use the first one found:**
 
 #### Option A: Node.js with Sharp (Primary)
 
@@ -142,40 +167,78 @@ print(output_path.name)
 
 ### Step 4: Insert Image into Entry
 
-1. **Calculate relative path from entry to image:**
+1. **Determine image path to use:**
+   - If source was already in `content/images/`: Use source path directly
+   - Otherwise: Use newly optimized/copied image path from Step 3
+
+2. **Calculate relative path from entry to image:**
+
+   **Example 1 - Same directory depth:**
    - Entry: `content/Aelan World/Personaggi/Koi.md`
    - Image: `content/images/Aelan World/Personaggi/Koi_1.webp`
-   - Directory depth: Count slashes in `Aelan World/Personaggi/` = 2
-   - Slugified path: `../../images/Aelan-World/Personaggi/Koi_1.webp`
-   - Formula: `('../' × depth) + 'images/' + slugify({directory_structure}) + slugify(filename)`
-   - **CRITICAL**: Slugify by replacing spaces with hyphens (`-`) in both directory path and filename to match Quartz's URL transformation
+   - Entry depth (count `/` in `Aelan World/Personaggi/`): 2
+   - Relative path: `../../images/Aelan-World/Personaggi/Koi_1.webp`
 
-2. **Determine insertion point** based on $3:
-   - `top`: After frontmatter (after closing `---`)
-   - `bottom`: At end of file
-   - Header name: After the line containing `# {header_name}` or `## {header_name}`
+   **Example 2 - Cross-directory (faction image in character entry):**
+   - Entry: `content/Aelan World/Personaggi/Koi.md`
+   - Image: `content/images/Fazioni/Impero-Elfico.webp`
+   - Entry depth (count `/` in `Aelan World/Personaggi/`): 2
+   - Relative path: `../../images/Fazioni/Impero-Elfico.webp`
 
-3. **Create image markdown:**
-   ```markdown
-   ![](../../images/{slugified_directory_structure}/{slugified_filename})
-   ```
-   - Replace all spaces with hyphens in the path to match Quartz's slug transformation
-   - Example: `Aelan World` → `Aelan-World`, `3.32 Il covo` → `3.32-Il-covo`
+   **Formula:**
+   1. Extract entry directory structure: everything between `content/` and filename
+      - Example: `content/Aelan World/Personaggi/Koi.md` → `Aelan World/Personaggi/`
+   2. Count directory depth: count `/` or `\` separators in directory structure
+      - Example: `Aelan World/Personaggi/` has 2 separators → depth = 2
+   3. Extract image path relative to `content/`:
+      - Example: `content/images/Fazioni/Impero.webp` → `images/Fazioni/Impero.webp`
+   4. Build relative path: `('../' × depth) + slugify(image_relative_path)`
+      - Example: `../../` + `images/Fazioni/Impero-Elfico.webp`
 
-4. **Insert the line:**
+   **CRITICAL - Slugification:**
+   - Replace spaces with hyphens (`-`) in both directory names and filenames
+   - Example: `Aelan World` → `Aelan-World`, `3.32 Il covo delle streghe.webp` → `3.32-Il-covo-delle-streghe.webp`
+   - This matches Quartz's URL transformation during build
+
+3. **Handle location-specific insertion:**
+
+   **If location is `"sidebar"`:**
+   - Read the entry file frontmatter
+   - Add or update the `sidebar_image` field in frontmatter
+   - Use Edit tool to add/replace: `sidebar_image: "../../images/{slugified_path}"`
+   - Place it after other frontmatter fields, before closing `---`
+   - Do NOT insert markdown in content body
+   - Skip to Step 5
+
+   **If location is `top`, `bottom`, or header name:**
+   - Determine insertion point based on $3:
+     - `top`: After frontmatter (after closing `---`)
+     - `bottom`: At end of file
+     - Header name: After the line containing `# {header_name}` or `## {header_name}`
+   - Create image markdown:
+     ```markdown
+     ![](../../images/{slugified_directory_structure}/{slugified_filename})
+     ```
    - Use Edit tool to add the image markdown at the determined location
    - Add blank line before and after for proper spacing
 
-5. **Handle header insertion:**
+4. **Handle header insertion:**
    - Find the header line (case-insensitive partial match)
    - Insert image on the line immediately after the header
    - If header not found, report error and suggest valid headers from the file
 
 ### Step 5: Minimal Output
 
-Simply confirm success:
+Simply confirm success with location context:
 ```
-✓ Image added to {entry_filename} ({basename}_{counter}.webp)
+# For sidebar location (new image optimized):
+✓ Sidebar image added to {entry_filename} ({basename}_{counter}.webp)
+
+# For content locations (new image optimized):
+✓ Content image added to {entry_filename} ({basename}_{counter}.webp)
+
+# If reusing existing image:
+✓ Image added to {entry_filename} ({existing_filename})
 ```
 
 ## Error Handling
@@ -186,6 +249,10 @@ Simply confirm success:
 
 **Source image not found:**
 - Report: "Source image not found: {path}"
+- Exit
+
+**Unsupported image format:**
+- Report: "Unsupported image format: {extension}. Supported formats: .jpg, .jpeg, .png, .gif, .webp, .tiff, .tif, .svg, .heic, .avif, .bmp"
 - Exit
 
 **Invalid entry path:**
@@ -203,14 +270,29 @@ Simply confirm success:
 ## Examples
 
 ```bash
-# Add image to top of Koi's entry
+# Add NEW image to right sidebar (via frontmatter) - will optimize and convert to WebP
+/image-import "content/Aelan World/Personaggi/Koi.md" "~/Downloads/portrait.jpg" "sidebar"
+
+# Add NEW image to top of content - will optimize
 /image-import "content/Aelan World/Personaggi/Koi.md" "~/Downloads/portrait.jpg" "top"
 
-# Add image to bottom
+# Add NEW image to bottom of content
 /image-import "content/Aelan World/Luoghi/Esperanthos.md" "./castle.png" "bottom"
 
-# Add image after specific header
+# Add NEW image after specific header
 /image-import "content/Aelan World/Personaggi/Kaelen.md" "image.jpg" "Informazioni Essenziali"
+
+# REUSE existing optimized image from same directory - skips optimization
+/image-import "content/Aelan World/Personaggi/Dusk.md" "content/images/Aelan World/Personaggi/Koi_1.webp" "sidebar"
+
+# REUSE image from different directory (e.g., faction symbol on character page)
+/image-import "content/Aelan World/Personaggi/Koi.md" "content/images/Fazioni/Impero-Elfico.webp" "top"
+
+# Add optimized WebP (≤1200px) - just copies without recompression
+/image-import "content/Aelan World/Luoghi/Esperanthos.md" "~/Downloads/castle-1000px.webp" "sidebar"
+
+# Add large WebP (>1200px) - resizes to 1200px max
+/image-import "content/Aelan World/Luoghi/Esperanthos.md" "~/Downloads/castle-4000px.webp" "sidebar"
 ```
 
 ## Implementation Notes
@@ -219,6 +301,12 @@ Simply confirm success:
 - **Create directories** if they don't exist: `content/images/{directory_structure}/`
 - **Images in content/images/** mirror the content structure and are tracked in git
 - **Use relative paths** so images work in both Obsidian and published site
+- **Cross-directory support**: Calculate relative paths correctly from any entry to any image location
+- **Format validation**: Check file extension before processing, reject unsupported formats early
+- **Smart WebP handling**:
+  - If already in `content/images/`: Skip all processing
+  - If WebP ≤1200px: Copy without recompression
+  - If WebP >1200px or other format: Optimize and resize
 - **Be case-insensitive** when matching headers
 - **Preserve formatting** - don't alter other parts of the entry
 - **No verbose output** - just confirm the action completed

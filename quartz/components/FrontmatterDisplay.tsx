@@ -10,7 +10,7 @@ function stripWikilinks(value: unknown): string {
 }
 
 // Fields to exclude from display (internal/shown elsewhere)
-const excludedFields = ["title", "aliases", "cssclasses", "publish", "draft"]
+const excludedFields = ["title", "aliases", "cssclasses", "publish", "draft", "sidebar_image"]
 
 const FrontmatterDisplay: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const frontmatter = fileData.frontmatter

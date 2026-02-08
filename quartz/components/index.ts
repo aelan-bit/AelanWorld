@@ -27,6 +27,7 @@ import CharacterProfile from "./CharacterProfile"
 import SessionHeader from "./SessionHeader"
 import ArtifactProfile from "./ArtifactProfile"
 import FrontmatterDisplay from "./FrontmatterDisplay"
+import SidebarImage from "./SidebarImage"
 
 export {
   ArticleTitle,
@@ -58,4 +59,5 @@ export {
   SessionHeader,
   ArtifactProfile,
   FrontmatterDisplay,
+  SidebarImage,
 }

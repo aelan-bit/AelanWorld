@@ -46,6 +46,26 @@ npm run docs
 - **Alba di Guerra**: `N-Title.md` (e.g., `1-Ombre ad Esperanthos.md`)
 - **Cronache di Aelan**: `#.##-Title.md` (e.g., `2.06-L'enigma delle lingue.md`)
 
+### Image Management
+Use `/image-import` agent for all image operations:
+
+**Content Images** (inline in markdown):
+- `/image-import "entry.md" "image.jpg" "top"` - Add after frontmatter
+- `/image-import "entry.md" "image.jpg" "bottom"` - Add at end
+- `/image-import "entry.md" "image.jpg" "Header Name"` - Add after specific header
+
+**Sidebar Images** (right sidebar display):
+- `/image-import "entry.md" "image.jpg" "sidebar"` - Adds to frontmatter as `sidebar_image` field
+- Displayed by `SidebarImage` component in right sidebar (above Graph)
+- Hidden from frontmatter display box
+- Only appears on pages with `sidebar_image` field set
+
+**Technical Details:**
+- Images stored in `content/images/` mirroring content structure
+- Automatically optimized to WebP (1200px max, 85% quality)
+- Paths auto-slugified for web (spaces → hyphens)
+- Works in both Obsidian and published site
+
 ## Content Creation Workflows
 
 ### Entry Creation Process
@@ -142,6 +162,105 @@ content/
 - No `publish: true` frontmatter needed
 - Use `.gitignore` patterns for private content
 
+## Quartz Architecture & Configuration
+
+### Page Layout Structure
+
+**Three-column layout:**
+- **Left sidebar** (`left: []` in quartz.layout.ts): Explorer (file tree navigation)
+- **Center pane** (`beforeBody`, `pageBody`): Tags/metadata at top, markdown content below
+- **Right sidebar** (`right: []` in quartz.layout.ts): Components stacked vertically
+  - Order: SidebarImage → Graph → TableOfContents → Backlinks
+
+### Configuration Files
+
+**quartz.config.ts** - Core settings:
+- `configuration.baseUrl`: Deployment URL
+- `plugins.transformers`: Content processing pipeline (FrontMatter, ObsidianFlavoredMarkdown, etc.)
+- `plugins.emitters`: Output generators (Assets, ContentPage, etc.)
+- **Critical setting**: `Plugin.CrawlLinks({ markdownLinkResolution: "relative" })`
+  - Must match how image paths are written in markdown
+  - Options: "shortest" (filename only), "relative" (../../paths), "absolute" (/from-root)
+
+**quartz.layout.ts** - Page layouts:
+- `sharedPageComponents`: Shared across all pages (head, header, footer)
+- `defaultContentPageLayout`: Single pages (characters, locations, etc.)
+- `defaultListPageLayout`: List pages (tags, folders)
+- Modify `left` and `right` arrays to change sidebar components
+
+### Component System
+
+**Creating components:**
+1. Create `.tsx` file in `quartz/components/`
+2. Export in `quartz/components/index.ts`
+3. Add to layout in `quartz.layout.ts`
+
+**Component structure:**
+```tsx
+const MyComponent: QuartzComponent = ({ fileData, displayClass }) => {
+  const frontmatter = fileData.frontmatter
+  // Conditional rendering based on frontmatter
+  if (!frontmatter?.my_field) return null
+
+  return <div class={classNames(displayClass, "my-component")}>...</div>
+}
+
+MyComponent.css = `
+.my-component {
+  /* Inline CSS */
+}
+`
+
+export default (() => MyComponent) satisfies QuartzComponentConstructor
+```
+
+**Key components:**
+- `FrontmatterDisplay.tsx`: Shows metadata box (exclude fields via `excludedFields` array)
+- `SidebarImage.tsx`: Shows `sidebar_image` from frontmatter in right sidebar
+- `CharacterProfile.tsx`, `ArtifactProfile.tsx`: Custom profile components (currently unused)
+
+### Image Handling (Critical)
+
+**Path transformation:**
+- File system: `content/images/Aelan World/Personaggi/Koi_1.webp`
+- Build output: `public/images/Aelan-World/Personaggi/Koi_1.webp`
+- Markdown must reference: `../../images/Aelan-World/Personaggi/Koi_1.webp`
+- **Rule**: Slugify paths (spaces → hyphens) in markdown to match build output
+
+**Plugin interaction:**
+- `Assets` plugin: Copies static files from `content/` to `public/`
+- `CrawlLinks` plugin: Resolves image paths based on `markdownLinkResolution` setting
+- Mismatch between these causes images not to display
+
+### Frontmatter Fields
+
+**Standard fields:**
+- `tags`: Array, determines content type
+- `aliases`: Array, alternative names for wikilinks
+- `title`, `description`: Metadata
+
+**Custom fields:**
+- `sidebar_image`: Path to image for right sidebar (excluded from FrontmatterDisplay)
+- `location`, `era`, `campagna`, `fazioni`, `specie`, `schieramento`: Domain-specific metadata
+
+**Adding new fields:**
+1. Add to frontmatter in markdown
+2. Optionally exclude from display in `FrontmatterDisplay.tsx` (`excludedFields`)
+3. Read in custom component if needed
+
+### Build Process
+
+**Commands:**
+- `npx quartz build`: Production build → `public/`
+- `npx quartz build --serve`: Dev server with hot reload
+- Generated files in `public/` are gitignored
+- Only source files in `content/` are tracked
+
+**Path slugification happens during build:**
+- Directory names: `Aelan World` → `Aelan-World`
+- File names: `3.32 Il covo delle streghe.md` → `3.32-Il-covo-delle-streghe.html`
+- All markdown references must account for this transformation
+
 ## Troubleshooting Technical Issues
 
 When features don't work (images, builds, plugins), follow this systematic approach:
@@ -203,3 +322,4 @@ When features don't work (images, builds, plugins), follow this systematic appro
 - Lead character entries with most compelling trait, not chronology
 - Group content thematically, not chronologically
 - Hook readers immediately with significance to overall story
+- **No emoji**: Do not use emoji in content, components, or UI elements
