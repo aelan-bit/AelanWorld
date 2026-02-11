@@ -13,6 +13,7 @@ schieramento: eroi
 campagna: "[[Cronache di Aelan]]"
 specie: Drow
 location: "[[Foltard]]"
+sidebar_image: "../../images/Aelan-World/Personaggi/Callen_1.webp"
 ---
 
 Figlio del nemico giurato, custode della memoria dell'antico popolo, e portatore di una scaglia del primo dei Draghi—Callen Silvertree è l'eroe che ha scoperto di avere il sangue dell'antagonista nelle vene, e che nonostante questo ha scelto di combattere per la luce.
