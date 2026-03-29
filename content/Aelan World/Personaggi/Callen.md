@@ -52,7 +52,7 @@ Quattro radici dell'[[Yggdrasil]] attendono la sua guarigione: una a [[Foltard]]
 
 **[[Cassandra]]** — Una donna misteriosa con cui Callen condivide un legame complesso. Appare in visioni, lo abbandona, poi ritorna—lasciando sempre dietro di sé informazioni cruciali e più domande che risposte.
 
-**[[Eithil]]** — Il drago che lo accompagna, portatore della scaglia variopinta del Drago di Platino. Durante il rituale nel tempio, Callen ha trasferito il potere dei suoi guanti della [[Gemma Terrestre]] alla scaglia di Eithil, donandogli la capacità di incanalare l'energia della terra.
+**[[Etyl]]** — Il drago che lo accompagna, portatore della scaglia variopinta del Drago di Platino. Durante il rituale nel tempio, Callen ha trasferito il potere dei suoi guanti della [[Gemma Terrestre]] alla scaglia di Etyl, donandogli la capacità di incanalare l'energia della terra.
 
 ## I Fratelli d'Arme
 
@@ -68,7 +68,7 @@ Nella [[Squadra 4]], Callen ha trovato la famiglia che il destino gli aveva nega
 
 Al centro del tempio sotterraneo, Callen ha compiuto un rituale che ha segnato la sua ascesa come guardiano. Pregando alla dea Fila e sacrificando il proprio sangue, la pietra elementale si è trasformata in guanti d'argilla—un dono divino che gli ha permesso di toccare la [[Gemma Terrestre]] e viaggiare brevemente in una dimensione di pietra infinita.
 
-Nel laghetto sacro, la voce di Fila gli ha mostrato una mappa con la posizione delle quattro radici da guarire. E quando ha trasferito il potere dei guanti alla scaglia di [[Eithil]], ha compiuto il primo passo del rituale che un giorno potrebbe salvare l'[[Yggdrasil|Albero della Vita]].
+Nel laghetto sacro, la voce di Fila gli ha mostrato una mappa con la posizione delle quattro radici da guarire. E quando ha trasferito il potere dei guanti alla scaglia di [[Etyl]], ha compiuto il primo passo del rituale che un giorno potrebbe salvare l'[[Yggdrasil|Albero della Vita]].
 
 *"Continua a camminare, anche se il sentiero è duro. Tu sei scudo, sei seme, sei radice."* ([[Fila]], al suo servitore fedele)
 

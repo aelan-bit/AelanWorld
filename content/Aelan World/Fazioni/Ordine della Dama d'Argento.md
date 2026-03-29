@@ -7,7 +7,7 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 ---
-Organizzazione Drow che promette di liberare i Drow dal "[[Fato Oscuro]]"
+Organizzazione Drow che opera nel nome della [[Dama d'Argento]], promettendo di liberare il popolo dal [[Fato Oscuro]]. La promessa è antica quanto il patto originale tra la Dama e i Drow — e rimane, fino ad oggi, non mantenuta nella sua parte più importante.
 
 ## Membri
 [[Bonillikys Notheroris]]

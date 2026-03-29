@@ -50,12 +50,14 @@ La genialità di Soltras risiedeva in questo: ogni alleato conosceva solo la *su
 ## Dal Redentore al Corruttore
 
 ### Il Mago Idealista
-Un tempo, Soltras era stato un talentuoso **mago drow** che si era avventurato sulla superficie mosso da una nobile missione: trovare una cura per il **"[[Fato Oscuro]]"**, una maledizione che affliggeva la sua gente. Divenne famoso per le sue capacità magiche e la sua incrollabile determinazione nel cercare redenzione per la sua razza.
+Un tempo, Soltras era stato un talentuoso **mago drow** che si era avventurato sulla superficie mosso da una nobile missione: trovare una cura per il **[[Fato Oscuro]]**, una maledizione che affliggeva la sua gente. Divenne famoso per le sue capacità magiche e la sua incrollabile determinazione nel cercare redenzione per la sua razza.
+
+Ma la ricerca lo portò anche a una verità difficile da accettare: nessuno, in tutto il cosmo, aveva mai fatto nulla di concreto per i Drow. Le divinità non rispondevano. La [[Dama d'Argento]] aveva promesso liberazione — aveva spezzato il vincolo con il demone — ma il [[Fato Oscuro]] era rimasto, immutato, come se la seconda promessa non fosse mai stata pronunciata. Soltras capì, o credette di capire, che attendere un salvatore esterno era una trappola. Chi voleva salvare il suo popolo doveva farlo da solo, con i propri mezzi, al di fuori di qualunque ordine cosmico.
 
 ### La Caduta
-Ma durante la sua permanenza nel mondo di superficie, **qualcosa lo distrusse dall'interno**. Le esatte circostanze della sua corruzione rimangono avvolte nel mistero, ma lo trasformarono da un mago idealista in un manipolatore spietato ossessionato dal controllo delle forze antiche che un tempo aveva cercato di comprendere per scopi nobili.
+Fu questa convinzione — non la debolezza, ma la lucidità portata all'estremo — a trasformarlo. **Qualcosa lo distrusse dall'interno** durante la sua permanenza nel mondo di superficie: le esatte circostanze della sua corruzione rimangono avvolte nel mistero, ma lo trasformarono da un mago idealista in un manipolatore spietato ossessionato dal controllo delle forze antiche che un tempo aveva cercato di comprendere per scopi nobili.
 
-La sua ricerca originale per curare il [[Fato Oscuro]] si trasformò in una sete di potere per *dominarlo*. L'idealista che voleva salvare la sua gente divenne il profeta che voleva risvegliare "il guardiano" - un'entità di potere antico e terrificante.
+La sua ricerca originale per *liberare* il popolo dal [[Fato Oscuro]] si trasformò in una sete di potere per *dominarlo*. L'idealista che voleva salvare la sua gente divenne il profeta che voleva risvegliare "il guardiano" - un'entità di potere antico e terrificante.
 
 ## Il Piano Supremo
 
