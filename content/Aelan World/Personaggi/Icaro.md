@@ -26,7 +26,7 @@ Icaro crebbe nel quartiere dei changeling di [[Solaris]], nel Feywild, in un'epo
 
 Sua sorella [[Fiona]], quattro anni più grande, era la sua bussola. Gli aveva insegnato a leggere, ad allacciarsi le scarpe, a muoversi nel mondo con una naturalezza che lui non avrebbe mai posseduto del tutto. Fiona aveva preso dal padre la socievolezza e dalla madre il dono per la musica, e si muoveva tra le decisioni della vita con una facilità che Icaro osservava con ammirazione mista a malinconia.
 
-All'Accademia la perdizione divenne ufficiale. Le discipline di Quandrix non rispondevano alla sua magia — o meglio, la sua magia non rispondeva a Quandrix. La fonte arcana di Icaro aveva una forma irregolare che i testi non descrivevano. Il Maestro [[Ianus Corteys]] fu il primo ad accorgersene, e il primo a trattarlo come un problema da risolvere invece che come un difetto da sopportare.
+All'Accademia il suo smarrimento divenne ancora più oberante. Le discipline di Quandrix non rispondevano alla sua magia — o meglio, la sua magia non rispondeva a Quandrix. La fonte arcana di Icaro aveva una forma irregolare che i testi non descrivevano. Il Maestro [[Ianus Corteys]] fu il primo ad accorgersene, e il primo a trattarlo come un problema da risolvere invece che come un difetto da sopportare.
 
 ## La Porta Rubata
 
@@ -119,3 +119,43 @@ Tornato tra le [[Le Ombre]], Icaro non agisce più con loro per necessità. Ha v
 Adesso che ha riacquistato i suoi poteri e i suoi alleati, vuole fare qualcosa di diverso: proteggere gli altri da questo meccanismo. Non le singole battaglie, non i singoli oppressori — il meccanismo stesso. Forse si potrebbe fare qualcosa per il [[Velo]], per dargli il potere di proteggere i mortali dagli interventi degli antichi. Non sa se sia possibile. Non sa come. Ne parla apertamente, senza piani e senza la pretesa di convincere nessuno. È solo la cosa verso cui sente di dover camminare.
 
 *La Dama ha chiuso il suo file su di lui. Per ora.*
+
+---
+
+## Tratti Caratteriali
+
+### Il gruppo come bussola
+Icaro crede empiricamente che la sopravvivenza sia collettiva. Ogni momento in cui ha perso la libertà — il castello, il monastero, i dieci anni con la Dama — era solo. Ogni momento in cui l'ha ritrovata, qualcuno era con lui.
+
+**Espressione**
+In gioco si esprime come generosità genuina e istinto protettivo verso i compagni. Sul campo la priorità di Icaro è prevenire che qualcosa di male succeda al suo gruppo, ogni pericolo deve essere messo sotto controllo.
+
+**Difetto**
+Essere considerato parte del gruppo è in sé e per sé una compulsione, che lo porta a farsi coinvolgere in qualsiasi situazione dove pensa di poter fare la differenza. Una disputa tra gilde? Un furto al mercato? Icaro istintivamente vorrebbe fare la differenza, ma la squadra SOS non ha il lusso del tempo e non può farsi coinvolgere in ogni piccolo problema incontrato sul cammino.
+
+### Lo smarrimento identitario
+Icaro non ha mai avuto un punto fermo interno. In famiglia navigava nell'ombra di genitori amatissimi, all'Accademia la sua magia non aveva la forma giusta, nei dieci anni con la Dama era sempre qualcun altro — letteralmente.
+
+**Espressione**
+Assorbe inconsapevolmente le abitudini, le espressioni e i ritmi delle persone con cui passa del tempo. È un'adattabilità inconsapevole, che porta Icaro ad imitare instintivamente l'ambiente circostante.
+
+**Difetto**
+Anche tra i compagni l'istinto non si spegne. Chi lo frequenta abbastanza a lungo può ritrovarsi a fissarlo mentre usa le sue stesse espressioni, gli stessi gesti. Il disagio che segue è comprensibile: è difficile sapere se stia davvero ascoltando, o stia semplicemente riflettendo. Per qualcuno che ha dedicato la vita a essere qualcun altro, la genuinità è la cosa più difficile da dimostrare — e il suo stesso corpo lavora contro di lui.
+
+### La direzione degli altri
+Andò all'Accademia perché lo convinsero i suoi genitori — e lì incontrò il Maestro Ianus, l'unico che riconobbe il suo talento. Le Ombre gli diedero una famiglia, una causa e l'opportunità di salvare [[Fiona]]. Quando invece si fidò di [[Liliana]], solo ed esausto, finì al monastero. Quando andò con la [[Dama d'Argento]] convinto di fare una scelta libera senza l'aiuto del gruppo, perse dieci anni. Ha imparato a distinguere due cose: sa che è in grado di risolvere gli ostacoli lungo il percorso, ma non si fida di scegliere la direzione da percorrere.
+
+**Espressione**
+Nei momenti di decisione collettiva, ascolta, osserva e aspetta. Non è passività — ritiene genuinamente il giudizio degli altri più affidabile del proprio quando si tratta di stabilire dove andare. Sul campo è il primo a muoversi quando qualcuno è in difficoltà. Sulle grandi scelte, preferisce seguire.
+
+**Difetto**
+Se il gruppo gli chiede esplicitamente di rompere un pareggio, tira la moneta. Preferisce il caso alla propria bussola. La moneta viene dal Feywild, sottratta durante una missione per la Dama non perché fosse un obiettivo, ma perché non ha saputo resistere. Era un ricordo di casa. È il primo oggetto che ha scelto per sé stesso in dieci anni, per capriccio e non per utilità. Che sia finita a fare da arbitro per tutto il resto è una cosa su cui Icaro sorride, senza approfondire.
+
+### La causa dei mortali
+Ha incontrato abbastanza entità superiori da capire una cosa: non hanno nulla a che fare con i mortali e non hanno idea dei loro problemi. La visione del drago a cinque teste alla Radice, le rivelazioni della [[Naga Guardiana]] — nessuna di queste profezie lo aveva aiutato a risolvere nulla. Al contrario: lo avevano condizionato a credere che forze più grandi di lui stessero muovendo i fili, che ci fosse un disegno. E quando l'emissario della [[Dama d'Argento]] gli fece la sua proposta, quella stessa logica lo rese disponibile ad accettarla. L'[[Arcani|Arcano]] che lo strappò di casa, la Dama che lo usò per dieci anni — non erano nemici, erano forze che operavano a una scala in cui lui non era nemmeno visibile. Fantastica spesso su un mondo in cui i mortali potessero schermarsi da tutto questo. Non sa se sia possibile, non sa come. Ma il sollievo che gli porta quel pensiero è abbastanza grande da tornarci sopra.
+
+**Espressione**
+Non prega gli dei né li disprezza. Non critica chi sceglie di affidarsi a loro — è una scelta personale e la rispetta come tale. Ma per lui sono esseri che operano alla scala della Dama, non alla sua, e non gli interessa rimanerne invischiato. I loro piani, i loro favori, le loro visioni appartengono a un tavolo a cui lui non si siede.
+
+**Difetto**
+Ha accesso a magie di divinazione ma si rifiuta di usare quelle che richiedono di consultare esseri superiori. Se ricevesse una visione, la ignorerebbe. Non è cecità — è una scelta deliberata. Il costo è che a volte il gruppo navigherà senza informazioni che erano disponibili, perché la fonte aveva il tipo sbagliato di origine per Icaro.
