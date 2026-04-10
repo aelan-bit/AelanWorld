@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Icaro Steropes
   - Brambo
@@ -159,3 +159,86 @@ Non prega gli dei né li disprezza. Non critica chi sceglie di affidarsi a loro 
 
 **Difetto**
 Ha accesso a magie di divinazione ma si rifiuta di usare quelle che richiedono di consultare esseri superiori. Se ricevesse una visione, la ignorerebbe. Non è cecità — è una scelta deliberata. Il costo è che a volte il gruppo navigherà senza informazioni che erano disponibili, perché la fonte aveva il tipo sbagliato di origine per Icaro.
+
+
+| Livello | Spell                    | Classe      |
+| ------- | ------------------------ | ----------- |
+| Cantrip | Chill Touch              | Mago        |
+| Cantrip | Guidance                 | Artificiere |
+| Cantrip | Mage Hand                | Mago        |
+| Cantrip | Message                  | Mago        |
+| Cantrip | Mind Sliver              | Mago        |
+| Cantrip | Minor Illusion           | Mago        |
+| Cantrip | Mending                  | Mago        |
+| Cantrip | Prestidigitation         | Mago        |
+| Cantrip | Shape Water              | Mago        |
+| Cantrip | Thorn Whip               | Artificiere |
+| Cantrip | True Strike              | Mago        |
+| 1°      | Absorb Elements          | Artificiere |
+| 1°      | Alarm                    | Artificiere |
+| 1°      | Chromatic Orb            | Mago        |
+| 1°      | Comprehend Languages     | Mago        |
+| 1°      | Cure Wounds              | Artificiere |
+| 1°      | Detect Magic             | Artificiere |
+| 1°      | Disguise Self            | Artificiere |
+| 1°      | Distort Value            | Mago        |
+| 1°      | Expeditious Retreat      | Artificiere |
+| 1°      | Faerie Fire              | Artificiere |
+| 1°      | False Life               | Artificiere |
+| 1°      | Feather Fall             | Artificiere |
+| 1°      | Find Familiar            | Mago        |
+| 1°      | Grease                   | Artificiere |
+| 1°      | Identify                 | Artificiere |
+| 1°      | Jump                     | Artificiere |
+| 1°      | Longstrider              | Artificiere |
+| 1°      | Purify Food and Drink    | Artificiere |
+| 1°      | Sanctuary                | Artificiere |
+| 1°      | Shield                   | Mago        |
+| 1°      | Silvery Barbs            | Mago        |
+| 1°      | Tasha's Caustic Brew     | Artificiere |
+| 1°      | Tasha's Hideous Laughter | Mago        |
+| 1°      | Tenser's Floating Disk   | Mago        |
+| 1°      | Unseen Servant           | Mago        |
+| 2°      | Deryan's Helpful Homunc. | Mago        |
+| 2°      | Detect Thoughts          | Mago        |
+| 2°      | Invisibility             | Mago        |
+| 2°      | Misty Step               | Mago        |
+| 2°      | Suggestion               | Mago        |
+| 2°      | Tasha's Mind Whip        | Mago        |
+| 3°      | Catnap                   | Mago        |
+| 3°      | Counterspell             | Mago        |
+| 3°      | Intellect Fortress       | Mago        |
+| 3°      | Phantom Steed            | Mago        |
+| 3°      | Sending                  | Mago        |
+| 3°      | Syluné's Viper           | Mago        |
+| 4°      | Arcane Eye               | Mago        |
+| 4°      | Banishment               | Mago        |
+| 4°      | Conjure Minor Elementals | Mago        |
+| 4°      | Sickening Radiance       | Mago        |
+| 5°      | Animate Objects          | Mago        |
+| 5°      | Rary's Telepathic Bond   | Mago        |
+| 5°      | Synaptic Static          | Mago        |
+| 5°      | Telekinesis              | Mago        |
+| 5°      | Teleportation Circle     | Mago        |
+| 5°      | Wall of Force            | Mago        |
+
+Skill               | Prof | Exp
+--------------------|------|-----
+Arcano              |  ✓   |  ✓
+Furtività           |  ✓   |  ✓
+Inganno             |  ✓   |
+Storia              |  ✓   |
+Indagare            |  ✓   |
+Persuasione         |  ✓   |
+Rapidità di Mano    |  ✓   |
+Acrobazia           |      |
+Addestrare Animali  |      |
+Atletica            |      |
+Intuizione          |      |
+Intimidire          |      |
+Intrattenere        |      |
+Medicina            |      |
+Natura              |      |
+Percezione          |      |
+Religione           |      |
+Sopravvivenza       |      |

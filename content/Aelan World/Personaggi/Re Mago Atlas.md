@@ -1,6 +1,6 @@
 ---
 tags:
-  - personaggi
+  - personaggio
 aliases:
   - Atlas
   - Atlas Jalìas Yanèmin Aulìndar Xiloxìent I
