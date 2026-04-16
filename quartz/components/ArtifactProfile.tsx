@@ -6,7 +6,7 @@ const ArtifactProfile: QuartzComponent = ({ fileData, displayClass }: QuartzComp
   const tags = frontmatter?.tags || []
   
   // Only render for artifact pages
-  if (!tags.includes("artefatti")) {
+  if (!tags.includes("artefatto")) {
     return null
   }
 

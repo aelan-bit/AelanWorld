@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#fazioni"
+  - fazione
 aliases:
   - casato delle ombre
 location: "[[Impero Elfico|Elvendom]]"

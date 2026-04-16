@@ -6,14 +6,14 @@ const SessionHeader: QuartzComponent = ({ fileData, displayClass }: QuartzCompon
   const tags = frontmatter?.tags || []
   
   // Only render for session pages
-  if (!tags.some((tag: string) => tag.includes("sessioni"))) {
+  if (!tags.some((tag: string) => tag.includes("sessione"))) {
     return null
   }
 
   const era = frontmatter?.era
   const campagna = frontmatter?.campagna
-  const isAlba = tags.includes("sessioni/alba")
-  const isCronache = tags.includes("sessioni/cronache")
+  const isAlba = tags.includes("sessione/alba")
+  const isCronache = tags.includes("sessione/cronache")
 
   const campaignType = isAlba ? "Alba di Guerra" : isCronache ? "Cronache di Aelan" : "Sessione"
 

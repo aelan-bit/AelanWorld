@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessioni/alba
+  - sessione/alba
 campagna: "[[Alba di Guerra]]"
 era: "[[Era dei Draghi]]"
 ---

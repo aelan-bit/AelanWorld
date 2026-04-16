@@ -2,6 +2,39 @@
 
 D&D campaign documentation site built with **Quartz v4** that publishes a digital garden for "Aelan World" campaigns. Deployed to GitHub Pages at `aelan-bit.github.io/AelanWorld`.
 
+## MCP Tools Available
+
+Two MCP servers are configured globally in Claude Code:
+
+### 5etools (D&D Rules Knowledge)
+Gives access to all published WotC sourcebooks via local JSON data files.
+
+| Tool | When to use |
+|------|-------------|
+| `search_spell` | Verify spell mechanics, components, damage, class availability |
+| `search_monster` | Get stat blocks for encounters, CR checks, trait lookups |
+| `search_class` | Check class features, spell slots, subclass options |
+| `search_item` | Magic item properties, rarity, attunement |
+| `search_feat` | Feat prerequisites and effects |
+| `search_race` | Racial traits and ability score bonuses |
+
+Use these tools proactively when writing session content or answering rules questions — do not rely on training data alone for rules accuracy.
+
+### Supermemory (Campaign Memory)
+Persistent cross-conversation memory for campaign state. Authenticate once via `/mcp`.
+
+| Tool | When to use |
+|------|-------------|
+| `memory` | Save: NPC introductions, player decisions, major reveals, world-state changes |
+| `recall` | Retrieve: active plot threads, NPC statuses, player character states |
+| `context` | Inject full campaign profile at session start |
+
+**Container**: Always pass `containerTag: "aelan-world"` on every `memory` and `recall` call. All campaign memories are scoped to this project in Supermemory.
+
+**Priority**: The file-based memory system at `memory/` remains primary. Use Supermemory as a supplementary semantic search layer for cross-session continuity.
+
+---
+
 ## Development Commands
 
 ```bash
@@ -144,15 +177,15 @@ content/
 ├── @Dario/                     # User workspace  
 ├── @claude/                    # AI collaboration space
 ├── Aelan World/                # Core world lore
-│   ├── Artefatti/             # tags: artefatti
+│   ├── Artefatti/             # tags: artefatto
 │   ├── Ere/                   # tags: era
-│   ├── Fazioni/               # tags: fazioni
-│   ├── Libri/                 # tags: libri
+│   ├── Fazioni/               # tags: fazione
+│   ├── Libri/                 # tags: libro
 │   ├── Lore/                  # tags: lore
-│   ├── Luoghi/                # tags: luoghi
-│   └── Personaggi/            # tags: personaggi
-├── Alba di Guerra/Sessioni/    # tags: sessioni/alba
-└── Cronache di Aelan/Sessioni/ # tags: sessioni/cronache
+│   ├── Luoghi/                # tags: luogo
+│   └── Personaggi/            # tags: personaggio
+├── Alba di Guerra/Sessioni/    # tags: sessione/alba
+└── Cronache di Aelan/Sessioni/ # tags: sessione/cronache
 ```
 
 ## Publishing Rules

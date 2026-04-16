@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#fazioni"
+  - fazione
 schieramento: indefiniti
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"

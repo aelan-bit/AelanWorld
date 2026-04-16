@@ -6,7 +6,7 @@ const CharacterProfile: QuartzComponent = ({ fileData, displayClass }: QuartzCom
   const tags = frontmatter?.tags || []
   
   // Only render for character pages
-  if (!tags.includes("personaggi")) {
+  if (!tags.includes("personaggio")) {
     return null
   }
 

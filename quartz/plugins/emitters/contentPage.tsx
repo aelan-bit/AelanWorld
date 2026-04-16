@@ -25,17 +25,17 @@ function getLayoutForContent(fileData: QuartzPluginData): any {
   const tags = fileData.frontmatter?.tags || []
   
   // Check for character pages
-  if (tags.includes("personaggi")) {
+  if (tags.includes("personaggio")) {
     return characterPageLayout
   }
-  
+
   // Check for session pages
-  if (tags.some((tag: string) => tag.includes("sessioni"))) {
+  if (tags.some((tag: string) => tag.includes("sessione"))) {
     return sessionPageLayout
   }
-  
+
   // Check for artifact pages
-  if (tags.includes("artefatti")) {
+  if (tags.includes("artefatto")) {
     return artifactPageLayout
   }
   

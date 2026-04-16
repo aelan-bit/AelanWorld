@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#fazioni"
+  - fazione
 schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"

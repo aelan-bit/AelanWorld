@@ -3,7 +3,7 @@ aliases:
   - Chiesa dei 9
   - Culto del Creatore
 tags:
-  - "#fazioni"
+  - fazione
 location: "[[Impero Elfico|Elvendom]]"
 schieramento: alleati
 era: "[[Era del Risorgimento]]"
