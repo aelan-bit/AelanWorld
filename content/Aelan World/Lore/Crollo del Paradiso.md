@@ -11,7 +11,7 @@ campagna: "[[Alba di Guerra]]"
 
 **Agente Involontario:** [[Demiurgo]] manipolato attraverso ferite simulate nella Creazione
 
-**Conseguenze:** Separazione del [[Piano Materiale]], creazione di [[Piani Elementali]]/[[Feywild]]/[[Shadowfell]], nascita del [[Velo]]
+**Conseguenze:** Separazione del [[Piano Materiale]], creazione di [[Piani Elementali]]/[[Selva Fatata]]/[[Coltre Oscura]], nascita del [[Velo]]
 
 **Vittime Collaterali:** [[Hecate]] (perdita del ruolo di psicopompo), successiva creazione e fratricidio degli [[Astanti]]
 
@@ -48,12 +48,12 @@ Dal tessuto del paradiso, il [[Demiurgo]] tessé una casa per le "forze irrequie
 
 Ma la pace non era mai stato l'obiettivo del [[Guardiano dell'Abisso|Custode delle Ossa]].
 
-### Feywild e Shadowfell
+### Selva Fatata e Coltre Oscura
 Nella scia della prima divisione, le ombre si allungarono dove un tempo gli alberi gettavano ombre soffici. La luce non danzava più - appassiva. E ancora il manipolatore era lì ad aspettare: *"L'oscurità cresce. Soffoca le radici, offusca i cieli. Dobbiamo guardarlo svanire?"*
 
-Il [[Demiurgo]] agì di nuovo. Dal cuore del paradiso scolpì il [[Feywild]] - un mondo di fioritura infinita dove la luce non sarebbe mai svanita. Credette di aver ripristinato l'equilibrio.
+Il [[Demiurgo]] agì di nuovo. Dal cuore del paradiso scolpì il [[Selva Fatata]] - un mondo di fioritura infinita dove la luce non sarebbe mai svanita. Credette di aver ripristinato l'equilibrio.
 
-Ma l'equilibrio non era mai stato perso - era stato rubato. Mentre la luce fioriva in un posto, la sua assenza diventava più pesante in un altro. Il mondo non era guarito - si era inclinato. E con mani ormai tremule, il [[Demiurgo]] spezzò il paradiso ancora una volta, tessendo il [[Shadowfell]] come santuario per l'oscurità.
+Ma l'equilibrio non era mai stato perso - era stato rubato. Mentre la luce fioriva in un posto, la sua assenza diventava più pesante in un altro. Il mondo non era guarito - si era inclinato. E con mani ormai tremule, il [[Demiurgo]] spezzò il paradiso ancora una volta, tessendo il [[Coltre Oscura]] come santuario per l'oscurità.
 
 ### Il Risveglio Terribile
 

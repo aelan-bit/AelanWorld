@@ -2,4 +2,4 @@
 tags:
   - luogo
 ---
-Capitale del [[Feywild]]
+Capitale della [[Selva Fatata]]

@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "mcp__supermemory__recall",
-      "mcp__supermemory__memory"
+      "mcp__supermemory__memory",
+      "mcp__5etools__search"
     ]
   }
 }

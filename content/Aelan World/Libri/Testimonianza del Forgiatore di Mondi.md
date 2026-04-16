@@ -46,13 +46,13 @@ Che questa testimonianza serva a preservare la memoria di ciò che accadde nell'
 
 *"'L'oscurità cresce,' sussurrò. 'Soffoca le radici, offusca i cieli. Il mondo sta perdendo la sua radiosità. Dobbiamo guardarlo svanire?'"*
 
-*"E ancora, agii. Dal cuore del paradiso, scolpii un mondo di fioritura infinita, una terra dove la luce non sarebbe mai svanita, dove rami dorati si sarebbero estesi per sempre verso il cielo. Lo chiamai il [[Feywild]], e nella sua alba eterna, credetti di aver ripristinato l'equilibrio."*
+*"E ancora, agii. Dal cuore del paradiso, scolpii un mondo di fioritura infinita, una terra dove la luce non sarebbe mai svanita, dove rami dorati si sarebbero estesi per sempre verso il cielo. Lo chiamai il [[Selva Fatata]], e nella sua alba eterna, credetti di aver ripristinato l'equilibrio."*
 
 *"Ma l'equilibrio non era mai stato perso - era stato rubato. Poiché mentre la luce fioriva in un posto, la sua assenza diventava più pesante in un altro. Le ombre si approfondirono, allungandosi in angoli dove la luce era stata un tempo gentile. Il mondo non era guarito - si era inclinato. E lui era lì, come sempre, con parole solenni e occhi dolenti."*
 
 *"'La luce ha preso troppo,' mormorò. 'Il mondo è accecato, bruciando sotto il suo peso. Devi dare alle ombre il loro dovuto, perché tutto non sia consumato in un giorno infinito.'"*
 
-*"E così, con mani ormai tremule, spezzai il paradiso ancora una volta. Tessii il [[Shadowfell]], un santuario per l'oscurità, credendo, anche allora, di star salvando ciò che rimaneva."*
+*"E così, con mani ormai tremule, spezzai il paradiso ancora una volta. Tessii il [[Coltre Oscura]], un santuario per l'oscurità, credendo, anche allora, di star salvando ciò che rimaneva."*
 
 ### Il Risveglio della Verità
 

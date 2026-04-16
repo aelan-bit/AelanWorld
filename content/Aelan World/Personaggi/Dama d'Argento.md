@@ -9,7 +9,7 @@ fazioni:
 schieramento: indefiniti
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
-location: "[[Shadowfell]]"
+location: "[[Coltre Oscura]]"
 ---
 
 Non è una dea. Non è un demone. È qualcosa di più difficile da nominare: una volontà antica che agisce sul mondo da una distanza abbastanza grande da non essere mai vista direttamente, abbastanza vicina da lasciare tracce in ogni storia che riguarda i Drow.
@@ -34,9 +34,9 @@ La storia della Dama è anche la storia di perché [[Soltras Noctur]] ha smesso 
 
 Questo non significa che la Dama sia inerte o indifferente. Significa che i suoi obiettivi non sono quelli che dichiara.
 
-## La Mano nello Shadowfell
+## La Mano nella Coltre Oscura
 
-La Dama opera attraverso intermediari e organizzazioni, raramente — forse mai — in modo diretto. Il suo territorio naturale sembra essere lo [[Shadowfell]], o qualcosa di adiacente ad esso: un piano dove le promesse si incidono nella sostanza della realtà e dove il prezzo di un accordo non scade mai.
+La Dama opera attraverso intermediari e organizzazioni, raramente — forse mai — in modo diretto. Il suo territorio naturale sembra essere la [[Coltre Oscura]], o qualcosa di adiacente ad esso: un piano dove le promesse si incidono nella sostanza della realtà e dove il prezzo di un accordo non scade mai.
 
 Quando [[Icaro]] Steropes scomparve nella notte dopo la battaglia per la [[Radici dell'Albero|Radice dell'Albero]], fu portato via da un'entità che agiva in suo nome. In cambio, [[Fiona]] tornò a [[Solaris]]. Il prezzo pagato da Icaro per quel servizio — e ciò che la Dama ottenne da lui in cambio — è ancora parte di una storia che non è stata raccontata per intero.
 

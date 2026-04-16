@@ -41,7 +41,7 @@ Cerchi concentrici di archi mistici circondano la camera centrale:
 Attraverso questi archi, [[Hecate]] mantiene la connessione vitale tra gli [[Astanti]] trasformati, permettendo all'[[Yggdrasil|Albero del Mondo]] di esistere come entità unificata nonostante le radici siano sparse attraverso i piani.
 
 ### La Cripta della Memoria
-Mosaici magnifici e terribili decorano le pareti, preservando la verità del [[Crollo del Paradiso]]. Tessere colorate mostrano colombe che volano via (il [[Paradiso]] dissolto), dischi dorati e grigi che si separano ([[Feywild]] e [[Shadowfell]]), e in un angolo, quasi nascosta, la sagoma di un cane fatto di ossa - simbolo dispregiativo del [[Guardiano dell'Abisso|Custode delle Ossa]].
+Mosaici magnifici e terribili decorano le pareti, preservando la verità del [[Crollo del Paradiso]]. Tessere colorate mostrano colombe che volano via (il [[Paradiso]] dissolto), dischi dorati e grigi che si separano ([[Selva Fatata]] e [[Coltre Oscura]]), e in un angolo, quasi nascosta, la sagoma di un cane fatto di ossa - simbolo dispregiativo del [[Guardiano dell'Abisso|Custode delle Ossa]].
 
 ## Meccaniche Dimensionali
 

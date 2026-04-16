@@ -4,6 +4,7 @@ tags:
 aliases:
   - Icaro Steropes
   - Brambo
+  - Boss
 fazioni:
   - "[[Squadra 4]]"
   - "[[Le Ombre]]"
@@ -22,7 +23,7 @@ Icaro Steropes era già sopravvissuto.
 
 ## Le Radici
 
-Icaro crebbe nel quartiere dei changeling di [[Solaris]], nel Feywild, in un'epoca di luce ritrovata. Il Re Mago Atlas aveva fondato un regno sulle rovine dell'odio tra benedetti e maledetti, e la famiglia Steropes era parte integrante di quel tessuto. Suo padre [[Aigeus Steropes]] gestiva un forno attorno al quale si radunava l'intera comunità — dispensava consiglio, mediava liti, prestava denaro senza interessi, e la sera faceva ridere tutti con l'improv-comedy. Sua madre [[Tethys Steropes|Tethys Nereide]] insegnava arti bardiche all'Accademia con la stessa cura con cui si prendeva cura del parco, delle chiese, dei bambini del vicinato. Crescere con due genitori così amati da un'intera comunità aveva i suoi costi: ogni passo di Icaro era osservato, ogni errore silenziosamente misurato.
+Icaro crebbe nel quartiere dei changeling di [[Solaris]], nella Selva Fatata, in un'epoca di luce ritrovata. Il Re Mago Atlas aveva fondato un regno sulle rovine dell'odio tra benedetti e maledetti, e la famiglia Steropes era parte integrante di quel tessuto. Suo padre [[Aigeus Steropes]] gestiva un forno attorno al quale si radunava l'intera comunità — dispensava consiglio, mediava liti, prestava denaro senza interessi, e la sera faceva ridere tutti con l'improv-comedy. Sua madre [[Tethys Steropes|Tethys Nereide]] insegnava arti bardiche all'Accademia con la stessa cura con cui si prendeva cura del parco, delle chiese, dei bambini del vicinato. Crescere con due genitori così amati da un'intera comunità aveva i suoi costi: ogni passo di Icaro era osservato, ogni errore silenziosamente misurato.
 
 Sua sorella [[Fiona]], quattro anni più grande, era la sua bussola. Gli aveva insegnato a leggere, ad allacciarsi le scarpe, a muoversi nel mondo con una naturalezza che lui non avrebbe mai posseduto del tutto. Fiona aveva preso dal padre la socievolezza e dalla madre il dono per la musica, e si muoveva tra le decisioni della vita con una facilità che Icaro osservava con ammirazione mista a malinconia.
 
@@ -64,15 +65,15 @@ A [[Foltard]], [[Logan]] delle Ombre gli disse la verità su Lord [[Bonillikys N
 
 Nella [[Squadra 4]] trovò compagni d'armi e qualcosa di simile a una famiglia acquisita. La rivoluzione fu lunga e costosa, ma alla fine [[Bonillikys Notheroris]] cadde, e [[Foltard]] conobbe per la prima volta le urne di un'elezione libera.
 
-Ma la storia di Icaro era più ingarbugliata di quanto una rivoluzione potesse sciogliere. La [[Naga Guardiana]] rivelò, in una notte di divinazione, che la creatura che lo aveva inseguito attraverso il portale del Maestro Ianus era un [[Arcani|Arcano]] — un essere creato per uno scopo preciso, legato al Feywild — e che la sua deviazione a Foltard non era stato un incidente. Era stata una trama. Gli elfi maledetti — i Drow, gli Shadar-Kai — avevano ragioni antiche per odiare il suo mondo. Ed era proprio per mediare tra loro e i benedetti che [[Sheelam|Laurë]] aveva sacrificato gli Eladrin, dando origine ai changeling. Icaro non era arrivato nel piano materiale per caso. Era stato portato lì.
+Ma la storia di Icaro era più ingarbugliata di quanto una rivoluzione potesse sciogliere. La [[Naga Guardiana]] rivelò, in una notte di divinazione, che la creatura che lo aveva inseguito attraverso il portale del Maestro Ianus era un [[Arcani|Arcano]] — un essere creato per uno scopo preciso, legato alla Selva Fatata — e che la sua deviazione a Foltard non era stato un incidente. Era stata una trama. Gli elfi maledetti — i Drow, gli Shadar-Kai — avevano ragioni antiche per odiare il suo mondo. Ed era proprio per mediare tra loro e i benedetti che [[Sheelam|Laurë]] aveva sacrificato gli Eladrin, dando origine ai changeling. Icaro non era arrivato nel piano materiale per caso. Era stato portato lì.
 
 Da chi. Per quale scopo. Queste domande non avevano ancora risposta.
 
 ## Il Prezzo del Patto
 
-Quando un'entità dello [[Shadowfell]] gli offrì il potere di proteggere [[Fiona]] in cambio di un patto, Icaro accettò senza esitare. Quella, almeno, era una scelta semplice.
+Quando un'entità della [[Coltre Oscura]] gli offrì il potere di proteggere [[Fiona]] in cambio di un patto, Icaro accettò senza esitare. Quella, almeno, era una scelta semplice.
 
-Non altrettanto semplice fu la sera in cui, dopo la battaglia per la [[Radici dell'Albero|Radice dell'Albero]], una figura misteriosa legata alla [[Ordine della Dama d'Argento|Luna Crescente]] si materializzò accanto a lui. Gli aveva già offerto supporto prima dello scontro con [[Delphine]]. Ora gli offriva qualcos'altro: venire con lei, nello Shadowfell. In cambio, [[Fiona]] sarebbe tornata libera a [[Solaris]].
+Non altrettanto semplice fu la sera in cui, dopo la battaglia per la [[Radici dell'Albero|Radice dell'Albero]], una figura misteriosa legata alla [[Ordine della Dama d'Argento|Luna Crescente]] si materializzò accanto a lui. Gli aveva già offerto supporto prima dello scontro con [[Delphine]]. Ora gli offriva qualcos'altro: venire con lei, nella Coltre Oscura. In cambio, [[Fiona]] sarebbe tornata libera a [[Solaris]].
 
 Icaro guardò sua sorella per l'ultima volta — o almeno così parve — e fece l'unica cosa che aveva sempre saputo fare meglio degli altri: scelse senza esitare quando la scelta riguardava qualcun altro.
 
@@ -110,11 +111,11 @@ Lisbeth aveva il vantaggio che nessun agente della Dama poteva contrastare: un t
 
 La [[Squadra Operazioni Speciali]] aprì un passaggio sicuro verso il piano materiale. L'operazione fu rapida. La Dama e i suoi agenti non si accorsero di nulla in tempo reale — e quando Icaro non tornò dalla cellula Shadar-Kai con il manufatto, l'assenza parlò da sola.
 
-Per la squadra, Icaro era Brambo: una delle Ombre che aveva combattuto per liberare Foltard, disperso da anni in circostanze ignote. Fu Lisbeth a raccontare agli altri quello che non sapevano — la sua natura di changeling, il patto con l'entità dello Shadowfell, la prigionia al servizio della [[Dama d'Argento]]. Dieci anni di vuoto condensati in poche frasi, sotto un cielo del piano materiale che Icaro non vedeva da troppo tempo.
+Per la squadra, Icaro era Brambo: una delle Ombre che aveva combattuto per liberare Foltard, disperso da anni in circostanze ignote. Fu Lisbeth a raccontare agli altri quello che non sapevano — la sua natura di changeling, il patto con l'entità della Coltre Oscura, la prigionia al servizio della [[Dama d'Argento]]. Dieci anni di vuoto condensati in poche frasi, sotto un cielo del piano materiale che Icaro non vedeva da troppo tempo.
 
 ## Il Ritorno
 
-Tornato tra le [[Le Ombre]], Icaro non agisce più con loro per necessità. Ha visto troppe entità potenti giocare con la sua vita — il Maestro Ianus e la creatura con gli insetti, [[Bonillikys Notheroris]], la [[Congrega delle Stelle]], la [[Dama d'Argento]], l'entità dello [[Shadowfell]]. In ciascuno di questi incontri era stato una variabile in un piano più grande, mai un soggetto con la sua voce.
+Tornato tra le [[Le Ombre]], Icaro non agisce più con loro per necessità. Ha visto troppe entità potenti giocare con la sua vita — il Maestro Ianus e la creatura con gli insetti, [[Bonillikys Notheroris]], la [[Congrega delle Stelle]], la [[Dama d'Argento]], l'entità della [[Coltre Oscura]]. In ciascuno di questi incontri era stato una variabile in un piano più grande, mai un soggetto con la sua voce.
 
 Adesso che ha riacquistato i suoi poteri e i suoi alleati, vuole fare qualcosa di diverso: proteggere gli altri da questo meccanismo. Non le singole battaglie, non i singoli oppressori — il meccanismo stesso. Forse si potrebbe fare qualcosa per il [[Velo]], per dargli il potere di proteggere i mortali dagli interventi degli antichi. Non sa se sia possibile. Non sa come. Ne parla apertamente, senza piani e senza la pretesa di convincere nessuno. È solo la cosa verso cui sente di dover camminare.
 
@@ -149,7 +150,7 @@ Andò all'Accademia perché lo convinsero i suoi genitori — e lì incontrò il
 Nei momenti di decisione collettiva, ascolta, osserva e aspetta. Non è passività — ritiene genuinamente il giudizio degli altri più affidabile del proprio quando si tratta di stabilire dove andare. Sul campo è il primo a muoversi quando qualcuno è in difficoltà. Sulle grandi scelte, preferisce seguire.
 
 **Difetto**
-Se il gruppo gli chiede esplicitamente di rompere un pareggio, tira la moneta. Preferisce il caso alla propria bussola. La moneta viene dal Feywild, sottratta durante una missione per la Dama non perché fosse un obiettivo, ma perché non ha saputo resistere. Era un ricordo di casa. È il primo oggetto che ha scelto per sé stesso in dieci anni, per capriccio e non per utilità. Che sia finita a fare da arbitro per tutto il resto è una cosa su cui Icaro sorride, senza approfondire.
+Se il gruppo gli chiede esplicitamente di rompere un pareggio, tira la moneta. Preferisce il caso alla propria bussola. La moneta viene dalla Selva Fatata, sottratta durante una missione per la Dama non perché fosse un obiettivo, ma perché non ha saputo resistere. Era un ricordo di casa. È il primo oggetto che ha scelto per sé stesso in dieci anni, per capriccio e non per utilità. Che sia finita a fare da arbitro per tutto il resto è una cosa su cui Icaro sorride, senza approfondire.
 
 ### La causa dei mortali
 Ha incontrato abbastanza entità superiori da capire una cosa: non hanno nulla a che fare con i mortali e non hanno idea dei loro problemi. La visione del drago a cinque teste alla Radice, le rivelazioni della [[Naga Guardiana]] — nessuna di queste profezie lo aveva aiutato a risolvere nulla. Al contrario: lo avevano condizionato a credere che forze più grandi di lui stessero muovendo i fili, che ci fosse un disegno. E quando l'emissario della [[Dama d'Argento]] gli fece la sua proposta, quella stessa logica lo rese disponibile ad accettarla. L'[[Arcani|Arcano]] che lo strappò di casa, la Dama che lo usò per dieci anni — non erano nemici, erano forze che operavano a una scala in cui lui non era nemmeno visibile. Fantastica spesso su un mondo in cui i mortali potessero schermarsi da tutto questo. Non sa se sia possibile, non sa come. Ma il sollievo che gli porta quel pensiero è abbastanza grande da tornarci sopra.

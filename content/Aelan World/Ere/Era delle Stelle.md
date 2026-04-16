@@ -15,4 +15,4 @@ I [[Elfi Puri|Precursori]]
 
 Dal Primo Canto alla Fondazione di Halanin. La creazione, il canto di [[Creatore|Ardanithor]], la venuta degli dei, la caduta del Guardiano, la Prima Guerra tra Fratelli, la creazione del [[Velo]] e la fondazione della città sacra.
 
-L'era si chiude con il [[Crollo del Paradiso]] — l'evento cosmico che frammentò il paradiso originale nel [[Piano Materiale]], nel [[Feywild]], nello [[Shadowfell]] e nei [[Piani Elementali]]. Il periodo di assestamento che ne seguì, durante il quale [[Hecate]] e gli [[Astanti]] custodirono il [[Velo]] nella sua forma primordiale, è documentato nell'[[Era del Crocevia]].
+L'era si chiude con il [[Crollo del Paradiso]] — l'evento cosmico che frammentò il paradiso originale nel [[Piano Materiale]], nella [[Selva Fatata]], nella [[Coltre Oscura]] e nei [[Piani Elementali]]. Il periodo di assestamento che ne seguì, durante il quale [[Hecate]] e gli [[Astanti]] custodirono il [[Velo]] nella sua forma primordiale, è documentato nell'[[Era del Crocevia]].

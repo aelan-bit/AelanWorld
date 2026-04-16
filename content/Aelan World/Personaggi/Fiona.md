@@ -1,7 +1,7 @@
 ---
 tags:
   - personaggio
-location: "[[Feywild]]"
+location: "[[Selva Fatata]]"
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"

@@ -14,7 +14,7 @@ location: "[[Le Piane Desolate]]"
 
 **Ruolo:** Armonizzatore cosmico delle 9 divinità, vittima dell'inganno del [[Guardiano dell'Abisso]], distruttore involontario del [[Paradiso]]
 
-**Azioni Cruciali:** Creò [[Piani Elementali]], [[Feywild]], [[Shadowfell]] credendo di "riparare" squilibri finti causati dal [[Guardiano dell'Abisso]] portando all separazione del [[Piano Materiale]]
+**Azioni Cruciali:** Creò [[Piani Elementali]], [[Selva Fatata]], [[Coltre Oscura]] credendo di "riparare" squilibri finti causati dal [[Guardiano dell'Abisso]] portando all separazione del [[Piano Materiale]]
 
 **Situazione Attuale:** Purifica [[Animite]] corrotta nel [[Tempio del Crocevia]] (partnership con [[Hecate]]),  esponesi ogni volta a potenziali attacchi
 
@@ -46,7 +46,7 @@ Il [[Guardiano dell'Abisso]] orchestrò ferite nel creato - fiumi che rompevano 
 
 E così, per calmare la tempesta che non esisteva, **spezzò il [[Paradiso]]**.
 
-Dal tessuto del paradiso tessé i [[Piani Elementali]] - una casa per forze che non erano mai state scatenate. Quando le ombre si allungarono dalla prima ferita, creò il [[Feywild]] per la luce "troppo intensa". Quando l'equilibrio si inclinò ancora, forgiò il [[Shadowfell]] per le tenebre "troppo pesanti".
+Dal tessuto del paradiso tessé i [[Piani Elementali]] - una casa per forze che non erano mai state scatenate. Quando le ombre si allungarono dalla prima ferita, creò il [[Selva Fatata]] per la luce "troppo intensa". Quando l'equilibrio si inclinò ancora, forgiò il [[Coltre Oscura]] per le tenebre "troppo pesanti".
 
 Ogni "riparazione" era un'altra spaccatura. Ogni atto d'amore era un passo verso il disastro.
 

@@ -112,9 +112,9 @@ Quindi iniziò il suo racconto, indicando il mosaico.
 
 *"E il [[Demiurgo|Demiurgo]], cieco nel suo proposito di servire, ascoltò. Vide i fiumi rompere gli argini, sentì i venti ululare, vide la terra spaccarsi. Per placare quella tempesta apparente... spezzò il Paradiso."*
 
-*"Dal tessuto del paradiso creò i [[Piani Elementali]] - un regno per le forze scatenate. Poi, quando la luce divenne accecante, forgiò il **[[Feywild]]** per custodire la luce eterna. Ma le ombre si allungarono troppo, così creò il **[[Shadowfell]]** per dare spazio alle tenebre."*
+*"Dal tessuto del paradiso creò i [[Piani Elementali]] - un regno per le forze scatenate. Poi, quando la luce divenne accecante, forgiò il **[[Selva Fatata]]** per custodire la luce eterna. Ma le ombre si allungarono troppo, così creò il **[[Coltre Oscura]]** per dare spazio alle tenebre."*
 
-Gli occhi di [[Aevalion Pendragon|Aevalion]] si spostarono sui simboli: le colombe volavano via - il Paradiso che si dissolveva. I dischi dorado e grigio che si separavano - [[Feywild]] e [[Shadowfell]]. E fuoco e acqua turbinavano - i Piani Elementali.
+Gli occhi di [[Aevalion Pendragon|Aevalion]] si spostarono sui simboli: le colombe volavano via - il Paradiso che si dissolveva. I dischi dorado e grigio che si separavano - [[Selva Fatata]] e [[Coltre Oscura]]. E fuoco e acqua turbinavano - i Piani Elementali.
 
 *"Ogni divisione indeboliva il tutto. Il mondo che era stato unito si separò, diventando quello che ora chiamiamo Piano Materiale. Privato dell'energie che il [[Demiurgo|Demiurgo]] aveva separato, il Piano Materiale cominciò a precipitare al di fuori della sfera d'influenza degli dei. E quando il [[Guardiano dell'Abisso|Custode delle Ossa]] pensò di aver vinto e essersi liberato dalle stringhe divine, i Nove  intervennero creando il [[Velo]] - l'ultima barriera per impedire l'allontanamento irrimediabile del piano dalla loro influenza."*
 
