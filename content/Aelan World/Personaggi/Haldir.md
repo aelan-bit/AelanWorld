@@ -2,7 +2,7 @@
 tags:
   - personaggio
 aliases:
-  - Haldir
+  - Haldìr
 fazioni:
   - "[[Squadra SOS]]"
 schieramento: eroi
@@ -16,4 +16,3 @@ Bardo del Valore, [[Elfi Alti|Elfo Alto]]. Lunghi capelli platino, una maschera 
 Haldìr ha sempre un fare nobile e sofisticato — nei gesti, nel modo di parlare, nel modo di stare nello spazio. Conosce le lingue antiche con una padronanza che va oltre la competenza accademica, e sa distinguere il senso preciso di un'iscrizione là dove altri si fermano alla superficie.
 
 Nel combattimento porta il valore che il titolo della sua sottoclasse promette — non solo ispirazione, ma presenza fisica in prima linea.
-
