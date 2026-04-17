@@ -4,11 +4,12 @@ tags:
 aliases:
   - Doc
 fazioni:
-  - "[[Squadra SOS]]"
+  - "[[Squadra Operazioni Speciali]]"
 schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: "[[Eladrin]]"
+sidebar_image: "../../images/Aelan-World/Personaggi/Doc_1.webp"
 ---
 Chierico dell'Inganno, [[Eladrin]] della [[Selva Fatata]]. Il suo vero nome non è noto — nel gruppo lo chiamano tutti Doc, e il soprannome si è guadagnato sul campo: ha capacità mediche reali, non performative.
 

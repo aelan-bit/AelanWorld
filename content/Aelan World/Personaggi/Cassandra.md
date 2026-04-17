@@ -51,7 +51,7 @@ Nella stagione che seguì, Cassandra non era presente — ma la sua mano era ovu
 
 *«Gli appunti di Cassandra indicano una cosa precisa: i Guanti della Vittoria si trovano al Tempio delle Costellazioni, sull'altopiano di Yandor, nei Monti Dimenticati.»*
 *«Cassandra si sbaglia raramente.»*
-— [[Lisbeth Ayndrill]], briefing della [[Squadra SOS]]
+— [[Lisbeth Ayndrill]], briefing della [[Squadra Operazioni Speciali]]
 
 Il Tempio delle Costellazioni non compare su nessuna mappa ufficiale. Non esiste nei registri imperiali. Esiste negli appunti di Cassandra, in tre righe del libro di Filmoore e in qualche leggenda locale che nessuno aveva mai preso sul serio.
 

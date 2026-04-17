@@ -2,11 +2,12 @@
 tags:
   - personaggio
 fazioni:
-  - "[[Squadra SOS]]"
+  - "[[Squadra Operazioni Speciali]]"
 schieramento: eroi
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: "[[Elfi Alti]]"
+sidebar_image: "../../images/Aelan-World/Personaggi/Haldìr_1.webp"
 ---
 
 Bardo del Valore, [[Elfi Alti|Elfo Alto]]. Lunghi capelli platino, una maschera bianca percorsa da ghirigori dorati che non toglie mai, un bastone con motivi ondulati. La ragione della maschera non è nota.

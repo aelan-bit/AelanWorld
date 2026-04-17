@@ -9,8 +9,8 @@ location: "[[Foltard]]"
 Squadra finalista della prova di selezione de [[Le Ombre]] insieme alla [[Squadra 4]]
 
 ## Membri
-[[Maggie]]
-[[Dermot]]
-[[Galsariad]]
-[[Irvan]]
-[[Jabe]]
+- [[Maggie]]
+- [[Dermot]]
+- [[Galsariad]]
+- [[Irvan]]
+- [[Jabe]]

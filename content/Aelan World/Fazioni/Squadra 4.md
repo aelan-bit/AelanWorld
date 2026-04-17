@@ -8,11 +8,11 @@ fazioni:
   - "[[Le Ombre]]"
 ---
 ## Membri
-[[Icaro]]
-[[Bran]]
-[[Midgar]]
-[[Randal]]
-[[Callen]]
-[[Dusk]]
-[[Koi]]
+- [[Icaro]]
+- [[Bran]]
+- [[Midgar]]
+- [[Randal]]
+- [[Callen]]
+- [[Dusk]]
+- [[Koi]]
 
