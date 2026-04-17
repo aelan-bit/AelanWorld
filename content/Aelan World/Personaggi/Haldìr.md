@@ -1,8 +1,6 @@
 ---
 tags:
   - personaggio
-aliases:
-  - Haldìr
 fazioni:
   - "[[Squadra SOS]]"
 schieramento: eroi
