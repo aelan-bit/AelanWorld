@@ -7,4 +7,4 @@ fazioni:
 aliases:
   - Léon Meryl
 ---
-Secondo di [[Gallion]]
+Secondo di [[Galion]]

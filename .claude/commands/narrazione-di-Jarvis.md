@@ -90,7 +90,7 @@ location: "[[Luogo Principale]]"
 ## Note di contesto
 
 - Il gruppo si chiama **Squadra SOS** (Squadra Operazioni Speciali), comandata da [[Black Fox|Lisbeth]]
-- I membri: [[Icaro]] (changeling mago/artificiere), [[Gallion]] (paladino eladrin), [[Haldìr]] (bardo del valore, elfo alto), [[Doc]] (chierico dell'inganno, eladrin)
+- I membri: [[Icaro]] (changeling mago/artificiere), [[Galion]] (paladino eladrin), [[Haldìr]] (bardo del valore, elfo alto), [[Doc]] (chierico dell'inganno, eladrin)
 - La missione attuale: recuperare i Guanti della Vittoria dal [[Tempio delle Costellazioni]] nei Monti Dimenticati
 - File di riferimento per la voce di Jarvis: `content/Aelan World/Personaggi/Jarvis.md`
 - File di riferimento per i comandi: `content/@Dario/comandi-Jarvis.md`

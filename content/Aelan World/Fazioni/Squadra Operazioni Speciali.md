@@ -9,7 +9,7 @@ schieramento: eroi
 ## Membri
 - [[Black Fox|Lisbeth]]
 - [[Doc]]
-- [[Gallion]]
+- [[Galion]]
 - [[Icaro]]
 - [[Lanyárë]]
 - [[Sarge]]
