@@ -13,6 +13,7 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 specie: Changeling
 location: "[[Foltard]]"
+sidebar_image: "../../images/Aelan-World/Personaggi/Icaro_1.webp"
 ---
 
 Non era il peggiore studente dell'[[Accademia delle Arti Arcane]] per mancanza di talento. Era il peggiore perché il suo talento non conosceva le regole che gli insegnavano — veniva da altrove, da più in profondità, da un contatto con la trama che sua madre aveva stabilito ancora prima che lui nascesse per tenerlo in vita. La [[Congrega delle Stelle]] capì questa differenza soltanto quando era troppo tardi.

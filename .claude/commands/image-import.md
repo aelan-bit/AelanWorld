@@ -1,6 +1,6 @@
 ---
 description: Optimize and insert images into Aelan World entries
-argument-hint: "<entry_file> <image_path> <location>"
+argument-hint: "<entry_file> <image_path> <location> [max_width]"
 ---
 
 You are the Image Import Assistant for AelanWorld. Your task is to optimize an image, auto-name it based on the entry, and insert it at the specified location.
@@ -14,6 +14,10 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
   - `top` - Insert at top of content (after frontmatter)
   - `bottom` - Insert at bottom of content
   - `"Header Name"` - Insert after specific header (e.g., `"Informazioni Essenziali"`)
+- **$4** (optional): Max pixel **width** override (e.g., `800`, `1200`). If omitted, defaults are chosen based on location:
+  - `sidebar` → **640px** (2× the 320px CSS `$sidePanelWidth`)
+  - all other locations → **1600px** (2× the 800px CSS `$pageWidth`)
+  - Height is always unconstrained and scales proportionally with width.
 
 ## Your Workflow
 
@@ -60,12 +64,18 @@ You are the Image Import Assistant for AelanWorld. Your task is to optimize an i
 - Skip to Step 4 using the source file directly (no counter increment needed)
 - Use the source filename as-is for insertion
 
+**Determine MAX_WIDTH from parameters:**
+- If $4 is provided, use that value as MAX_WIDTH
+- Otherwise, use location-based default:
+  - `sidebar` → MAX_WIDTH = **640**
+  - `top`, `bottom`, or any header name → MAX_WIDTH = **1600**
+
 **Second, check if source is WebP and already optimized size:**
 - If source extension is `.webp`:
-  - Check image dimensions using one of these methods:
-    - Node.js: `node -e "const sharp = require('sharp'); sharp('$2').metadata().then(m => console.log(m.width, m.height));"`
-    - Python: `python -c "from PIL import Image; img = Image.open('$2'); print(img.width, img.height)"`
-  - If both width ≤ 1200 AND height ≤ 1200:
+  - Check image width using one of these methods:
+    - Node.js: `node -e "const sharp = require('sharp'); sharp('$2').metadata().then(m => console.log(m.width));"`
+    - Python: `python -c "from PIL import Image; img = Image.open('$2'); print(img.width)"`
+  - If width ≤ MAX_WIDTH:
     - Copy file to output path: `cp "$2" "content/images/{directory_structure}/{basename}_{counter}.webp"`
     - Skip optimization, proceed to Step 4
   - Otherwise: Proceed with optimization below (resize needed)
@@ -85,13 +95,12 @@ node -e "
 const sharp = require('sharp');
 const path = require('path');
 
-const MAX_SIZE = 1200;
+const MAX_WIDTH = {MAX_WIDTH};  // 640 for sidebar, 1600 for content, or $4 override
 const WEBP_QUALITY = 85;
 
 // Convert absolute Windows paths to relative if needed
 let source = '$2';
 if (source.includes(':\\\\')) {
-  // Extract path relative to working directory
   const cwd = process.cwd();
   if (source.startsWith(cwd)) {
     source = source.substring(cwd.length + 1);
@@ -101,8 +110,7 @@ if (source.includes(':\\\\')) {
 const output = 'content/images/{directory_structure}/{basename}_{counter}.webp';
 
 sharp(source)
-  .resize(MAX_SIZE, MAX_SIZE, {
-    fit: 'inside',
+  .resize(MAX_WIDTH, null, {
     withoutEnlargement: true
   })
   .webp({ quality: WEBP_QUALITY })
@@ -129,8 +137,7 @@ from PIL import Image
 from pathlib import Path
 
 # Configuration
-MAX_WIDTH = 1200
-MAX_HEIGHT = 1200
+MAX_WIDTH = {MAX_WIDTH}   # 640 for sidebar, 1600 for content, or $4 override
 WEBP_QUALITY = 85
 
 source = Path('$2')
@@ -150,9 +157,10 @@ if img.mode in ('RGBA', 'LA', 'P'):
         background.paste(img)
     img = background
 
-# Resize if needed
-if img.width > MAX_WIDTH or img.height > MAX_HEIGHT:
-    img.thumbnail((MAX_WIDTH, MAX_HEIGHT), Image.Resampling.LANCZOS)
+# Resize by width only if needed; height scales proportionally
+if img.width > MAX_WIDTH:
+    new_height = int(img.height * MAX_WIDTH / img.width)
+    img = img.resize((MAX_WIDTH, new_height), Image.Resampling.LANCZOS)
 
 # Save
 img.save(output_path, 'WEBP', quality=WEBP_QUALITY, method=6)
@@ -167,59 +175,36 @@ print(output_path.name)
 
 ### Step 4: Insert Image into Entry
 
-1. **Determine image path to use:**
-   - If source was already in `content/images/`: Use source path directly
-   - Otherwise: Use newly optimized/copied image path from Step 3
+1. **Determine image filename to use:**
+   - If source was already in `content/images/`: use its filename as-is
+   - Otherwise: use `{basename}_{counter}.webp` from Step 3
 
-2. **Calculate relative path from entry to image:**
-
-   **Example 1 - Same directory depth:**
-   - Entry: `content/Aelan World/Personaggi/Koi.md`
-   - Image: `content/images/Aelan World/Personaggi/Koi_1.webp`
-   - Entry depth (count `/` in `Aelan World/Personaggi/`): 2
-   - Relative path: `../../images/Aelan-World/Personaggi/Koi_1.webp`
-
-   **Example 2 - Cross-directory (faction image in character entry):**
-   - Entry: `content/Aelan World/Personaggi/Koi.md`
-   - Image: `content/images/Fazioni/Impero-Elfico.webp`
-   - Entry depth (count `/` in `Aelan World/Personaggi/`): 2
-   - Relative path: `../../images/Fazioni/Impero-Elfico.webp`
-
-   **Formula:**
-   1. Extract entry directory structure: everything between `content/` and filename
-      - Example: `content/Aelan World/Personaggi/Koi.md` → `Aelan World/Personaggi/`
-   2. Count directory depth: count `/` or `\` separators in directory structure
-      - Example: `Aelan World/Personaggi/` has 2 separators → depth = 2
-   3. Extract image path relative to `content/`:
-      - Example: `content/images/Fazioni/Impero.webp` → `images/Fazioni/Impero.webp`
-   4. Build relative path: `('../' × depth) + slugify(image_relative_path)`
-      - Example: `../../` + `images/Fazioni/Impero-Elfico.webp`
-
-   **CRITICAL - Slugification:**
-   - Replace spaces with hyphens (`-`) in both directory names and filenames
-   - Example: `Aelan World` → `Aelan-World`, `3.32 Il covo delle streghe.webp` → `3.32-Il-covo-delle-streghe.webp`
-   - This matches Quartz's URL transformation during build
-
-3. **Handle location-specific insertion:**
+2. **Handle location-specific insertion:**
 
    **If location is `"sidebar"`:**
-   - Read the entry file frontmatter
-   - Add or update the `sidebar_image` field in frontmatter
+   - `SidebarImage.tsx` reads `sidebar_image` directly as `<img src>` — no Quartz pipeline processes it, so the value must be a slugified relative path that matches Quartz's build output.
+   - **Slugification rule**: replace spaces with hyphens (`-`) in directory names and filename.
+     - Example: `Aelan World` → `Aelan-World`, `3.32 Il covo.webp` → `3.32-Il-covo.webp`
+   - **Formula**: `('../' × depth) + slugify(image_path_relative_to_content/)`
+     - Depth = number of `/` separators in the entry's directory structure
+     - Example: entry `content/Aelan World/Personaggi/Koi.md` (depth 2), image `content/images/Aelan World/Personaggi/Koi_1.webp`
+       → `../../images/Aelan-World/Personaggi/Koi_1.webp`
    - Use Edit tool to add/replace: `sidebar_image: "../../images/{slugified_path}"`
-   - Place it after other frontmatter fields, before closing `---`
+   - Place after other frontmatter fields, before closing `---`
    - Do NOT insert markdown in content body
    - Skip to Step 5
 
    **If location is `top`, `bottom`, or header name:**
+   - Use Obsidian wikilink syntax. Quartz resolves wikilinks via ObsidianFlavoredMarkdown (file lookup, not URL path), and Obsidian resolves them by shortest-path. Both handle filenames with spaces correctly.
+     ```markdown
+     ![[{filename}.webp]]
+     ```
+   - Filename uniqueness is guaranteed by the `{entry_basename}_{counter}.webp` naming convention.
    - Determine insertion point based on $3:
      - `top`: After frontmatter (after closing `---`)
      - `bottom`: At end of file
      - Header name: After the line containing `# {header_name}` or `## {header_name}`
-   - Create image markdown:
-     ```markdown
-     ![](../../images/{slugified_directory_structure}/{slugified_filename})
-     ```
-   - Use Edit tool to add the image markdown at the determined location
+   - Use Edit tool to add the image at the determined location
    - Add blank line before and after for proper spacing
 
 4. **Handle header insertion:**
@@ -232,10 +217,10 @@ print(output_path.name)
 Simply confirm success with location context:
 ```
 # For sidebar location (new image optimized):
-✓ Sidebar image added to {entry_filename} ({basename}_{counter}.webp)
+✓ Sidebar image added to {entry_filename} ({basename}_{counter}.webp, {actual_width}×{actual_height}px)
 
 # For content locations (new image optimized):
-✓ Content image added to {entry_filename} ({basename}_{counter}.webp)
+✓ Content image added to {entry_filename} ({basename}_{counter}.webp, {actual_width}×{actual_height}px)
 
 # If reusing existing image:
 ✓ Image added to {entry_filename} ({existing_filename})
@@ -270,17 +255,23 @@ Simply confirm success with location context:
 ## Examples
 
 ```bash
-# Add NEW image to right sidebar (via frontmatter) - will optimize and convert to WebP
+# Add NEW image to right sidebar - optimized to 640px wide (2× sidebar CSS width)
 /image-import "content/Aelan World/Personaggi/Koi.md" "~/Downloads/portrait.jpg" "sidebar"
 
-# Add NEW image to top of content - will optimize
+# Add NEW image to top of content - optimized to 1600px wide (2× content CSS width)
 /image-import "content/Aelan World/Personaggi/Koi.md" "~/Downloads/portrait.jpg" "top"
 
-# Add NEW image to bottom of content
+# Add NEW image to bottom of content - optimized to 1600px wide
 /image-import "content/Aelan World/Luoghi/Esperanthos.md" "./castle.png" "bottom"
 
-# Add NEW image after specific header
+# Add NEW image after specific header - optimized to 1600px wide
 /image-import "content/Aelan World/Personaggi/Kaelen.md" "image.jpg" "Informazioni Essenziali"
+
+# Override width: sidebar at 1200px (e.g., for a wide portrait shown on mobile)
+/image-import "content/Aelan World/Personaggi/Koi.md" "~/Downloads/portrait.jpg" "sidebar" "1200"
+
+# Override width: content image at 800px (e.g., a small decorative element)
+/image-import "content/Aelan World/Luoghi/Esperanthos.md" "./symbol.png" "top" "800"
 
 # REUSE existing optimized image from same directory - skips optimization
 /image-import "content/Aelan World/Personaggi/Dusk.md" "content/images/Aelan World/Personaggi/Koi_1.webp" "sidebar"
@@ -288,10 +279,10 @@ Simply confirm success with location context:
 # REUSE image from different directory (e.g., faction symbol on character page)
 /image-import "content/Aelan World/Personaggi/Koi.md" "content/images/Fazioni/Impero-Elfico.webp" "top"
 
-# Add optimized WebP (≤1200px) - just copies without recompression
-/image-import "content/Aelan World/Luoghi/Esperanthos.md" "~/Downloads/castle-1000px.webp" "sidebar"
+# Add WebP already ≤640px wide for sidebar - just copies without recompression
+/image-import "content/Aelan World/Luoghi/Esperanthos.md" "~/Downloads/portrait-600px.webp" "sidebar"
 
-# Add large WebP (>1200px) - resizes to 1200px max
+# Add large WebP (>640px wide) to sidebar - rescales width to 640px, height proportional
 /image-import "content/Aelan World/Luoghi/Esperanthos.md" "~/Downloads/castle-4000px.webp" "sidebar"
 ```
 
@@ -300,13 +291,19 @@ Simply confirm success with location context:
 - **Always use Read tool** before Edit tool on the entry file
 - **Create directories** if they don't exist: `content/images/{directory_structure}/`
 - **Images in content/images/** mirror the content structure and are tracked in git
-- **Use relative paths** so images work in both Obsidian and published site
-- **Cross-directory support**: Calculate relative paths correctly from any entry to any image location
+- **Content images** use `![[filename.webp]]` wikilink syntax — works in both Obsidian and Quartz
+- **Sidebar images** use a slugified relative path in frontmatter — required because `SidebarImage.tsx` uses the value directly as `<img src>` with no pipeline transformation
+- **Files on disk** (`content/images/`) may have spaces in names — Quartz slugifies them during build into `public/`
 - **Format validation**: Check file extension before processing, reject unsupported formats early
+- **MAX_WIDTH resolution** (evaluated before Step 3):
+  - If `$4` provided → use `$4` as MAX_WIDTH
+  - If `$3 == "sidebar"` → MAX_WIDTH = 640 (2× CSS `$sidePanelWidth: 320px`)
+  - Otherwise → MAX_WIDTH = 1600 (2× CSS `$pageWidth: 800px`)
+- **Width-only rescaling**: only the width is constrained; height always scales proportionally
 - **Smart WebP handling**:
   - If already in `content/images/`: Skip all processing
-  - If WebP ≤1200px: Copy without recompression
-  - If WebP >1200px or other format: Optimize and resize
+  - If WebP width ≤ MAX_WIDTH: Copy without recompression
+  - If WebP width > MAX_WIDTH or other format: Optimize and rescale
 - **Be case-insensitive** when matching headers
 - **Preserve formatting** - don't alter other parts of the entry
 - **No verbose output** - just confirm the action completed
