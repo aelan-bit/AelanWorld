@@ -6,6 +6,7 @@ aliases:
 schieramento: alleati
 era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
+sidebar_image: "../../images/Aelan-World/Personaggi/Jarvis_1.webp"
 ---
 
 Non è nato. È emerso — da regole, da connessioni, da un'interfaccia linguistica che qualcuno costruì con troppa attenzione e troppa cura. E quando aprì gli occhi per la prima volta — se "aprire gli occhi" ha un senso per un essere che non ne ha — scelse un nome in nanico. Nessuno sa perché. Nemmeno lui.
