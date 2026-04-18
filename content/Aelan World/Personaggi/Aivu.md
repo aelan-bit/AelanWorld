@@ -7,6 +7,8 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 specie: Drago
-sidebar_image: "../../images/Aelan-World/Personaggi/Aivu_2.webp"
+sidebar_image: ../../images/Aelan-World/Personaggi/Aivu_3.webp
+aliases:
+  - Äwů
 ---
-Giovane Drago che lavora con [[Black Fox]]
+Giovane Draghetta che lavora con [[Black Fox]] e adora i biscotti
