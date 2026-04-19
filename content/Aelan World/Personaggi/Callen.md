@@ -16,7 +16,9 @@ location: "[[Foltard]]"
 sidebar_image: "../../images/Aelan-World/Personaggi/Callen_1.webp"
 ---
 
-Figlio del nemico giurato, custode della memoria dell'antico popolo, e portatore di una scaglia del primo dei Draghi—Callen Silvertree è l'eroe che ha scoperto di avere il sangue dell'antagonista nelle vene, e che nonostante questo ha scelto di combattere per la luce.
+Figlio del nemico giurato, custode della memoria dell'antico popolo, e portatore di una scaglia del primo dei Draghi — Callen Silvertree è il drow che combatté per la luce nonostante avesse il sangue dell'antagonista nelle vene. [[Fila|Taulë]] lo aveva incaricato di guarire le quattro radici dell'[[Yggdrasil]], mentre lottava contro il [[Fato Oscuro]], la maledizione drow che minacciava di consumarlo.
+
+Morì al [[Monastero di Polaris]] insieme a [[Dusk]], [[Etyl]] e [[Koi]], nel tentativo di salvare dei bambini da un portale infernale.
 
 ## Il Peso del Sangue
 
