@@ -7,7 +7,7 @@ schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
 specie: Drago
-sidebar_image: ../../images/Aelan-World/Personaggi/Aivu_3.webp
+sidebar_image: ../../images/Aelan-World/Personaggi/Aivu_4.webp
 aliases:
   - Äwů
 ---
