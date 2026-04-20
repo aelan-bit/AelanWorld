@@ -1,0 +1,166 @@
+# --- ALTA PRIORITA' ---
+content/Aelan World/Artefatti/Tatuaggio del Legame.md
+content/Aelan World/Libri/Pergamena di Shaifan.md
+content/Aelan World/Personaggi/Marissa.md
+content/Aelan World/Personaggi/Soltras Noctur.md
+content/Aelan World/Personaggi/Etyl.md
+content/Aelan World/Personaggi/Cassandra.md
+content/Aelan World/Personaggi/Liliana.md
+content/Aelan World/Personaggi/Tote.md
+content/Aelan World/Personaggi/Lucas Eisborn.md
+content/Aelan World/Fazioni/Squadra Operazioni Speciali.md
+content/Aelan World/Lore/Onona.md
+content/Aelan World/Lore/Fato Oscuro.md
+content/Aelan World/Lore/Yggdrasil.md
+content/Aelan World/Lore/Crollo del Paradiso.md
+content/Cronache di Aelan/Sessioni/4.00 Il Briefing.md
+content/Cronache di Aelan/Sessioni/4.01 Villaggio di Khel-Zhoram.md
+content/Alba di Guerra/Sessioni/6-Il Crocevia delle Anime.md
+# --- ARTEFATTI ---
+content/Aelan World/Artefatti/Animite.md
+content/Aelan World/Artefatti/Corona dei Boschi.md
+content/Aelan World/Artefatti/Cubi arcani.md
+content/Aelan World/Artefatti/Cuore di Pietra.md
+content/Aelan World/Artefatti/Dala'Har.md
+content/Aelan World/Artefatti/Frutto dell'Albero.md
+content/Aelan World/Artefatti/Gemma Terrestre.md
+content/Aelan World/Artefatti/Linnaeus.md
+content/Aelan World/Artefatti/Resina di Yggdrasil.md
+content/Aelan World/Artefatti/Stelle del Cuore.md
+content/Aelan World/Artefatti/Vesti di Ameryll.md
+# --- ERE ---
+content/Aelan World/Ere/Era Dimenticata.md
+content/Aelan World/Ere/Era dei Cristalli.md
+content/Aelan World/Ere/Era dei Draghi.md
+content/Aelan World/Ere/Era del Risorgimento.md
+content/Aelan World/Ere/Era della Dominazione.md
+# --- FAZIONI ---
+content/Aelan World/Fazioni/Adoratori della Pietra.md
+content/Aelan World/Fazioni/Assaltatori Arcani.md
+content/Aelan World/Fazioni/Cacciatori di Streghe.md
+content/Aelan World/Fazioni/Casato della Quiete.md
+content/Aelan World/Fazioni/Comandanti di Arbinger.md
+content/Aelan World/Fazioni/Culto del'Antico.md
+content/Aelan World/Fazioni/Dominazione Nanica.md
+content/Aelan World/Fazioni/Emissari della Nuova Via.md
+content/Aelan World/Fazioni/Enclave Riflesso di Luna.md
+content/Aelan World/Fazioni/Falchi.md
+content/Aelan World/Fazioni/Illuminatori Sacri.md
+content/Aelan World/Fazioni/Impero del Metallo.md
+content/Aelan World/Fazioni/Impero Elfico.md
+content/Aelan World/Fazioni/Inquisizione.md
+content/Aelan World/Fazioni/Kaari.md
+content/Aelan World/Fazioni/La Cerchia.md
+content/Aelan World/Fazioni/Lega dei Popoli Liberi.md
+content/Aelan World/Fazioni/Linceo degli Arcani.md
+content/Aelan World/Fazioni/Oltretomba.md
+content/Aelan World/Fazioni/Ordine della Dama d'Argento.md
+content/Aelan World/Fazioni/Tirannia di Foltard.md
+# --- LORE ---
+content/Aelan World/Lore/Arcani.md
+content/Aelan World/Lore/Battaglia del Lago Coronato.md
+content/Aelan World/Lore/Battaglia del Monte Tiogren.md
+content/Aelan World/Lore/Costellazione di Arbinger.md
+content/Aelan World/Lore/Crollo del Paradiso.md
+content/Aelan World/Lore/Duplicanti.md
+content/Aelan World/Lore/Eladrin.md
+content/Aelan World/Lore/Elfi Alti.md
+content/Aelan World/Lore/Elfi Puri.md
+content/Aelan World/Lore/Era del Crocevia.md
+content/Aelan World/Lore/Gioielli di Aelan.md
+content/Aelan World/Lore/La Grande Guerra.md
+content/Aelan World/Lore/La notte delle Tre Lune.md
+content/Aelan World/Lore/La scomparsa degli elfi puri.md
+content/Aelan World/Lore/Magocrazia.md
+content/Aelan World/Lore/Mezzelfi.md
+content/Aelan World/Lore/Ordine della Pietra.md
+content/Aelan World/Lore/Profezia dei Mirys Tel.md
+content/Aelan World/Lore/Profezia di Alvarren.md
+content/Aelan World/Lore/Radici dell'Albero.md
+content/Aelan World/Lore/Ruggito di Pietra.md
+content/Aelan World/Lore/Shìoten.md
+content/Aelan World/Lore/Velo.md
+content/Aelan World/Lore/Volontà Dominata.md
+# --- LUOGHI ---
+content/Aelan World/Luoghi/Aesthyr.md
+content/Aelan World/Luoghi/Biblioteca delle Congiunzioni Astrali.md
+content/Aelan World/Luoghi/Biblioteca di Foltard.md
+content/Aelan World/Luoghi/Bosco di Liut.md
+content/Aelan World/Luoghi/Cascate di Ameryll.md
+content/Aelan World/Luoghi/Chiesa di Sheelam.md
+content/Aelan World/Luoghi/Coltre Oscura.md
+content/Aelan World/Luoghi/Emporio del Viaggiatore.md
+content/Aelan World/Luoghi/Khel-Zhoram.md
+content/Aelan World/Luoghi/Laswitch.md
+content/Aelan World/Luoghi/Locanda dell'Erba.md
+content/Aelan World/Luoghi/Miniere di Khar-Toraz.md
+content/Aelan World/Luoghi/Monte Cremisi.md
+content/Aelan World/Luoghi/Monti Dimenticati.md
+content/Aelan World/Luoghi/Partkon.md
+content/Aelan World/Luoghi/Piano Materiale.md
+content/Aelan World/Luoghi/Selva Fatata.md
+content/Aelan World/Luoghi/Solaris.md
+content/Aelan World/Luoghi/Tempio del Crocevia.md
+content/Aelan World/Luoghi/Tempio delle Costellazioni.md
+content/Aelan World/Luoghi/Tempio di Sheelam.md
+content/Aelan World/Luoghi/Vetta Cremesi.md
+content/Aelan World/Luoghi/Villaggio di Esperanthos.md
+content/Aelan World/Luoghi/Villaggio di Rosvalle.md
+content/Aelan World/Luoghi/Waterheaven.md
+content/Aelan World/Luoghi/Yomeard.md
+# --- PERSONAGGI (mai caricati) ---
+content/Aelan World/Personaggi/Alindor Tindril.md
+content/Aelan World/Personaggi/Althaea Mellerelel.md
+content/Aelan World/Personaggi/Amaranta.md
+content/Aelan World/Personaggi/Arden Valdor.md
+content/Aelan World/Personaggi/Arel Innorin.md
+content/Aelan World/Personaggi/Aspera.md
+content/Aelan World/Personaggi/Barak.md
+content/Aelan World/Personaggi/Birno.md
+content/Aelan World/Personaggi/Bryna Valdor.md
+content/Aelan World/Personaggi/Celara.md
+content/Aelan World/Personaggi/Dalia.md
+content/Aelan World/Personaggi/Dama Serafina.md
+content/Aelan World/Personaggi/Doc.md
+content/Aelan World/Personaggi/Eldran lo storiagrafo.md
+content/Aelan World/Personaggi/Etyl.md
+content/Aelan World/Personaggi/Gallion.md
+content/Aelan World/Personaggi/Generale Thalor Blackwood.md
+content/Aelan World/Personaggi/Haldìr.md
+content/Aelan World/Personaggi/Jarvis.md
+content/Aelan World/Personaggi/Lady Alara.md
+content/Aelan World/Personaggi/Lady Arin Trevalis.md
+content/Aelan World/Personaggi/Lady Elanora.md
+content/Aelan World/Personaggi/Lanyárë.md
+content/Aelan World/Personaggi/Litah.md
+content/Aelan World/Personaggi/Lord Elion Swiftwind.md
+content/Aelan World/Personaggi/Lèon.md
+content/Aelan World/Personaggi/Re Mago Atlas.md
+content/Aelan World/Personaggi/Sarge.md
+content/Aelan World/Personaggi/Sheelam.md
+content/Aelan World/Personaggi/Siderius.md
+content/Aelan World/Personaggi/Sir Matthew Valeris.md
+content/Aelan World/Personaggi/Vex.md
+# --- SESSIONI MAI CARICATE ---
+content/Cronache di Aelan/Sessioni/2.03-Investiganano.md
+content/Cronache di Aelan/Sessioni/2.08-Il ritorno dell'eroe.md
+content/Cronache di Aelan/Sessioni/2.09-Team avventuriere.md
+content/Cronache di Aelan/Sessioni/2.14-Investiganano 2, la vendemmia.md
+content/Cronache di Aelan/Sessioni/2.17-La Strega e l'antico.md
+content/Cronache di Aelan/Sessioni/2.19-Sconcertanti verità.md
+content/Cronache di Aelan/Sessioni/2.20-Tutta la verita' nient'altro che la verita'.md
+content/Cronache di Aelan/Sessioni/2.21-Tra Rose e Pugnali.md
+content/Cronache di Aelan/Sessioni/2.22-Tra Rose e Pugnali, parte 2.md
+content/Cronache di Aelan/Sessioni/2.23-Duello Siciliano.md
+content/Cronache di Aelan/Sessioni/2.24-Scontro nella notte.md
+content/Cronache di Aelan/Sessioni/3.08-L'offerta di Liliana.md
+content/Cronache di Aelan/Sessioni/3.09-Arrivo al villaggio Rose Valle.md
+content/Cronache di Aelan/Sessioni/3.14- Tempio abbandonato di Fila.md
+content/Cronache di Aelan/Sessioni/3.16- Dentro Northbell.md
+content/Cronache di Aelan/Sessioni/3.17- Preparativi per la festa stravagante.md
+content/Cronache di Aelan/Sessioni/3.21- In cammino.md
+content/Cronache di Aelan/Sessioni/3.23- Nel vuoto.md
+content/Cronache di Aelan/Sessioni/3.26-I ghiacci.md
+content/Cronache di Aelan/Sessioni/3.29-Aerun-l'Albero del Vento.md
+content/Cronache di Aelan/Sessioni/3.35 La tana del lupo.md
+content/Cronache di Aelan/Sessioni/1. Rivoluzione a Foltard - riassunto prima stagione.md

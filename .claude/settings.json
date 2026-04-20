@@ -3,7 +3,10 @@
     "allow": [
       "mcp__supermemory__recall",
       "mcp__supermemory__memory",
-      "mcp__5etools__search"
+      "mcp__5etools__search",
+      "mcp__supermemory__fetch-graph-data",
+      "Bash(node scripts/sm-upload.cjs --manifest scripts/sm-manifest-update.txt)",
+      "Bash(node scripts/sm-upload.cjs --manifest scripts/sm-manifest-new.txt)"
     ]
   }
 }

@@ -15,4 +15,4 @@ Costruisci la tua vita senza di me, continua a fare qualunque cosa tu abbia fatt
 
 Dimenticati di me, [[Bran]]. Ti prego di seguire il mio consiglio e di non cercarmi mai più. Addio, [[Bran]]. Sarà come se non ci fossimo mai conosciuti e tu non abbia mai saputo di me.
 
-[[Lucas Eisborn]] Eisborn.
+[[Lucas Eisborn]].

@@ -1,0 +1,8 @@
+content/Aelan World/Personaggi/Bran.md
+content/Aelan World/Personaggi/Callen.md
+content/Aelan World/Personaggi/Dusk.md
+content/Aelan World/Personaggi/Koi.md
+content/Aelan World/Personaggi/Midgar.md
+content/Aelan World/Personaggi/Randal.md
+content/Aelan World/Personaggi/Aivu.md
+content/Aelan World/Personaggi/Black Fox.md
