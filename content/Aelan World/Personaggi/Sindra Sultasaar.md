@@ -10,4 +10,4 @@ location:
 ---
 
 Ha ingannato [[Callen|Callen]] perchè recuperasse un ramo dell'[[Yggdrasil]] per darlo 
-alla [[Ordine della Dama d'Argento]]. Si trova a [[Laswitch]]
+alla [[Ordine della Dama d'Argento]]. Si trova a [[Lastwitch]]

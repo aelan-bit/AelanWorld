@@ -91,7 +91,7 @@ content/Aelan World/Luoghi/Chiesa di Sheelam.md
 content/Aelan World/Luoghi/Coltre Oscura.md
 content/Aelan World/Luoghi/Emporio del Viaggiatore.md
 content/Aelan World/Luoghi/Khel-Zhoram.md
-content/Aelan World/Luoghi/Laswitch.md
+content/Aelan World/Luoghi/Lastwitch.md
 content/Aelan World/Luoghi/Locanda dell'Erba.md
 content/Aelan World/Luoghi/Miniere di Khar-Toraz.md
 content/Aelan World/Luoghi/Monte Cremisi.md
