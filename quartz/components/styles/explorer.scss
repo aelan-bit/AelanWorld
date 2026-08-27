@@ -114,11 +114,18 @@ button.desktop-explorer {
   overflow-y: auto;
   margin-top: 0.5rem;
 
+  // Only the actual scroll container should trap the scroll chain. The nested
+  // folder <ul>s are `overflow: hidden` (i.e. scroll containers that can never
+  // scroll), so `contain` on them swallows the wheel event before it can reach
+  // this one and the sidebar appears frozen.
+  & > ul {
+    overscroll-behavior: contain;
+  }
+
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
 
     & li > a {
       color: var(--dark);
