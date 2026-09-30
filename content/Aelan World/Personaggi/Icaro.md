@@ -162,6 +162,23 @@ Non prega gli dei né li disprezza. Non critica chi sceglie di affidarsi a loro 
 **Difetto**
 Ha accesso a magie di divinazione ma si rifiuta di usare quelle che richiedono di consultare esseri superiori. Se ricevesse una visione, la ignorerebbe. Non è cecità — è una scelta deliberata. Il costo è che a volte il gruppo navigherà senza informazioni che erano disponibili, perché la fonte aveva il tipo sbagliato di origine per Icaro.
 
+---
+
+## Equipaggiamento e Tattiche
+
+### L'Ampolla del Fumo Perenne
+Un'ampolla che, aperta, riversa un fumo nero e denso capace di riempire l'intera sala e di allargarsi finché il tappo resta fuori. Chi ci sta dentro non vede nulla.
+
+È una delle tattiche preferite di Icaro, e non una mossa disperata: cancella il campo di battaglia per tutti, ma non per tutti allo stesso modo. Chi sa muoversi nel buio conserva il proprio posto nel mondo; chi non lo sa lo perde. Icaro la gioca quando il vantaggio di quella differenza vale più della confusione che introduce nel proprio gruppo.
+
+### Il fumo e il richiamo
+La tattica non funziona da sola, e non è mai stata pensata per funzionare da sola. Quando l'ampolla si apre, [[Argo]] emette un richiamo convenuto, e su quel suono i compagni che non vedono capiscono da che parte stiano i nemici. È una carta che il gruppo ha giocato più volte, e il famiglio sa che cosa gli tocca senza bisogno che glielo si dica.
+
+Se Argo viene meno — come accadde nella sala del pozzo delle offerte, quando una palla di fuoco li prese entrambi e il famiglio perse la forma fisica — tocca a Icaro sostituirlo: a voce alta e per via di pensiero, dicendo dove siano i nemici a chi non lo può vedere.
+
+### L'apparato
+Icaro combatte raramente da solo. [[Jarvis]] è i suoi sensi e la sua memoria, [[Argo]] i suoi occhi dove la luce non arriva, [[Cloppete]] le sue gambe. Chi lo guarda vede spesso un mago immobile, e non è immobilità.
+
 
 | Livello | Spell                    | Classe      |
 | ------- | ------------------------ | ----------- |

@@ -17,7 +17,7 @@ _Tre Artigli della Volpe:_
 
 - **Il [[Primo Artiglio]]:** L'identità di questo ufficiale rimane avvolta nel mistero, contribuendo a mantenere un'aura di segretezza attorno alla fazione.
 - **Il [[Isabella|Secondo Artiglio (Isabella Iliathor)]]:** Giovane mezzelfa affidabile e capace, [[Isabella]] ha sostenuto [[Midgar]] nella sua vendetta contro [[Bron]], dimostrando fedeltà e destrezza in campo.
-- **Il [[Vex|Terzo Artiglio (Vex)]]:** Giovane donna umana dal carattere focoso e irascibile, [[Vex]] si distingue per le notevoli capacità combattive. La sua determinazione e il suo talento contribuiscono alla forza della fazione.
+- **Il [[Vex|Terzo Artiglio (Vex)]]:** Alle Ombre si presentò come una giovane donna umana dal carattere focoso e irascibile, che si distingueva per le notevoli capacità combattive. Lavorava sempre da sola, si confrontava esclusivamente con [[Black Fox|Lisbeth]] e portava sempre a termine il compito assegnatole. Sotto il [[Bosco di Liut]] si è rivelata per ciò che è: un drago nero adulto, che i koboldi delle caverne chiamano il **Grande Nero**.
 
 _Sottoufficiali:_
 

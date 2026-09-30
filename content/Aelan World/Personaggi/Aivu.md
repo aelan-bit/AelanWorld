@@ -11,4 +11,4 @@ sidebar_image: ../../images/Aelan-World/Personaggi/Aivu_4.webp
 aliases:
   - Äwů
 ---
-Giovane Draghetta che lavora con [[Black Fox]] e adora i biscotti
+Giovane Draghetta che lavora con [[Black Fox]] e adora i biscotti. In una conversazione con Lisbeth una volta si è riferita ad un misterioso "zio [[Siderius]]".

@@ -10,6 +10,7 @@ schieramento: eroi
 - [[Black Fox|Lisbeth]]
 - [[Doc]]
 - [[Galion]]
+- [[Haldìr]]
 - [[Icaro]]
 - [[Lanyárë]]
 - [[Sarge]]
