@@ -35,3 +35,9 @@ replit.nix
 
 # Claude helpers
 content/CLAUDE.md
+# Catena "cronaca di Alistar": la cartella resta tracciata per i due file della voce,
+# le sottocartelle di lavorazione (una per sessione) no.
+.claude/workspace-cronaca-di-Alistar/*/
+
+# Claude Code: preferenze locali per macchina, non condivise
+.claude/settings.local.json
