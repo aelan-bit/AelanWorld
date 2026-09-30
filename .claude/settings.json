@@ -6,7 +6,12 @@
       "mcp__5etools__search",
       "mcp__supermemory__fetch-graph-data",
       "Bash(node scripts/sm-upload.cjs --manifest scripts/sm-manifest-update.txt)",
-      "Bash(node scripts/sm-upload.cjs --manifest scripts/sm-manifest-new.txt)"
+      "Bash(node scripts/sm-upload.cjs --manifest scripts/sm-manifest-new.txt)",
+      "Bash(node .claude/scripts/sm-upload.cjs \"content/Aelan World/Luoghi/Foltard.md\")",
+      "Bash(sort)",
+      "Read(//c/Users/dario/AppData/Local/Temp/**)",
+      "Bash(node .claude/scripts/sm-upload.cjs --manifest \"C:/Users/dario/AppData/Local/Temp/sm_full_manifest.txt\" --delay 400)",
+      "Bash(node .claude/scripts/sm-upload.cjs \"content/Aelan World/Personaggi/Thorgar il Rosso.md\")"
     ]
   }
 }

@@ -17,6 +17,7 @@ const path = require('path');
 const https = require('https');
 const os = require('os');
 const { execSync } = require('child_process');
+const yaml = require('js-yaml');
 
 // --- Config ---
 const CONTAINER_TAG = 'aelan-world';
@@ -144,33 +145,65 @@ async function uploadFile(filePath, token, index, total) {
     return { ok: false, skipped: true };
   }
 
-  // Extract title: prefer frontmatter title/aliases, fall back to filename
-  let title = path.basename(filePath, '.md');
-  const fmTitle = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-  const fmAlias = content.match(/^aliases:\s*\n\s+-\s+["']?(.+?)["']?/m);
-  if (fmTitle) title = fmTitle[1].trim();
-  else if (fmAlias) title = fmAlias[1].trim();
+  // Parse frontmatter with js-yaml — all fields become metadata automatically
+  let fm = {};
+  const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (fmMatch) {
+    try { fm = yaml.load(fmMatch[1]) || {}; } catch {}
+  }
 
-  const bodyObj = {
-    content,
-    containerTag: CONTAINER_TAG,
-    filepath: filePath.replace(/\\/g, '/'),
-    metadata: { title },
-    entityContext: `Aelan World D&D campaign — ${title}`,
-  };
-  const bodyStr = JSON.stringify(bodyObj);
+  // Derive title: frontmatter title > first alias > filename
+  const title = fm.title || (Array.isArray(fm.aliases) ? fm.aliases[0] : fm.aliases) || path.basename(filePath, '.md');
+
+  // Strip null/undefined values so SM doesn't reject them
+  const rawMeta = { ...fm, title };
+  const metadata = Object.fromEntries(Object.entries(rawMeta).filter(([, v]) => v != null));
+
+  // For session files, add campagna/stagione/sessione from filename
+  const normalizedPath = filePath.replace(/\\/g, '/');
+  if (normalizedPath.includes('/Sessioni/')) {
+    const basename = path.basename(filePath, '.md');
+    const cronMatch = basename.match(/^(\d+)\.(\d+)/);   // "4.00 ..." or "3.20-..."
+    const albaMatch = basename.match(/^(\d+)-/);          // "6-..." Alba di Guerra
+    if (cronMatch) {
+      metadata.campagna = 1;
+      metadata.stagione = parseInt(cronMatch[1], 10);
+      metadata.sessione = parseInt(cronMatch[2], 10);
+    } else if (albaMatch) {
+      metadata.campagna = 2;
+      metadata.stagione = 1;
+      metadata.sessione = parseInt(albaMatch[1], 10);
+    }
+  }
+
+  // Build multipart/form-data body — filename drives the SM document title
+  const boundary = '----SMBoundary' + Date.now().toString(36);
+  const filename = path.basename(filePath); // e.g. "Thorgar il Rosso.md"
+  const fileBuffer = Buffer.from(content, 'utf8');
+
+  const fieldPart = (name, value) =>
+    Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="${name}"\r\n\r\n${value}\r\n`);
+
+  const bodyBuffer = Buffer.concat([
+    fieldPart('containerTags', CONTAINER_TAG),
+    fieldPart('metadata', JSON.stringify(metadata)),
+    fieldPart('entityContext', `Aelan World D&D campaign — ${title}`),
+    Buffer.from(`--${boundary}\r\nContent-Disposition: form-data; name="file"; filename="${filename}"\r\nContent-Type: text/markdown\r\n\r\n`),
+    fileBuffer,
+    Buffer.from(`\r\n--${boundary}--\r\n`),
+  ]);
 
   for (let attempt = 1; attempt <= 3; attempt++) {
     const res = await httpsRequest({
       hostname: 'api.supermemory.ai',
-      path: '/v3/documents',
+      path: '/v3/documents/file',
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${token}`,
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(bodyStr),
+        'Content-Type': `multipart/form-data; boundary=${boundary}`,
+        'Content-Length': bodyBuffer.length,
       },
-    }, bodyStr);
+    }, bodyBuffer);
 
     if (res.status === 200 || res.status === 201) {
       let id = '?';
