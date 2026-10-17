@@ -5,7 +5,7 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 fazioni:
-  - "[[Culto del'Antico]]"
+  - "[[Culto dell'Antico]]"
 ---
 
 Demone che abbiamo liberato nelle prigioni di [[Foltard]] alleata di [[Soltras Noctur]]

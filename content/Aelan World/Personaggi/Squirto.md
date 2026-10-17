@@ -23,7 +23,3 @@ Gli chiesero come si chiamasse e lui non rispose — non per diffidenza verso de
 Lo battezzarono **Squirto**.
 
 Della sua gente conserva due tratti in parti uguali: l'eccitazione per le cianfrusaglie — un rampino improvvisato gli fece brillare gli occhi, e da lì in poi lo lanciò a destra e a manca mentre camminava — e l'assoluta mancanza di attitudine alla congiura. Guidava il gruppo verso il pozzo delle offerte progettando di consegnarlo alla *signora*, e bastò una domanda diretta di [[Galion]] perché non riuscisse a nasconderlo.
-
-Fu stordito e legato in meno di un attimo.
-
-Il gruppo non tornò a slegarlo. Quando poche ore dopo la tregua con Vex fu sancita e cominciò l'indagine nelle caverne, nessuno dei cinque si ricordò di lui.

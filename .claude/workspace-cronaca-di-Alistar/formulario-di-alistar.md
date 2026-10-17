@@ -91,6 +91,14 @@ Di questo non ho testimoni. Ho [l'altra fonte], e [l'altra fonte] non mente.
 [Citazione troncata]… — Qui mi fermo, e con me si fermano le testimonianze:
 nessuno dei presenti ha saputo ripetermi [ciò che manca], e [rifiuto motivato].
 
+Nessuno dei [presenti] [verbo di percezione] [ciò che manca].
+Nessuno dei [presenti] sapeva che [personaggio] [avesse la cosa che la scena rivela].
+    ← LA CONVERSIONE, e vale più di qualunque altro stampo di questa sezione.
+      Un'ignoranza del narratore è apparato; un'ignoranza dei personaggi è un
+      fatto della scena. Ogni volta che stai per scrivere «non si sa», sposta il
+      soggetto dal cronista a chi c'era: la stessa lacuna, raccontata da dentro,
+      e spesso ne esce anche un ritratto
+
 [Domanda che i personaggi si fecero]? La domanda rimase in sospeso, e
 [ciò che fecero invece di rispondere].
 
@@ -104,6 +112,13 @@ raccontata male: [nessuno] me ne ha mai detto una parola, e non ho l'abitudine d
 [ciò che non mi è stato riferito]. Chi cerca qui [ciò che manca], [rimando netto].
     ← per la scena che non esiste, distinta dalla scena dimenticata. La negazione
       preventiva di due spiegazioni facili è ciò che rende il buco un fatto
+
+Qui mi fermo, perché [il dato], e su questo punto [vocativo] occorre che porti la vostra
+attenzione. [Fatto che un personaggio ha vissuto e non ha collegato]. [Fatto che solo il
+cronista possiede, con la fonte in una frase]. [Due parole che rifiutano di scegliere].
+    ← la cornice a due fatti: uno del personaggio, uno del cronista, nessuno dei due
+      collegato all'altro da chi c'era. Chiude su «Forse una coincidenza, forse un
+      presagio» o equivalente: il narratore avvicina e non conclude
 ```
 
 ## Giudizio obliquo

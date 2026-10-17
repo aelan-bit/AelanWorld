@@ -51,13 +51,47 @@ Raccogli gli esiti in `risposte.md`. Sono fonte autorevole quanto gli appunti.
 
 **5. Prima verifica.** `verificatore` in **passaggio 1** sulla sequenza: completezza contro l'inventario, fatti aggiunti, battute, cronologia. Se i rilievi sono sostanziali, rimanda al `cronista` invece di rattoppare: è il punto in cui correggere costa meno.
 
-**6. La voce.** `voce-di-alistar` con la sequenza verificata, il dossier e l'inventario — **non con gli appunti grezzi**: lavora su ciò che è già accertato, così non reintroduce errori risolti a monte. Produce il capitolo.
+**6. La voce.** `voce-di-alistar` con la sequenza verificata, il dossier e l'inventario — **non con gli appunti grezzi**: lavora su ciò che è già accertato, così non reintroduce errori risolti a monte. Produce il capitolo, con dei segnaposto `<!-- JARVIS … -->` dove un blocco del registro ci sta.
+
+**6bis. Il registro.** `voce-di-jarvis` sul capitolo e sulla sequenza. Sostituisce i segnaposto con i blocchi e non tocca nient'altro.
+
+Serve un agente separato perché la voce di Jarvis ha regole proprie — misura sempre, non si rifiuta mai di calcolare, non fa aforismi — e chi scrive Alistar gli presta sistematicamente la propria: su cinque capitoli l'autore ha riscritto o tagliato ogni singolo blocco prodotto dentro `voce-di-alistar`. **I subagenti non possono invocarsi fra loro**, quindi questo passaggio lo lanci tu, come tutti gli altri.
 
 **7. Seconda verifica.** `verificatore` in **passaggio 2**, confrontando capitolo e sequenza. L'insieme dei fatti dev'essere identico: percezioni, gesti e commento del narratore sono aggiunte lecite, eventi e numeri no. Qui si intercettano anche le citazioni alterate, i riempimenti riusati e le frasi prive di senso compiuto.
 
 **Se il verificatore trova frasi che non significano nulla, la bozza torna a `voce-di-alistar` con i suoi rilievi.** Non rattopparle tu: le toppe altrui in un testo di voce si vedono, e chi ha scritto la frase è l'unico che sappia che cosa voleva dire. Rilancia l'agente con il rapporto e i passaggi da rifare.
 
+**7bis. La tua revisione.** Scrivi `capitolo-revisione.md` accanto alla bozza, **senza toccare `capitolo-bozza.md`**.
+
+Serve perché il verificatore controlla fatti e regole, e questo lo fa meglio di te; quello che non può fare è la passata di **registro e leggibilità**, che richiede giudizio. L'autore si aspetta di ricevere una revisione, non una bozza di agente: su sei capitoli ha sempre lavorato sulla tua.
+
+**La bozza dell'agente non si tocca mai.** Né per applicare i rilievi del verificatore, né per correggere un refuso. È il prodotto puro della catena, e serve a misurare quanto gli agenti si avvicinano da soli al risultato voluto: se ci metti le mani, quel capitolo diventa inutilizzabile per capire come migliorarli. Nella 4.12 è successo, e la cartella porta un `NOTA-contaminazione.md` che lo dichiara. Vale anche per i **rilanci**: quando rimandi la bozza a `voce-di-alistar`, portagli **soltanto** i rilievi del verificatore e le correzioni di fatto dell'autore, mai le tue preferenze editoriali.
+
+**Che cosa guardare, in ordine.**
+
+**Le tre prove di lingua** che stanno in `agents/voce-di-alistar.md`: la prova della rilettura, il verbo invece del sostantivo astratto, il tetto di due *che* per periodo. Applicale tu stesso al testo finito, perché l'agente le applica male sulle proprie frasi.
+
+**Il registro, e sono due.** Il capitolo ha due lingue che si alternano, e vanno lette separatamente perché l'errore più frequente è applicare a una la misura dell'altra.
+
+**Dove compare il narratore, la prova è Manzoni.** Un uomo che ha delle carte, cita le proprie fonti, si rivolge al lettore con un vocativo, giudica di sbieco invece di sentenziare, e dichiara una lacuna anziché colmarla. Qui il periodo può essere ampio e il tono ironico. Il difetto da cercare è l'opposto: un narratore che diventa **revisore di sé stesso** — che racconta la propria procedura invece di consegnare un fatto.
+
+**Dove corre la scena, la prova è Calvino.** Materia fantastica raccontata con periodi corti e chiari, da chi non si stupisce di niente. Nessuna nominalizzazione, nessuna relativa accumulata, nessun aggettivo di atmosfera. Il difetto da cercare è l'ampiezza manzoniana finita in mezzo all'azione: una subordinata incassata mentre qualcuno sta cadendo da un drago.
+
+**I due scambi sbagliati, in concreto.** L'apparato del cronista portato dentro la scena — ed è il difetto che la 4.14 ha prodotto diciassette volte. E la secchezza della scena portata nella cornice, che rende Alistar un notaio: se un suo intervento potrebbe averlo scritto un cancelliere, hai sbagliato lì.
+
+**E sotto entrambi, un difetto solo: la sintassi degli appunti passata in prosa senza essere alzata.** L'autore li scrive in fretta, in prima persona, al tavolo, e l'agente li copia credendo di conservare un fatto. Cerca gli italiani che l'autore userebbe parlando e Alistar no: *era messa male*, *alla bene e meglio*, *orroroso*, *a discapito della situazione*, *molto preoccupato*, *zompettare*. **Ma non toccare una sillaba di ciò che sta fra virgolette**, grafie comprese: lì il parlato è il fatto, e il registro basso è di chi parla.
+
+**Il conto dell'apparato.** Contale. Il tetto è due, e l'agente ne produce da quattro a diciassette perché il tetto e l'obbligo di marcare i buchi si contraddicono. La conversione risolve quasi tutto: **sposta il soggetto dal cronista ai personaggi.** *«Non si sa chi fece la nuvola»* è apparato; *«nessuno dei quattro vide chi l'avesse chiamata»* è un fatto della scena.
+
+**Le chiuse di sezione.** Lo stampo prevede che ogni sezione chiuda su una riga che riformula senza aggiungere. Cinque di fila diventano un tamburo: togli quelle che ripetono il capoverso sopra o che reggono solo per simmetria.
+
+**I tuoi due riflessi, che conosci e che ti tornano comunque.** Trasformi l'omissione in figura retorica, dove l'autore racconta la cosa. E scrivi procedura dove lui scrive pathos. Cercali per nome.
+
+**E un errore che hai già commesso riparando:** non aggiungere una dichiarazione di fonte per sistemare un problema di registro. È il modo in cui l'apparato cresce di nascosto.
+
 **8. Seconda fermata: l'autore.** Sottoponigli il capitolo. È lui l'autorità sulla voce, e le sue correzioni valgono più di qualunque controllo automatico. Le revisioni le applichi tu nella conversazione: non serve ripassare dagli agenti per ogni virgola.
+
+Quando l'autore consegna `human-finetune.md`, **fai il diff contro la tua revisione** e portagli: che cosa ha cambiato e perché secondo te, l'elenco dei refusi, e le frasi incomplete o ambigue da far confermare prima di correggerle.
 
 **9. Archiviazione.** All'approvazione, chiedi conferma e archivia la coppia: gli appunti prendono il suffisso `-private`, il capitolo perde il `-bozza`. Poi aggiorna i due file della voce — le espressioni riuscite vanno in `.claude/workspace-cronaca-di-Alistar/formule-spese.md` se valgono solo per quella scena, in `.claude/workspace-cronaca-di-Alistar/formulario-di-alistar.md` come stampo con segnaposto se reggono riempite diversamente.
 
@@ -70,6 +104,9 @@ Quando un capitolo riesce particolarmente bene, invoca `analista-di-stile` per d
 | File | Che cosa contiene | Chi lo usa |
 | --- | --- | --- |
 | `.claude/agents/voce-di-alistar.md` | la voce, nel prompt | l'agente che scrive |
+| `.claude/agents/voce-di-jarvis.md` | la voce del registro, nel prompt | l'agente che scrive i blocchi, chi verifica |
+| `.claude/workspace-cronaca-di-Alistar/classificazione-correzioni.md` | le correzioni dell'autore sui primi cinque capitoli, per categoria | chi aggiorna gli agenti |
+| `.claude/workspace-cronaca-di-Alistar/regole-ricavate.md` | le regole operative che ne derivano | chi aggiorna gli agenti |
 | `.claude/workspace-cronaca-di-Alistar/formulario-di-alistar.md` | gli stampi sintattici con i segnaposto | chi scrive, chi verifica |
 | `.claude/workspace-cronaca-di-Alistar/formule-spese.md` | i riempimenti già usati, da non ripetere | chi scrive, chi verifica |
 | `.claude/analisi-stile/` | le analisi dei capitoli approvati | chi aggiorna la voce |

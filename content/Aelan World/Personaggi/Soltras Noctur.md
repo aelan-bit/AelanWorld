@@ -5,7 +5,7 @@ era: "[[Era dei Tumulti]]"
 campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 fazioni:
-  - "[[Culto del'Antico]]"
+  - "[[Culto dell'Antico]]"
   - "[[Tirannia di Foltard]]"
   - "[[Ordine della Dama d'Argento]]"
 aliases:
@@ -29,7 +29,7 @@ La rivelazione della loro parentela non fu un momento di riconciliazione, ma di 
 ## Il Maestro dei Mille Volti
 
 ### L'Architetto Nell'Ombra
-Soltras ha costruito la sua supremazia attraverso un'arte sopraffina dell'inganno. Come nobile di [[Foltard]], frequentava salotti e manteneva una reputazione impeccabile. Come **"il Profeta"**, guidava il [[Culto del'Antico]] attraverso visioni mistiche e promesse di potere antico. Nell'[[Ordine della Dama d'Argento]], si muoveva come alleato fidato prima di diventare il loro bersaglio più ricercato.
+Soltras ha costruito la sua supremazia attraverso un'arte sopraffina dell'inganno. Come nobile di [[Foltard]], frequentava salotti e manteneva una reputazione impeccabile. Come **"il Profeta"**, guidava il [[Culto dell'Antico]] attraverso visioni mistiche e promesse di potere antico. Nell'[[Ordine della Dama d'Argento]], si muoveva come alleato fidato prima di diventare il loro bersaglio più ricercato.
 
 Ogni identità era perfettamente costruita, ogni bugia tessuta con la precisione di un artigiano. Non infiltrava semplicemente le organizzazioni - **le creava** per i suoi scopi, plasmando i destini di centinaia di persone come un dio che gioca con marionette di carne.
 
@@ -41,7 +41,7 @@ I **corvi trasformati** che volavano sopra le loro teste non erano semplici ucce
 ## La Rete di Complicità
 
 ### Gli Alleati Inconsapevoli
-**[[Salgard]]** operava nei regni onirici, tessendo inganni nei sogni dove la realtà si piega alla volontà, credendo di servire una causa giusta. **[[Delphine]]** si considerava la leader del [[Culto del'Antico]], ignara di essere solo il volto pubblico che permetteva al vero "Profeta" di rimanere nell'ombra mitica.
+**[[Salgard]]** operava nei regni onirici, tessendo inganni nei sogni dove la realtà si piega alla volontà, credendo di servire una causa giusta. **[[Delphine]]** si considerava la leader del [[Culto dell'Antico]], ignara di essere solo il volto pubblico che permetteva al vero "Profeta" di rimanere nell'ombra mitica.
 
 **[[Mago Kelek]]** credeva di essere un partner nella produzione di [[Animite]], non uno strumento da usare e scartare. Anche la **[[Congrega delle Stelle]]** pensava di collaborare su un piano di parità, mentre i loro esperimenti di trasmutazione della carne non facevano che alimentare piani che non avrebbero mai potuto comprendere.
 

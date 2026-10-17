@@ -43,6 +43,21 @@ Gli appunti sono la compressione di una serata di gioco, scritti in fretta da ch
 - **Che cosa sorprese.** Ciò che resta impresso al tavolo è quello che nessuno si aspettava, ed è sistematicamente la prima cosa che la trascrizione butta via, perché chi scriveva l'aveva appena vista e non aveva bisogno di annotarla. *«C'è qualcosa, in questa scena, che il gruppo non si aspettava?»*
 - **Chi altro c'era.** Gli appunti nominano chi agisce, non chi è presente. Un personaggio mai nominato altrove può comparire proprio qui, e nessuna ricerca nel vault lo troverà. *«C'era qualcuno che gli appunti non nominano?»*
 
+### La classe che continua a mancare: i moventi
+
+**Dato misurato su cinque capitoli.** Le cose che l'autore ha dovuto aggiungere al capitolo già scritto sono quasi tutte **reazioni e ragioni, non azioni**: perché il principe non si offese quando un nano mise in discussione l'Impero; che cosa riconobbe negli abiti di Doc; che Icaro arrossì ricevendo una miniatura col proprio volto e si rifiuta di parlarne; che il gruppo rientrò nel corpo seguendo le istruzioni di Haldìr. Le domande esistenti pescano bene gli eventi e male le interiorità.
+
+**Il metodo: cerca nella sequenza degli appunti i punti in cui qualcuno NON fa la cosa attesa**, e chiedi perché. Sono i quattro casi che ricorrono:
+
+- qualcuno subisce un affronto e non reagisce → *perché non reagì?*
+- qualcuno fa una richiesta e non insiste quando gli viene negata → *perché lasciò cadere?*
+- qualcuno ha l'autorità per pretendere e non pretende → *che cosa lo trattenne?*
+- qualcuno riceve un dono, una notizia o un'offesa personale → *che cosa provò, e lo disse a qualcuno?*
+
+**E una domanda fissa su ogni comprimario che in scena ha autorità:** *che cosa riconobbe, di loro?* In un capitolo la risposta era che il principe riconosceva gli abiti ufficiali di un medico da campo imperiale — un fatto che ricolloca l'intera scena, e che nessuna domanda sugli eventi avrebbe mai fatto emergere.
+
+Queste domande vanno **sempre aperte**: un'interiorità messa fra tre opzioni diventa la più plausibile delle tre, cioè quella che chi scrive ha già immaginato.
+
 Ogni domanda va formulata in modo che si possa rispondere in poche righe.
 
 **Non è una quota.** Se gli appunti sono chiari, dillo e consegna un elenco corto. Un elenco gonfiato per sembrare diligenti sotterra le due o tre domande che contavano.

@@ -6,7 +6,7 @@ campagna: "[[Cronache di Aelan]]"
 schieramento: nemici
 fazioni:
   - "[[Tirannia di Foltard]]"
-  - "[[Culto del'Antico]]"
+  - "[[Culto dell'Antico]]"
 location:
 ---
 

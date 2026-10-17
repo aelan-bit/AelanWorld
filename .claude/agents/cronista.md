@@ -29,6 +29,10 @@ Timeline unica: ogni scena una volta sola, nessuna ripetizione. Gli appunti spes
 
 **Un dettaglio permanente va dove serve, non dove l'appunto lo registra.** Un travestimento indossato dall'arrivo in città e trascritto solo alla scena della locanda va anticipato: il lettore deve potersi figurare il personaggio nella forma giusta dalla prima riga. Vale per gli stati che durano — travestimenti, ferite, oggetti indossati, compagnie — non per gli eventi, che restano dove sono accaduti.
 
+**L'ordine è causale.** La ragione precede l'azione che spiega: non collocare una decisione prima di ciò che l'ha resa necessaria, né un ordine prima dell'informazione che l'ha provocato. Questo vale in particolare per **i fatti che vengono dalle risposte e non dagli appunti**: l'autore li racconta nell'ordine in cui se li ricorda, non in quello in cui sono accaduti, e la tentazione è di appenderli in coda alla scena in cui li ha nominati. Vanno dove la catena causale li richiede.
+
+Un errore reale: una resurrezione raccontata dall'autore insieme alla trattativa era stata collocata nella prima delle due persuasioni, mentre apparteneva alla seconda — che si svolgeva in un altro luogo e con l'antagonista in un'altra forma. Tutta la parte centrale del capitolo era da rifare. Quando un fatto arriva dalle risposte, **chiediti che cosa lo rende possibile e che cosa esso rende possibile**, e collocalo fra le due cose.
+
 ## Consegna
 
 Il file della sequenza, in italiano, nella cartella indicata. In coda: che cosa hai lasciato fuori dall'inventario e perché, quali buchi restano aperti, e quali dubbi nuovi sono emersi mentre ricostruivi.

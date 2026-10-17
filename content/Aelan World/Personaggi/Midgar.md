@@ -19,6 +19,12 @@ Midgar era una persona dalle origini misteriose — tormentato da sogni ricorren
 
 Era un *Onona*: due anime nate da un'unica sostanza divina, divise in corpi separati. La sua anima gemella era [[Aerie]]. [[Ymir la Guida]] rivelò attraverso la scrittura di [[Aesthyr]] che se entrambi fossero morti, l'anima avrebbe lasciato il mondo per sempre.
 
+## La prigionia
+
+Fu tenuto prigioniero da [[Zoltan]], il consigliere mastro artificiere di [[Bonillikys Notheroris]], per un periodo, fino a quando [[Le Ombre]] non andarono a riprenderselo.
+
+Di quella prigionia Midgar raccontò ai compagni, ed è per quei racconti che Zoltan non è, per chi della Squadra lo ha ascoltato, un nome di archivio. [[Icaro]] lo ha ripreso più di una volta: una prima, davanti a un costrutto con il volto di [[Fiona]], e di nuovo quando le uova di [[Vex]] vennero sottratte dal nido sotto il [[Bosco di Liut]].
+
 ## La Morte
 
 [[Soltras Noctur]] lo disintegrò al Monastero di Shaifan. Il corpo si dissolse in polvere davanti ai suoi compagni.

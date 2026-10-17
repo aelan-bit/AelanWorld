@@ -13,7 +13,7 @@ campagna: "[[Cronache di Aelan]]"
 
 # Informazioni Essenziali
 
-**Ruolo:** Primo generale dell'[[Artalelta]], la flotta di aerofori dell'Impero elfico, e Primo Artiglio.
+**Ruolo:** Primo generale dell'[[Artalelta]], la flotta di aerofori dell'Impero elfico.
 **Parentela:** Primogenito dell'[[Imperatrice Shi'larra Alàntar|Imperatrice Shi'larra Alàntar]], la *bambina di [[Lumenor]]*.
 **Sottoposti:** il luogotenente [[Sernovil|Maeglaer Sernuvil]], che parla per lui.
 **Alleati:** [[Thornil Shadowblade|Ombra Tagliente]], Alto Inquisitore della Compagnia della Protezione, con cui pianifica le campagne — e superiore del caduto [[Koi]].

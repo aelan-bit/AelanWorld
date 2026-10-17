@@ -10,7 +10,7 @@ Indizi dettagliati in [[Oggetti leggendari e creature mitologiche]]
 
 A [[Northbell]] in possesso [[Lord Faust]]
 ## Anello  dell'Indomabile
-## Guanti  della vittoria
+## Guanti della vittoria
 ## Collana  della Supremazia
 Nello scontro con [[Bonillikys Notheroris|Bonillikis]] una collana che indossava è scomparsa improvvisamente dopo lo scontro
 ## Bracciale della Fortezza
