@@ -6,7 +6,5 @@ fazioni:
 schieramento: alleati
 campagna: "[[Cronache di Aelan]]"
 era: "[[Era dei Tumulti]]"
-aliases:
-  - Eithil
 ---
 Drago che accompagna [[Callen]]

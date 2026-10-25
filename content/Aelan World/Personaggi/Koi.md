@@ -14,7 +14,7 @@ campagna: "[[Cronache di Aelan]]"
 specie: Elfo
 sidebar_image: "../../images/Aelan-World/Personaggi/Koi_1.webp"
 ---
-Morì al [[Monastero di Polaris]] insieme a [[Callen]], [[Dusk]] e [[Etyl]], nel tentativo di salvare dei bambini da un portale infernale. Fu lui ad aprire involontariamente l'accesso al [[Monastero di Shaifan]] dove [[Soltras Noctur]] raggiunse la [[Pergamena di Shaifan]] — e dove [[Midgar]] perse la vita.
+Morì al [[Monastero di Polaris]] insieme a [[Callen]], [[Dusk]] e [[Ithil]], nel tentativo di salvare dei bambini da un portale infernale. Fu lui ad aprire involontariamente l'accesso al [[Monastero di Shaifan]] dove [[Soltras Noctur]] raggiunse la [[Pergamena di Shaifan]] — e dove [[Midgar]] perse la vita.
 
 ---
 

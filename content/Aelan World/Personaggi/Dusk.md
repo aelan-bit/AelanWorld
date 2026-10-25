@@ -11,7 +11,7 @@ campagna: "[[Cronache di Aelan]]"
 specie: Umano
 ---
 
-Morì al [[Monastero di Polaris]] insieme a [[Callen]], [[Etyl]] e [[Koi]], nel tentativo di salvare dei bambini da un portale infernale. Le sue ultime parole, rivolte a [[Liliana]] prima che fuggisse, furono: *"Dov'è la tua arroganza?"*
+Morì al [[Monastero di Polaris]] insieme a [[Callen]], [[Ithil]] e [[Koi]], nel tentativo di salvare dei bambini da un portale infernale. Le sue ultime parole, rivolte a [[Liliana]] prima che fuggisse, furono: *"Dov'è la tua arroganza?"*
 
 ---
 
@@ -41,7 +41,7 @@ Al [[Monastero di Polaris]], percorrendo un corridoio al primo piano, Dusk si fe
 
 La voce di Liliana tornò. La figura che si piegava verso un bambino nel buio. Lui era quel bambino. Callen lo trovò immobile nel corridoio e lo riportò al presente.
 
-Poco dopo, nella cripta sommersa dalla luce azzurra del portale infernale, affrontò Liliana faccia a faccia. Lei disse di essere delusa — lui aveva scelto divinità ignote dopo tutto quello che aveva fatto per lui. Dusk la intrattenne guadagnando secondi. Callen lanciò *Silence* attorno a lei. Dusk si teletrasportò accanto ad [[Aerie]] e insieme a [[Etyl]] sollevò il diadema [[Dala'Har]] dalla sua testa. Quando il metallo cedette, Etyl lo afferrò con le zanne e si gettò nel lago di lava — il diadema si dissolse.
+Poco dopo, nella cripta sommersa dalla luce azzurra del portale infernale, affrontò Liliana faccia a faccia. Lei disse di essere delusa — lui aveva scelto divinità ignote dopo tutto quello che aveva fatto per lui. Dusk la intrattenne guadagnando secondi. Callen lanciò *Silence* attorno a lei. Dusk si teletrasportò accanto ad [[Aerie]] e insieme a [[Ithil]] sollevò il diadema [[Dala'Har]] dalla sua testa. Quando il metallo cedette, Ithil lo afferrò con le zanne e si gettò nel lago di lava — il diadema si dissolse.
 
 Liliana aprì un portale e portò via Aerie come ultima ritorsione. Le sue parole finali echeggiarono nell'aria: *"Goditi la tua vittoria. Fino a che non te ne pentirai."*
 
